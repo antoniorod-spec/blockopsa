@@ -82,11 +82,9 @@ if (WP_DIAGNOSTICO) {
  * ============================================================ */
 if (WP_DIAGNOSTICO) {
   define('WP_CACHE', false);
-  define('CONCATENATE_SCRIPTS', false);
   define('SCRIPT_DEBUG', true);
 } else {
   define('WP_CACHE', true);
-  define('CONCATENATE_SCRIPTS', true);
   define('SCRIPT_DEBUG', false);
 }
 
