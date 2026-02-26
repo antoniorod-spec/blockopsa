@@ -37,9 +37,9 @@
 </IfModule>
 # End GzipofBreezeWPCache
 #Expires headers configuration added by BREEZE WP CACHE plugin
-<IfModule mod_headers.c>
-   Header set Cache-Control "public, max-age=2592000, s-maxage=2592000"
-</IfModule>
+# NOTA: Se eliminó el Cache-Control global (30 días) que aplicaba a TODO, incluidos 404.
+# Eso hacía que los navegadores cachearan respuestas 404 de CSS/JS durante 30 días.
+# mod_expires (abajo) ya define tiempos correctos por tipo de archivo.
 <IfModule mod_env.c>
    SetEnv BREEZE_BROWSER_CACHE_ON 1
 </IfModule>
