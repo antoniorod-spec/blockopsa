@@ -1,0 +1,18 @@
+User-agent: *
+
+#Bloqueos del blog
+Disallow: /blog/wp-login.php
+Disallow: /blog/search/
+Disallow: /blog/?s=
+Disallow: /blog/page/*?s=
+Allow: /blog/page
+Allow: /blog/category/*/page
+Disallow: /blog/*?share=
+Disallow: /blog/category/*
+Disallow: /blog/*/feed
+Disallow: /blog/author/*
+Disallow: /blog/tag/*
+Disallow: /blog/cosejos/*
+Disallow: /blog/galleries/
+Disallow: /blog/gallery/
+Disallow: /?ob=open-bridge/events

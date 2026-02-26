@@ -1,0 +1,1421 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-25 12:47:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: menu/configuration.php:618
+msgid "Enable \"Try it out\" buttons in add new plugin screen."
+msgstr "在添加新插件界面启用“试一试”按钮。"
+
+#: menu/configuration.php:610
+msgid "Clicking on it will spin up a new WordPress instance with the respective plugin installed. Powered by %s."
+msgstr "点击它将启动一个带有相应插件安装的新WordPress实例。由%s提供支持。"
+
+#: menu/configuration.php:608
+msgid "add new plugins"
+msgstr "添加新插件"
+
+#: menu/configuration.php:608
+msgid "If this feature is activated, you’ll see “Try it out”-buttons on the screen where you can"
+msgstr "如果启用了此功能，您将在屏幕上看到“试一试”按钮，您可以"
+
+#: menu/configuration.php:604
+msgid "Test new plugins before installing:"
+msgstr "在安装前测试新插件："
+
+#: menu/modal.php:226
+msgid "click here to select multiple sites"
+msgstr "点击此处选择多个站点"
+
+#: menu/configuration.php:634
+msgid "Adjust URLs in post content for new subsite"
+msgstr "为新子站点调整文章内容中的URL"
+
+#: menu/modal.php:56 menu/tooltips.php:118
+msgid "Select all"
+msgstr "全选"
+
+#: menu/configuration.php:644
+msgid "Move <b>Copy & Delete Posts</b> <u>menu item</u> under <b>Tools</b> dropdown"
+msgstr "将<b>复制与删除文章</b><u>菜单项</u>移动至<b>工具</b>下拉框"
+
+#: menu/configuration.php:343 menu/modal.php:196 menu/tooltips.php:257
+msgid "All post meta"
+msgstr "所有文章功能"
+
+#: menu/variables.php:115
+msgid "Ok, done!"
+msgstr "好的，完成！"
+
+#: menu/variables.php:112
+msgid "No, I don't want to help you to improve the plugin."
+msgstr "不，我不想帮助你们改进插件。"
+
+#: menu/variables.php:106
+msgid "Trouble logging in there?"
+msgstr "无法登录？"
+
+#: menu/variables.php:101
+msgid "Go to forum"
+msgstr "转到论坛"
+
+#: menu/variables.php:90
+msgid "However, we noticed some optimization potential on your server."
+msgstr "但是，我们注意到您的服务器的一些优化潜力。"
+
+#: menu/variables.php:84
+msgid "Copy worked!"
+msgstr "复制成功！"
+
+#: menu/variables.php:44
+msgid "%b_start%Please%b_end% copy below logs %a_start%into the forum%a_end% so that we can make the plugin even better (for free)!"
+msgstr "%b_start%请%b_end%将下方日志复制%a_start%到论坛中%a_end%，我们可以（免费）进一步完善插件！"
+
+#: post/handler.php:691
+msgid "Invalid ID argument."
+msgstr "无效ID参数"
+
+#: menu/variables.php:96
+msgid "Copy logs"
+msgstr "复制日志"
+
+#: copy-delete-posts.php:907
+msgid "Copy to clipboard failed, your browser does not support this function."
+msgstr "复制到剪贴板失败，浏览器不支持此功能。"
+
+#: copy-delete-posts.php:906
+msgid "Copy to clipboard was successfull."
+msgstr "复制到剪贴板成功。"
+
+#: post/handler.php:1577
+msgid "We couldn't catch current tasks, please try again later."
+msgstr "无法获取当前任务，请稍后重试。"
+
+#: post/handler.php:1562
+msgid "We can't confirm that we killed this task now, please try again later or check if it't killed."
+msgstr "无法确认是否终止该任务，请稍后重试，或手工检查。"
+
+#: post/handler.php:1539
+msgid "This task has already ended this work, please wait for list refresh and try again."
+msgstr "该任务终止了处理过程，请等待列表刷新，然后重试。"
+
+#: post/handler.php:1523
+msgid "We can't hide this task now, – maybe it't already hidden. Please try again later."
+msgstr "无法隐藏该任务——可能已隐藏。请稍后重试。"
+
+#: post/handler.php:1448
+msgid "You can't clear messages when tasks are in progress, please firstly kill tasks or wait till the end."
+msgstr "正在处理任务，无法清空消息，请先终止任务，或等待任务结束。"
+
+#: post/handler.php:457
+msgid "Untitled Copy"
+msgstr "未命名副本"
+
+#: menu/variables.php:146
+msgid "Average time is 8 copies per second."
+msgstr "平均速度为每秒8个副本"
+
+#: menu/variables.php:143
+msgid ""
+"If you’re making a lot of copies it can take a while\n"
+"        <br>(up to 5 minutes if you’re on a slow server)."
+msgstr ""
+"如果创建很多副本，需要花一段时间\n"
+"<br>（服务器慢的话，可长达5分钟）。"
+
+#: menu/variables.php:141
+msgid "Please wait, copying in progress..."
+msgstr "正在复制，请稍后……"
+
+#: menu/variables.php:136
+msgid "Successfull copy image"
+msgstr "成功复制图片"
+
+#: menu/tooltips.php:275
+msgid "to"
+msgstr "到"
+
+#: menu/tooltips.php:223
+msgid "Link cats"
+msgstr "链接类别"
+
+#: menu/tooltips.php:219
+msgid "Nav Menus"
+msgstr "导航菜单"
+
+#: menu/tooltips.php:99
+msgid "define it for this case"
+msgstr "自定义本次复制"
+
+#: menu/tooltips.php:72
+msgid "Settings:"
+msgstr "设置："
+
+#: menu/tooltips.php:46
+msgid "Copy now!"
+msgstr "马上复制！"
+
+#: menu/notifications.php:95
+msgid "Clear notifiactions"
+msgstr "清空通知"
+
+#: menu/notifications.php:68
+msgid "Done:"
+msgstr "已完成："
+
+#: menu/notifications.php:45
+msgid "In progress:"
+msgstr "正进行："
+
+#: menu/notifications.php:38
+msgid "Copy & Delete"
+msgstr "复制与删除"
+
+#: menu/modal.php:245 menu/tooltips.php:296
+msgid "Copy and jump to editing"
+msgstr "复制后跳转至编辑"
+
+#: menu/modal.php:243 menu/tooltips.php:294
+msgid "Copy it!"
+msgstr "复制！"
+
+#: menu/modal.php:239 menu/tooltips.php:103 menu/tooltips.php:290
+msgid "Making more than 50 copies will take some time. – depending on your server."
+msgstr "50个副本以上，则需要花较长时间 —— 视您的服务器而定。"
+
+#: menu/modal.php:218 menu/modal.php:230 menu/tooltips.php:63
+#: menu/tooltips.php:279
+msgid "this site"
+msgstr "本网站"
+
+#: menu/modal.php:212 menu/tooltips.php:57 menu/tooltips.php:273
+msgid "time(s)"
+msgstr "次"
+
+#: menu/modal.php:189 menu/tooltips.php:250
+msgid "USM Settings"
+msgstr "USM 设置"
+
+#: menu/modal.php:181 menu/tooltips.php:242
+msgid "Yoast Settings"
+msgstr "Yoast 设置"
+
+#: menu/modal.php:173 menu/tooltips.php:234
+msgid "Woo Settings"
+msgstr "Woo 设置"
+
+#: menu/modal.php:167 menu/tooltips.php:228
+msgid "Plugin options:"
+msgstr "插件选项："
+
+#: menu/modal.php:104 menu/tooltips.php:165
+msgid "Feat. image"
+msgstr "特色图片"
+
+#: menu/modal.php:58 menu/tooltips.php:120
+msgid "–– Profiles ––"
+msgstr "—配置—"
+
+#: menu/modal.php:57 menu/tooltips.php:119
+msgid "Clean slate"
+msgstr "清空选项"
+
+#: menu/modal.php:55 menu/tooltips.php:77 menu/tooltips.php:117
+msgid "–– Select ––"
+msgstr "—选择—"
+
+#: menu/modal.php:52 menu/tooltips.php:115
+msgid "Use as basis settings"
+msgstr "选择配置模板"
+
+#: menu/modal.php:48 menu/tooltips.php:111
+msgid "Elements to copy:"
+msgstr "要复制的部分："
+
+#: menu/configuration.php:990 menu/variables.php:107
+msgid "Your account on Wordpress.org (where you open a new support thread) is different to the one you login to your WordPress dashboard (where you are now). If you don't have a WordPress.org account yet, please sign up at the top right on here. It only takes a minute :) Thank you!"
+msgstr " 您的Wordpress.org账号（即，在支持论坛发帖子的账号）不是WordPress面板（即，您当前位置）的登录账号。如果您还没有Wordpress.org账号，请点击网页右上角注册。很快就可以注册 :) 谢谢！"
+
+#: menu/configuration.php:990
+msgid "<b>Questions?</b> We're happy to help in the <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">Support Forum</a>."
+msgstr "<b>有问题吗？</b> 我们乐意帮助您，请前往 <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">支持论坛</a>."
+
+#: menu/configuration.php:969
+msgid "You will be notified when the deletion process ends via <span class=\"cdp-green\">Admin Bar Menu</span>."
+msgstr "删除后，<span class=\"cdp-green\">管理员工具栏菜单</span>会出现通知。"
+
+#: menu/configuration.php:966
+msgid "Delete selected pages/posts!"
+msgstr "删除选中网页/文章！"
+
+#: menu/configuration.php:963
+msgid "I completed <u>all</u> steps, it’s ok!"
+msgstr "<u>所有</u>步骤都完成了，好了！"
+
+#: menu/configuration.php:950
+msgid "Select this option to move deleted posts to trash (instead of deleting them permanently right away)."
+msgstr "如要将文件移至垃圾箱（，而不是立即永久删除），请选择此项。"
+
+#: menu/configuration.php:948
+msgid "Yes, keep deleted posts in trash!"
+msgstr "是的，把文件移到垃圾箱！"
+
+#: menu/configuration.php:944
+msgid "Move post(s) to trash?"
+msgstr "把文件移到垃圾箱吗？"
+
+#: menu/configuration.php:938
+msgid "If it’s necessary the process will dynamically slow down - depending on your server’s resource consumption. For example, if you’re using another plugin which is running a background process and it takes a lot of resources (+50%), our plugin will wait/slow down until the other process is complete."
+msgstr "根据您的服务器资源消耗情况，删除进程会动态降低速度。例如，如果您在使用另一个插件，后台运行，消耗资源很多（+50%），那么，本插件将推迟/减速执行，直至另一个进程结束。"
+
+#: menu/configuration.php:936
+msgid "Enable this if you want to have your posts/pages getting deleted in batches (instead of all at once).<br />This reduces the risk of timeouts if you have a lot to delete.<br />"
+msgstr "如果希望按批删除文章/网页（而不是一次全部删除），请选择此项。<br />可以降低大量删除时超时风险。<br />"
+
+#: menu/configuration.php:931
+msgid "per minute"
+msgstr "每分钟"
+
+#: menu/configuration.php:925
+msgid "Delete"
+msgstr "删除"
+
+#: menu/configuration.php:916
+msgid "Deletion throttling"
+msgstr "删除速度控制"
+
+#: menu/configuration.php:912
+msgid "Enable this if you want to redirect the urls from your deleted posts/pages to the main one you decided to keep."
+msgstr "如果希望把要删除的文章/网页重定向到保留的页面，请启用该选项。"
+
+#: menu/configuration.php:907 menu/configuration.php:921
+msgid "Enabled"
+msgstr "已启用"
+
+#: menu/configuration.php:906 menu/configuration.php:920
+msgid "Disabled"
+msgstr "已禁用"
+
+#: menu/configuration.php:901
+msgid "Automatic redirection"
+msgstr "自动重定向"
+
+#: menu/configuration.php:894
+msgid "Check if you need these features (optional):"
+msgstr "如需要以下功能，请选择（可选）："
+
+#: menu/configuration.php:890
+msgid "Select all the posts & pages which should be deleted (by ticking the checkboxes in the table above)."
+msgstr "选择要删除的文章与网页（选择上面列表中的复选框）。"
+
+#: menu/configuration.php:886
+msgid "Make sure you created a backup with, e.g. with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>."
+msgstr "创建备份。可用<a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">这个插件</a>。"
+
+#: menu/configuration.php:880
+msgid "Steps to deletion:"
+msgstr "删除步骤："
+
+#: menu/configuration.php:875
+msgid "You selected <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> pages/posts to be deleted"
+msgstr "已选择删除<b class=\"cdp-t-d-ct cdp-f-w-light\">0</b>个网页/篇文章"
+
+#: menu/configuration.php:867
+msgid "<u class=\"cdp-d-select-all cdp-f-w-light\">Select all</u> (also from other pages)"
+msgstr "<u class=\"cdp-d-select-all cdp-f-w-light\">全选</u>（含列表其它页面）"
+
+#: menu/configuration.php:850
+msgid "# of words"
+msgstr "词数"
+
+#: menu/configuration.php:849
+msgid "Date created"
+msgstr "创建日期"
+
+#: menu/configuration.php:848
+msgid "Type"
+msgstr "类型"
+
+#: menu/configuration.php:847
+msgid "Slug/URL"
+msgstr "别名/URL"
+
+#: menu/configuration.php:834
+msgid "per page"
+msgstr "条记录"
+
+#: menu/configuration.php:821
+msgid "Show"
+msgstr "每页显示"
+
+#: menu/configuration.php:813
+msgid "Scan has found [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] duplicates"
+msgstr "扫描出[<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] 个重复文件"
+
+#: menu/configuration.php:806
+msgid "Scan for duplicates now!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(at this point nothing gets deleted)</small>"
+msgstr "马上扫描重复文件！<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">（不会删除）</small>"
+
+#: menu/configuration.php:800
+msgid "<b>Filter results (optional)</b>: Only list them, if they<span id=\"cdpp-switch-mf\"> […]</span>"
+msgstr "<b>过滤结果（可选）</b>: 只列出满足以下条件的文件：<span id=\"cdpp-switch-mf\"> […]</span>"
+
+#: menu/configuration.php:794
+msgid "Delete ALL duplicates, don’t keep any (Be careful!)"
+msgstr "删除全部文件，不保留任何文件（要小心操作！）"
+
+#: menu/configuration.php:793
+msgid "Keep the newest duplicate (typically the last copy you made)"
+msgstr "保留最新的重复文件（通常是最近副本）"
+
+#: menu/configuration.php:792
+msgid "Keep the oldest duplicate (typically the original)"
+msgstr "保留最早的重复文件（通常是原文件）"
+
+#: menu/configuration.php:788
+msgid "Which version do you want to keep?"
+msgstr "要保留哪个版本？"
+
+#: menu/configuration.php:780
+msgid "Huh?"
+msgstr "什么意思？"
+
+#: menu/configuration.php:776
+msgid "Also count pages/posts of different types as duplicates"
+msgstr "包含不同内容类型（网页/文章）的重复文件"
+
+#: menu/configuration.php:775
+msgid "Only count pages/posts of the same type as duplicates"
+msgstr "只含同一内容类型（网页/文章）的重复文件"
+
+#: menu/configuration.php:768
+msgid "...need others? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Suggest them!</a>"
+msgstr "……需要别的选项？<a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">欢迎推荐！</a>"
+
+#: menu/configuration.php:766
+msgid "Word count"
+msgstr "词数"
+
+#: menu/configuration.php:764
+msgid "Excerpt (<span class=\"cdp-no-empty-text\"><b>including</b> empty</span>)"
+msgstr "摘要（<span class=\"cdp-no-empty-text\"><b>含</b>空值</span>）"
+
+#: menu/configuration.php:757
+msgid "When does “yes” make sense here?"
+msgstr "什么时候选择“是”？"
+
+#: menu/configuration.php:757
+msgid "The copies you created may have been given different titles automatically (according to the rules in <a href=\"#\" class=\"cdp-go-to-names-chapter\">this section</a>) and therefore would not count as duplicates as they have different titles.<br /><br />To remedy this, you can select “Yes” here so that those posts/pages also get considered as duplicates."
+msgstr "（根据<a href=\"#\" class=\"cdp-go-to-names-chapter\">这一部分</a>的规则），创建的副本自动带不同的文件名，文件名不同，所以不算重复。<br /><br />为解决这个问题，可以选择“是”，也把这些副本算作重复文件。"
+
+#: menu/configuration.php:756
+msgid "Yes"
+msgstr "是"
+
+#: menu/configuration.php:755
+msgid "No"
+msgstr "否"
+
+#: menu/configuration.php:752
+msgid "Do you want to consider different titles still to be identical if a) the copied posts/pages<br />were created by this plugin and b) they were not modified thereafter?"
+msgstr "如果副本 a) 由本插件生成，且 <br />b) 之后未修改，虽然标题不同，是否认为是重复？"
+
+#: menu/configuration.php:747
+msgid "Slugs are never 100% identical (i.e. Wordpress adds a counter automatically to ensure they are unique). The rule to only have them at least 85% identical does the job fine (you can see after the scan which posts are considered identical)."
+msgstr "别名永远不会重复（Wordpress会自动添加计数，来确保别名唯一性）。至少有85%相同，基本可以满足需要（扫描后可以检查一下，看是否重复）。"
+
+#: menu/configuration.php:747
+msgid "Similar slug"
+msgstr "相似的别名"
+
+#: menu/configuration.php:744
+msgid "(show more options)"
+msgstr "（更多选项）"
+
+#: menu/configuration.php:736
+msgid "Count them as duplicates if they are identical with respect to <u class=\"cdp-f-w-bold\">all</u> of the below..."
+msgstr "如果满足以下<u class=\"cdp-f-w-bold\">所有</u>条件，则认为是重复的。"
+
+#: menu/configuration.php:731
+msgid "Custom posts"
+msgstr "自定义文章"
+
+#: menu/configuration.php:726
+msgid "Scan for duplicates in..."
+msgstr "重复文件扫描范围……"
+
+#: menu/configuration.php:709
+msgid "Go premium now"
+msgstr "马上升级"
+
+#: menu/configuration.php:702
+msgid ""
+"And: you can also use this feature for any other redirections you may need\n"
+"                      (not only redirects from deleted posts/pages)!"
+msgstr "另外，此功能还可以用于别的重定向（不光是已删除文章/网页的）！"
+
+#: menu/configuration.php:699
+msgid "This isn’t just good for your visitors, but also for SEO: the “link juice” from your old (deleted) articles will be forwarded to the versions you keep, helping you to rank higher in search engines."
+msgstr "这不但方便了网站访客，而且有助于SEO：（已删除的）旧贴的链接汁（link juice）也可以转给保留版本，帮助您提高搜索引擎的排名。"
+
+#: menu/configuration.php:696
+msgid "As part of the <span class=\"cdp-green\">premium plugin</span> you can enable redirects, so that the URLs of your deleted posts/pages automatically take visitors to the version which you decided to keep."
+msgstr "<span class=\"cdp-green\">高级版插件</span>提供了重定向，如果访问删除的文章/网页，就自动会跳转到保留版本。"
+
+#: menu/configuration.php:683
+msgid "Redirection"
+msgstr "重定向"
+
+#: menu/configuration.php:680
+msgid "Automatic Cleanup"
+msgstr "自动清理"
+
+#: menu/configuration.php:677
+msgid "Manual Cleanup"
+msgstr "手工清理"
+
+#: menu/configuration.php:672
+msgid ""
+"Before you delete anything here (which cannot be undone!) we <b class=\"cdp-f-w-bold\">strongly suggest</b><br />\n"
+"                that you create a backup, for example with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>"
+msgstr "删除前（删除无法恢复！），<b class=\"cdp-f-w-bold\">强烈推荐</b><br />先创建备份，比如，用<a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">此插件</a>"
+
+#: menu/configuration.php:664
+msgid "Delete duplicate posts/pages"
+msgstr "删除重复文章/网页"
+
+#: menu/configuration.php:657
+msgid "...and after your copy frenzy, you may need to…"
+msgstr "……大量复制之后，可能要……"
+
+#: menu/configuration.php:640
+msgid "Show post export & import buttons"
+msgstr "显示文章导出与导入按键"
+
+#: menu/configuration.php:628
+msgid "Hide copy tooltip on hover and only show the button"
+msgstr "只显示复制按键，隐藏文本提示"
+
+#: menu/configuration.php:623
+msgid "Additional features"
+msgstr "其它功能"
+
+#: menu/configuration.php:584
+msgid "If checked, you will see a reference to the original post/page (on the copied version)."
+msgstr "如选择，可以（在复制版本）看到原文章/网页的链接。"
+
+#: menu/configuration.php:583
+msgid "Show reference to original item?"
+msgstr "显示原文链接吗？"
+
+#: menu/configuration.php:581
+msgid "Gutenberg editor"
+msgstr "Gutenberg编辑器"
+
+#: menu/configuration.php:580
+msgid "Bulk actions menu"
+msgstr "批量操作菜单"
+
+#: menu/configuration.php:578 menu/configuration.php:587
+msgid "Edit screens"
+msgstr "编辑界面"
+
+#: menu/configuration.php:577 menu/configuration.php:586
+msgid "Posts/pages lists"
+msgstr "文章/网页列表"
+
+#: menu/configuration.php:575
+msgid "Display copy option on..."
+msgstr "在以下位置显示复制选项……"
+
+#: menu/configuration.php:573
+msgid "Custom posts types"
+msgstr "自定义文章类型"
+
+#: menu/configuration.php:572 menu/configuration.php:729
+msgid "Posts"
+msgstr "文章"
+
+#: menu/configuration.php:571 menu/configuration.php:730
+msgid "Pages"
+msgstr "网页"
+
+#: menu/configuration.php:569
+msgid "Content types which can be copied"
+msgstr "允许复制的内容类型"
+
+#: menu/configuration.php:549
+msgid "Which user role(s) should be able to copy & delete? <i style=\"color: gray\">– The role also must have access to the dashboard.</i>"
+msgstr "哪些用户角色能够复制与删除？<i style=\"color: gray\"> — 该角色还必须可访问控制面板</i>"
+
+#: menu/configuration.php:548
+msgid "User level permissions"
+msgstr "用户权限"
+
+#: menu/configuration.php:544
+msgid "ALWAYS change the type when copied (posts will become pages, pages will become posts)"
+msgstr "每次复制都改变类型（文章变成网页，网页变成文章）"
+
+#: menu/configuration.php:543
+msgid "Copies will be the same type as the original"
+msgstr "复制的内容类型和原文件相同"
+
+#: menu/configuration.php:538
+msgid "However, if you want it as a <b class=\"cdp-f-w-bold\">default setting option</b>, then please select it below: "
+msgstr "如果希望改变内容类型为<b class=\"cdp-f-w-bold\">默认选项</b>，请在下方选择："
+
+#: menu/configuration.php:537
+msgid "If you want to make a page out of a post, or vice versa, then you can do this on a <b class=\"cdp-f-w-bold\">case by case basis</b> if you select the option “Define it specifically for this case” in the copy-tooltip, and then select this option on the following screen in the tooltip."
+msgstr "要将网页转为文章，或文章转为网页，可以<b class=\"cdp-f-w-bold\">个别操作</b>：在复制的文本提示框，选择“自定义本次操作”，然后，在出现的屏幕中选择该项。"
+
+#: menu/configuration.php:536
+msgid "By default, the type of what you copy does not change, i.e. if you copy a post the new version will also be a post, and the same for pages."
+msgstr "默认情况下，复制的内容类型不变，即，复制文章，产生的还是文章，网页也一样。"
+
+#: menu/configuration.php:532
+msgid "Pages vs. Posts converter"
+msgstr "网页、文章转换器"
+
+#: menu/configuration.php:528
+msgid "If you created multiple copies in one go, you’ll be taken to the first copy."
+msgstr "如果创建了多个副本，则会跳转到第一个副本。"
+
+#: menu/configuration.php:525
+msgid "Decide on a case-by-case basis (adds new button on copy screen)"
+msgstr "按个别情况处理（复制界面会添加新按键）"
+
+#: menu/configuration.php:524
+msgid "Take me to the edit-page of the created copy"
+msgstr "跳转到创建的副本的编辑页面"
+
+#: menu/configuration.php:523
+msgid "Leave me where I was"
+msgstr "不跳转"
+
+#: menu/configuration.php:519
+msgid "Navigation after copying"
+msgstr "复制后前往"
+
+#: menu/configuration.php:513
+msgid "<b class=\"cdp-ff-b4\">Other</b> options"
+msgstr "<b class=\"cdp-ff-b4\">其它</b>选项"
+
+#: menu/configuration.php:497
+msgid "If you make multiple copies in one go, use the Counter-option as otherwise some copies will have the same name."
+msgstr "如果要创建了多个副本，请使用“计数”选项，否则副本可能同名。"
+
+#: menu/configuration.php:496
+msgid "If you’re not of the drag & droppy-type, you can also enter shortcodes [Counter], [CurrentDate] and [CurrentTime]."
+msgstr "如果您不喜欢用拖拽，还可以输入短码来设置：[Counter]、[CurrentDate]、[CurrentTime]。"
+
+#: menu/configuration.php:495
+msgid "You can also type tailored text into the fields above."
+msgstr "在上方输入框，您还可以输入定义字段。"
+
+#: menu/configuration.php:491
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current time</b> in hh:mm:ss format"
+msgstr "添加<b class=\"cdp-f-w-semi-bold\">当前时间</b>，格式为：hh:mm:ss"
+
+#: menu/configuration.php:489
+msgid "CurrentTime"
+msgstr "当前时间"
+
+#: menu/configuration.php:482
+msgid "format."
+msgstr "格式。"
+
+#: menu/configuration.php:479 menu/modal.php:59 menu/tooltips.php:121
+msgid "Custom"
+msgstr "自定义"
+
+#: menu/configuration.php:478
+msgid "dd/mm/yyyy"
+msgstr "日/月/年"
+
+#: menu/configuration.php:477
+msgid "mm/dd/yyyy"
+msgstr "月/日/年"
+
+#: menu/configuration.php:474
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current date</b> in"
+msgstr "添加<b class=\"cdp-f-w-semi-bold\">当前日期</b>，格式为："
+
+#: menu/configuration.php:469
+msgid "CurrentDate"
+msgstr "当前日期"
+
+#: menu/configuration.php:465
+msgid "Adds an <b class=\"cdp-f-w-semi-bold\">incremental counter</b> (starting with “2”)"
+msgstr "添加<b class=\"cdp-f-w-semi-bold\">计数</b>（从\"2\"开始）"
+
+#: menu/configuration.php:463
+msgid "Counter"
+msgstr "计数"
+
+#: menu/configuration.php:459
+msgid "Drag & drop the automatic elements into the Prefix/Suffix fields to add them."
+msgstr "拖拽已定义标签到“前缀”/“后缀”输入框来添加。"
+
+#: menu/configuration.php:452
+msgid "Example based on current selections:"
+msgstr "当前设置的样例："
+
+#: menu/configuration.php:443
+msgid "Change to blank"
+msgstr "点击清空"
+
+#: menu/configuration.php:434
+msgid "Suffix"
+msgstr "后缀"
+
+#: menu/configuration.php:432
+msgid "Prefix"
+msgstr "前缀"
+
+#: menu/configuration.php:428
+msgid "Build your preferred naming logic for the copies:"
+msgstr "设定副本的命名方式："
+
+#: menu/configuration.php:422
+msgid "What <b class=\"cdp-ff-b4\">name(s)</b> should the copies have?"
+msgstr "副本要取什么样的<b class=\"cdp-ff-b4\">名字</b>？"
+
+#: menu/configuration.php:411 menu/configuration.php:502
+#: menu/configuration.php:650 menu/configuration.php:973
+msgid "Close section"
+msgstr "收起本部分"
+
+#: menu/configuration.php:409 menu/configuration.php:500
+#: menu/configuration.php:648
+msgid "Save"
+msgstr "保存"
+
+#: menu/configuration.php:405
+msgid ""
+"Do you know anything else you want to have copied (e.g. data added by a different plugin)? <br />\n"
+"                Please <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">tell us about it</span></a>, we always want to further improve this plugin! :) "
+msgstr ""
+"还想复制别的什么吗？（例如，其它插件的数据）<br />\n"
+"                请<a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">告诉我们</span></a>，我们很希望不断改进本插件:)"
+
+#: menu/configuration.php:398
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO plugin</span></a> as the original."
+msgstr "……<a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO 插件</span></a>的设置。"
+
+#: menu/configuration.php:393
+msgid "Yoast SEO Settings"
+msgstr "Yoast SEO 设置"
+
+#: menu/configuration.php:381
+msgid "…the same settings from the <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media plugin</span></a> as the original."
+msgstr "……<a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media 插件</span></a>的设置。"
+
+#: menu/configuration.php:376
+msgid "Ultimate Social Media Settings"
+msgstr "Ultimate Social Media 设置"
+
+#: menu/configuration.php:365 menu/configuration.php:382
+#: menu/configuration.php:399
+msgid "…get empty settings."
+msgstr "……不含设置。"
+
+#: menu/configuration.php:364
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">WooCommerce plugin</span></a> as the original."
+msgstr "……<a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">WooCommerce 插件</span></a>的设置。"
+
+#: menu/configuration.php:359
+msgid "WooCommerce Settings"
+msgstr "WooCommerce 的设置"
+
+#: menu/configuration.php:349
+msgid "…copy only required post/page metadata."
+msgstr "……仅复制必须的文章/网页元数据。"
+
+#: menu/configuration.php:348
+msgid "…clone all metadata tags assigned to post/page."
+msgstr "……复制文章/网页的所有元数据。"
+
+#: menu/configuration.php:330 menu/modal.php:162
+msgid "Link categories"
+msgstr "链接分类"
+
+#: menu/configuration.php:327 menu/configuration.php:332
+msgid "…be without private taxonomy."
+msgstr "……不含私有分类法。"
+
+#: menu/configuration.php:326 menu/configuration.php:331
+msgid "…get this private taxonomy from the original."
+msgstr "……含私有分类法。"
+
+#: menu/configuration.php:321 menu/modal.php:158
+msgid "Navigation Menus"
+msgstr "导航菜单"
+
+#: menu/configuration.php:311
+msgid "…be without custom taxonomy."
+msgstr "……不含自定义分类法。"
+
+#: menu/configuration.php:310
+msgid "…get all custom taxonomy from the original."
+msgstr "……含所有自定义分类法。"
+
+#: menu/configuration.php:309 menu/modal.php:154 menu/tooltips.php:215
+msgid "Taxonomies"
+msgstr "分类法"
+
+#: menu/configuration.php:306
+msgid "…be without any tags."
+msgstr "……不含标签。"
+
+#: menu/configuration.php:305
+msgid "…get all tags of the original post."
+msgstr "……含所有标签。"
+
+#: menu/configuration.php:304 menu/modal.php:150 menu/tooltips.php:211
+msgid "Tags"
+msgstr "标签"
+
+#: menu/configuration.php:301
+msgid "…be Uncategorized, no categories will be copied."
+msgstr "……不含分类，不会复制分类。"
+
+#: menu/configuration.php:300
+msgid "…get all categories from the original post."
+msgstr "……含所有分类。"
+
+#: menu/configuration.php:299 menu/modal.php:144 menu/tooltips.php:205
+msgid "Categories"
+msgstr "分类"
+
+#: menu/configuration.php:296
+msgid "…get the menu order set to default (0)."
+msgstr "……使菜单顺序为默认（0）。"
+
+#: menu/configuration.php:295
+msgid "…get the <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">menu order</span></a> from the original."
+msgstr "……含<a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">菜单顺序</span></a>。"
+
+#: menu/configuration.php:294 menu/modal.php:136 menu/tooltips.php:197
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#: menu/configuration.php:291
+msgid "…get no comments from the original."
+msgstr "……不含评论。"
+
+#: menu/configuration.php:290
+msgid "…get all comments from the original."
+msgstr "……含所有评论。"
+
+#: menu/configuration.php:289 menu/modal.php:132 menu/tooltips.php:193
+msgid "Comments"
+msgstr "评论"
+
+#: menu/configuration.php:286
+msgid "…not get their child pages copied along (if the page is a parent)."
+msgstr "……（如果网页为上级页面，）不含子页面。"
+
+#: menu/configuration.php:285
+msgid "…get their <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">child pages</span></a> copied as well, with all current settings applied to child-duplicates (if the page is a parent)."
+msgstr "……（如果网页为上级页面，）含<a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">子页面</span></a>，且对子页面都应用当前设置。"
+
+#: menu/configuration.php:284 menu/modal.php:126 menu/tooltips.php:187
+msgid "Children"
+msgstr "子页面"
+
+#: menu/configuration.php:281
+msgid "…get existing attachments from the original."
+msgstr "……含附件。"
+
+#: menu/configuration.php:280
+msgid "…create new <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">attachments</span></a> (duplicates in Media Library) as well. <i>Recommended only for Multisites.</i>"
+msgstr "……生成新<a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">附件</span></a>副本（媒体库）。 <i>仅推荐对多网站采用。</i>"
+
+#: menu/configuration.php:279 menu/modal.php:140 menu/tooltips.php:201
+msgid "Attachments"
+msgstr "附件"
+
+#: menu/configuration.php:276
+msgid "…get no password."
+msgstr "……不含密码。"
+
+#: menu/configuration.php:275
+msgid "…get the same <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">password</span></a> as original."
+msgstr "……含原<a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">密码</span></a>。"
+
+#: menu/configuration.php:274 menu/modal.php:122 menu/tooltips.php:183
+msgid "Password"
+msgstr "密码"
+
+#: menu/configuration.php:271
+msgid "…get the user that is duplicating as an author."
+msgstr "……设定作者为执行复制操作的用户。"
+
+#: menu/configuration.php:270
+msgid "…get the same author as original."
+msgstr "……含原作者。"
+
+#: menu/configuration.php:269 menu/modal.php:118 menu/tooltips.php:179
+msgid "Author"
+msgstr "作者"
+
+#: menu/configuration.php:266
+msgid "…get the standard post format."
+msgstr "……含标准贴子格式。"
+
+#: menu/configuration.php:265
+msgid "…get the same <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">post format</span></a> as original."
+msgstr "……含原<a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">文章格式</span></a>。"
+
+#: menu/configuration.php:264 menu/modal.php:114 menu/tooltips.php:175
+msgid "Format"
+msgstr "格式"
+
+#: menu/configuration.php:261
+msgid "…get the default page template."
+msgstr "……含默认网页模板。"
+
+#: menu/configuration.php:260
+msgid "…get the same page <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> as original."
+msgstr "……含原网页<a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">模板</span></a>。"
+
+#: menu/configuration.php:259 menu/modal.php:108 menu/tooltips.php:169
+msgid "Template"
+msgstr "模板"
+
+#: menu/configuration.php:256
+msgid "…get no featured image."
+msgstr "……不含特色图片。"
+
+#: menu/configuration.php:255
+msgid "…it will set the same <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">featured image</span></a> as the original."
+msgstr "……含原<a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">特色图片</span></a>。"
+
+#: menu/configuration.php:254
+msgid "Featured image"
+msgstr "特色图片"
+
+#: menu/configuration.php:251
+msgid "…get no content (be completely blank)."
+msgstr "……不含内容（即空白）。"
+
+#: menu/configuration.php:250
+msgid "…get all the content (text, images, videos and other elements/blocks) from the original."
+msgstr "……含全部内容（文本、图片、视频等元素/区块）。"
+
+#: menu/configuration.php:249 menu/modal.php:100 menu/tooltips.php:161
+msgid "Content"
+msgstr "内容"
+
+#: menu/configuration.php:246
+msgid "…get an empty <i>custom</i> excerpt (and default to taking the first 55 words of the post)."
+msgstr "……<i>自定义</i>摘要为空（，默认为文章前55个词）。"
+
+#: menu/configuration.php:245
+msgid "…get the custom <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">excerpt</span></a> (post/page summary) of the original (if the original had any)."
+msgstr "……含原自定义<a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">摘要</span></a> （文章/网页的小结，如有）。"
+
+#: menu/configuration.php:244 menu/modal.php:96 menu/tooltips.php:157
+msgid "Excerpt"
+msgstr "摘要"
+
+#: menu/configuration.php:241
+msgid "…get a blank slug, unless the page is published, then it will generate it automatically."
+msgstr "……别名为空，如果网页已发布，则自动生成。"
+
+#: menu/configuration.php:240
+msgid "…get the same <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> of the original. (However after publishing it will give it automatically a new slug because 2 pages cannot be on the same URL)."
+msgstr "……含原<a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">别名</span></a>（但是，如果网页已发布，则会自动生成新别名，因为网页URL不能相同）。"
+
+#: menu/configuration.php:239 menu/modal.php:90 menu/tooltips.php:151
+msgid "Slug"
+msgstr "别名"
+
+#: menu/configuration.php:236
+msgid "…get the status “Draft”."
+msgstr "……设为“草稿”状态。"
+
+#: menu/configuration.php:235
+msgid "…get status of original article (which can be “published” or “deleted” etc.)"
+msgstr "……含原文件状态（“已发布”、“已删除”等）。"
+
+#: menu/configuration.php:234 menu/modal.php:86 menu/tooltips.php:147
+msgid "Status"
+msgstr "状态"
+
+#: menu/configuration.php:231
+msgid "…get the date & time at time of copying. "
+msgstr "……设为复制时的日期和时间。"
+
+#: menu/configuration.php:230
+msgid "…get the same creation date & time as the original."
+msgstr "……含原创建日期和时间。"
+
+#: menu/configuration.php:229 menu/modal.php:82 menu/tooltips.php:143
+msgid "Date"
+msgstr "日期"
+
+#: menu/configuration.php:226
+msgid "…be titled “Untitled”."
+msgstr "……标题为”未命名“。"
+
+#: menu/configuration.php:225
+msgid "…get the title as defined in the <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">next section</span></a>."
+msgstr "…按<a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">以下部分</span></a>设定标题。"
+
+#: menu/configuration.php:224 menu/configuration.php:741
+#: menu/configuration.php:846 menu/modal.php:78 menu/tooltips.php:139
+msgid "Title"
+msgstr "标题"
+
+#: menu/configuration.php:219
+msgid "<b>If <u class=\"cdp-f-w-bold\">un</u>checked</b> copies will..."
+msgstr "<b>如果<u class=\"cdp-f-w-bold\">不</u>选</b>，副本会……"
+
+#: menu/configuration.php:218
+msgid "<b>If checked</b> copies will..."
+msgstr "<b>如果勾选</b>，副本会……"
+
+#: menu/configuration.php:208
+msgid "Which <b class=\"cdp-ff-b4\">elements</b> shall be copied?"
+msgstr "要复制哪些<b class=\"cdp-ff-b4\">部分</b>？"
+
+#: menu/configuration.php:196
+msgid "+ Add / manage / import / export settings"
+msgstr "+ 添加/管理/导入/导出设置"
+
+#: menu/configuration.php:189
+msgid "settings"
+msgstr "设置"
+
+#: menu/configuration.php:185
+msgid "Add new"
+msgstr "添加"
+
+#: menu/configuration.php:184 menu/modal.php:67 menu/tooltips.php:85
+#: menu/tooltips.php:129
+msgid "Default"
+msgstr "默认"
+
+#: menu/configuration.php:166
+msgid "Below are your"
+msgstr "以下为"
+
+#: menu/configuration.php:155
+msgid "Don't show this intro – never again!"
+msgstr "不再显示本介绍！"
+
+#: menu/configuration.php:151
+msgid "Got it, close intro!"
+msgstr "知道了，关闭介绍！"
+
+#: menu/configuration.php:149
+msgid "…and you can also <b>delete duplicate</b> posts easily, see below :)"
+msgstr "……还可以轻松<b>删除重复</b>文件，请见下方:)"
+
+#: menu/configuration.php:143 menu/configuration.php:579
+msgid "Admin bar"
+msgstr "管理员栏"
+
+#: menu/configuration.php:137
+msgid "Edit screen"
+msgstr "编辑界面"
+
+#: menu/configuration.php:131
+msgid "List of posts/pages"
+msgstr "文章/网页列表"
+
+#: menu/configuration.php:128
+msgid "You can now easily copy posts & pages in various areas:"
+msgstr "现在，您可以从不同地方，方便地复制文章与网页："
+
+#: menu/configuration.php:122
+msgid "Show intro"
+msgstr "显示介绍"
+
+#: menu/configuration.php:119
+msgid "Welcome to Copy & Delete Posts!"
+msgstr "欢迎使用“复制与删除”插件！"
+
+#: menu/configuration.php:111
+msgid "Loading..."
+msgstr "正在加载……"
+
+#: copy-delete-posts.php:1068
+msgid "Settings"
+msgstr "设置"
+
+#: copy-delete-posts.php:1008
+msgid "post"
+msgstr "文章"
+
+#: copy-delete-posts.php:1008
+msgid "this"
+msgstr "这篇"
+
+#: copy-delete-posts.php:1008
+msgid "Copy of"
+msgstr "的原件是"
+
+#: copy-delete-posts.php:837
+msgid "There was an error with this notification."
+msgstr "这条通知出错了。"
+
+#: copy-delete-posts.php:836
+msgid "It will hide this banner just for now."
+msgstr "会暂时隐藏这条横幅。"
+
+#: copy-delete-posts.php:835
+msgid "Premium"
+msgstr "高级版"
+
+#: copy-delete-posts.php:833
+msgid "Plugin has been installed successfully, feel free to check those awesome features!"
+msgstr "插件已安装，来看看这些很棒的功能吧！"
+
+#: copy-delete-posts.php:831 copy-delete-posts.php:832
+msgid "There was an error and we couldn't kill the task."
+msgstr "出现问题，任务无法终止。"
+
+#: copy-delete-posts.php:830
+msgid "The task has been killed"
+msgstr "任务已终止"
+
+#: copy-delete-posts.php:828 copy-delete-posts.php:829
+msgid "There was an error and we couldn't hide the task."
+msgstr "出现问题，无法隐藏任务。"
+
+#: copy-delete-posts.php:827
+msgid "The task has been hidden"
+msgstr "任务已隐藏"
+
+#: copy-delete-posts.php:825 copy-delete-posts.php:826
+msgid "We couldn't update task list, please try again later or kill tasks individualy."
+msgstr "无法更新任务列表，请稍后重试，或手工终止任务。"
+
+#: copy-delete-posts.php:824
+msgid "Tasks cleared!"
+msgstr "任务已清空！"
+
+#: copy-delete-posts.php:823
+msgid "This banner will not appear again, if any feature is missing you can ask for it on our support forum!"
+msgstr "这条横幅不会出现了，如果有功能找不到，请在我们的支持论坛提问。"
+
+#: copy-delete-posts.php:822
+msgid "Alright! We will ask you again in 14 days!"
+msgstr "好吧，14天后再会询问您！"
+
+#: copy-delete-posts.php:820 copy-delete-posts.php:821
+msgid "Thank you very much for the review, this banner will not appear again!"
+msgstr "谢谢您的评价，不会再显示这个横幅了！"
+
+#: copy-delete-posts.php:819
+msgid "Cannot send dismiss request. Are you connected to the internet?"
+msgstr "无法发送关闭请求。是否已连接互联网？"
+
+#: copy-delete-posts.php:818
+msgid "There was an issue while dismissing banner, please do it next time again."
+msgstr "关闭横幅出现问题，请重试。"
+
+#: copy-delete-posts.php:753
+msgid "Manual Cleanup removed "
+msgstr "”手工清除“已移除"
+
+#: copy-delete-posts.php:698
+msgid "Copy this post"
+msgstr "复制此文章"
+
+#: copy-delete-posts.php:396 copy-delete-posts.php:426
+msgid "test"
+msgstr "测试"
+
+#: copy-delete-posts.php:359
+msgid "Copy & Delete Posts Menu"
+msgstr "“复制与删除”菜单"
+
+#: copy-delete-posts.php:357 copy-delete-posts.php:359
+msgid "<span id=\"cdp-menu\">Copy & Delete Posts</span>"
+msgstr "<span id=\"cdp-menu\">复制与删除</span>"
+
+#: copy-delete-posts.php:329 copy-delete-posts.php:524
+msgid "Copy this"
+msgstr "复制这篇"
+
+#: copy-delete-posts.php:260 copy-delete-posts.php:396
+#: copy-delete-posts.php:426 copy-delete-posts.php:450
+#: copy-delete-posts.php:472 menu/modal.php:207 menu/tooltips.php:268
+msgid "Copy"
+msgstr "复制"
+
+#: copy-delete-posts.php:914
+msgid "Please select basic settings for this copy."
+msgstr "请给这份复制，选择基本设置。"
+
+#: copy-delete-posts.php:913
+msgid "Please select at least one row to copy and try again."
+msgstr "请至少选择一行，并重试。"
+
+#: copy-delete-posts.php:912
+msgid "Please select at least one row to copy."
+msgstr "请至少选择一行复制。"
+
+#: copy-delete-posts.php:905
+msgid "–––––––––––––- END OF THE DEBUG OUTPUT –––––––––––––- "
+msgstr "–––––––––––––- 调试输出结束 –––––––––––––- "
+
+#: copy-delete-posts.php:904
+msgid "You're crazy! – Here is the output:"
+msgstr "您很疯狂！——这是输出："
+
+#: copy-delete-posts.php:903
+msgid "Are you REALLY sure?"
+msgstr "您确认吗？"
+
+#: copy-delete-posts.php:902
+msgid "This post is a duplicate of"
+msgstr "这个重复文件的原件是"
+
+#: copy-delete-posts.php:901
+msgid "Change the type of this copy <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+msgstr "修改此文件的类型<span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+
+#: copy-delete-posts.php:900
+msgid "If you’re on a multisite you can copy it to other sites."
+msgstr "如果您使用多站点，可以复制到别的网站。"
+
+#: copy-delete-posts.php:898 copy-delete-posts.php:899
+msgid "This is a Premium Feature.<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Check it out and upgrade today</a>,<br>we made it <b>really affordable!</b>"
+msgstr "这是高级版功能<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">了解并升级</a>,<br><b>价格实惠！</b>"
+
+#: copy-delete-posts.php:897
+msgid "If you’re on a multisite you can copy it to other sites with the Premium Plugin. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Order it now!</a>"
+msgstr "如果您使用多站点，可以用本插件高级版，复制到别的网站。<a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">马上订购！</a>"
+
+#: copy-delete-posts.php:896
+msgid "here"
+msgstr "在此"
+
+#: copy-delete-posts.php:895
+msgid "Define your copy settings"
+msgstr "定义复制设置"
+
+#: copy-delete-posts.php:894 menu/notifications.php:87
+msgid "Hide"
+msgstr "隐藏"
+
+#: copy-delete-posts.php:893 menu/notifications.php:86
+msgid "Auto Cleaned-up"
+msgstr "已自动清理"
+
+#: copy-delete-posts.php:892 menu/notifications.php:86
+msgid "Deleted Posts"
+msgstr "已删除文件"
+
+#: copy-delete-posts.php:891 menu/notifications.php:56
+msgid "Kill"
+msgstr "终止"
+
+#: copy-delete-posts.php:890 menu/notifications.php:55
+msgid "Auto Cleaning-up"
+msgstr "正自动清理"
+
+#: copy-delete-posts.php:889 menu/notifications.php:55
+msgid "Deleting Posts"
+msgstr "正删除文件"
+
+#: copy-delete-posts.php:888
+msgid "Change it to blank"
+msgstr "点击可清空"
+
+#: copy-delete-posts.php:887
+msgid "Change it to (Name of original)"
+msgstr "点击可设为（原名）"
+
+#: copy-delete-posts.php:886
+msgid "only if <u><b>not</b></u> empty"
+msgstr "仅当<u><b>非</b></u>空"
+
+#: copy-delete-posts.php:885
+msgid "<b>including</b> empty"
+msgstr "<b>含</b>空"
+
+#: copy-delete-posts.php:884
+msgid "Something went wrong and we couldn't send request, are you connected to the internet?"
+msgstr "出现问题，无法发送请求。是否连接互联网？"
+
+#: copy-delete-posts.php:883
+msgid "Something went wrong and we couldn't send request, please try refresh page and try again."
+msgstr "出现问题，无法发送请求。请刷新页面重试。"
+
+#: copy-delete-posts.php:882
+msgid "Unknown response, please try refresh the page!"
+msgstr "未知响应。请刷新页面试试！"
+
+#: copy-delete-posts.php:881
+msgid "License is valid, press the button again to activate!"
+msgstr "许可证有效，请再点击一下激活！"
+
+#: copy-delete-posts.php:880
+msgid "License is already active, let us reload the page!"
+msgstr "许可证已激活，试一试刷新页面！"
+
+#: copy-delete-posts.php:879
+msgid "Please enter license key, currently it is empty."
+msgstr "请输入注册码，目前为空。"
+
+#: copy-delete-posts.php:878
+msgid "Something went wrong and we couldn't setup the deletion task. – Please check console for more info."
+msgstr "出现问题，无法设置删除任务——请查看控制台，了解更多信息"
+
+#: copy-delete-posts.php:877
+msgid "– Please try without throttling."
+msgstr "—— 请试试不用速度控制。"
+
+#: copy-delete-posts.php:876
+msgid "Something went wrong and we couldn't setup the deletion task."
+msgstr "出现问题，无法安排删除任务。"
+
+#: copy-delete-posts.php:875
+msgid "Deletion process started, you can close this page now and wait till the process ends!"
+msgstr "删除已开始，可以关闭此通知页面，等待删除结束！"
+
+#: copy-delete-posts.php:874
+msgid "You have wrong count in throttling field, please fix."
+msgstr "速度控制的输入值不正确，请纠正。"
+
+#: copy-delete-posts.php:873
+msgid "Nothing to do here, please select at least one post to delete."
+msgstr "没有要处理的文件，请选择至少一个文件删除。"
+
+#: copy-delete-posts.php:872
+msgid "Please check that you completed all steps, before this task!"
+msgstr "开始任务前，请检查是否完成所有步骤！"
+
+#: copy-delete-posts.php:871
+msgid "No posts/pages meeting the current filter conditions."
+msgstr "根据当前过滤条件，没有满足条件的文章/网页。"
+
+#: copy-delete-posts.php:870
+msgid "You did not select any filter.<br>Click <a href=\"#\" class=\"cdp-show-the-copies\">here</a> to show all copies (of the selected post type) made by this plugin."
+msgstr "没有选择过滤器。<br>点击<a href=\"#\" class=\"cdp-show-the-copies\">这里</a>显示本插件生成（、选中内容类型）的所有副本。"
+
+#: copy-delete-posts.php:869
+msgid "Cannot connect to the server, premium filters will not be applied."
+msgstr "无法连接服务器，不会应用高级过滤器。"
+
+#: copy-delete-posts.php:868
+msgid "Please, check for: which duplicates you are looking for"
+msgstr "请查找：您在寻找的重复项"
+
+#: copy-delete-posts.php:867
+msgid "Something went wrong and we couldn't get post list. – Please check console for more info."
+msgstr "出现问题，无法获取文件列表 —— 请查看控制台，了解更多信息。"
+
+#: copy-delete-posts.php:866
+msgid "There was an error while getting data from server, please try again."
+msgstr "服务器数据读取出错，请重试。"
+
+#: copy-delete-posts.php:865 copy-delete-posts.php:918
+msgid "Copy in progress..."
+msgstr "正在复制……"
+
+#: copy-delete-posts.php:864
+msgid "Something went wrong and we couldn't get profile settings – please try again!"
+msgstr "出现问题，无法读取配置——请重试！"
+
+#: copy-delete-posts.php:863
+msgid "Copy & Delete Post – Error"
+msgstr "复制与删除 — 出错"
+
+#: copy-delete-posts.php:862
+msgid "Something went wrong and we couldn't get profile settings. – Check console for more details"
+msgstr "出错了，无法找到个人资料设置。关于更多详情，查看控制台"
+
+#: copy-delete-posts.php:861
+msgid "Unable to recognize selected profile, please try again."
+msgstr "无法识别所选个人资料，请重试。"
+
+#: copy-delete-posts.php:860 copy-delete-posts.php:917
+msgid "Couldn't recognize that button, please try again."
+msgstr "无法识别该按钮，请重试。"
+
+#: copy-delete-posts.php:859 copy-delete-posts.php:916
+msgid "Something went wrong and we couldn't copy this post. – See dev console for more info."
+msgstr "出现问题，无法复制此文章——请查看开发人员控制台，了解更多信息。"
+
+#: copy-delete-posts.php:858 copy-delete-posts.php:915
+msgid "Something went wrong and we couldn't copy this post – please try again!"
+msgstr "出现问题，无法复制此文章——请重试！"
+
+#: copy-delete-posts.php:857
+msgid "You need to insert positive number for copies."
+msgstr "副本份数须为正数。"
+
+#: copy-delete-posts.php:856 menu/configuration.php:443
+#: menu/configuration.php:454
+msgid "(Name of original)"
+msgstr "（原名）"
+
+#: copy-delete-posts.php:855
+msgid "Something went wrong and we couldn't save your settings. – Please check console for more info."
+msgstr "出现问题，无法保存设置——请查看控制台，了解更多信息。"
+
+#: copy-delete-posts.php:854
+msgid "Something went wrong and we couldn't save your settings."
+msgstr "出现问题，无法保存设置。"
+
+#: copy-delete-posts.php:853
+msgid "All your settings were saved!"
+msgstr "所有设置已保存！"
+
+#: copy-delete-posts.php:852
+msgid "Something went wrong and we couldn't update intro settings. – Please check console for more info."
+msgstr "出现问题，无法更新介绍设置——请查看控制台，了解更多信息。"
+
+#: copy-delete-posts.php:851
+msgid "Something went wrong and we couldn't update intro settings – try again!"
+msgstr "出现问题，无法更新介绍设置——请重试！"
+
+#: copy-delete-posts.php:850
+msgid "Something went wrong and we couldn't save intro settings."
+msgstr "出现问题，无法保存介绍设置。"
+
+#: copy-delete-posts.php:849
+msgid "Something went wrong and we couldn't save intro settings!"
+msgstr "出现问题，无法保存插件介绍的设置！"
+
+#: copy-delete-posts.php:848
+msgid "No items to show, try with other filters!"
+msgstr "没有文件可显示，请试试其它过滤器！"
+
+#: menu/configuration.php:998
+msgid "This will establish connection to the chat servers"
+msgstr "这会监理起链接来进行聊天服务器"
+
+#: menu/configuration.php:996
+msgid "Connect with support (click to load)"
+msgstr "带有支持的链接 (点击加载)"
+
+#. Description of the plugin
+#: copy-delete-posts.php
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "最好的解决方案是轻松复制您的文章和页面，并一次性删除它们。"
+
+#. Plugin URI of the plugin
+#: copy-delete-posts.php
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php copy-delete-posts.php:357 copy-delete-posts.php:834
+#: copy-delete-posts.php:838
+msgid "Copy & Delete Posts"
+msgstr "复制 & 删除 文章"

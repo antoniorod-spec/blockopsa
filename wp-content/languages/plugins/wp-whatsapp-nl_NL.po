@@ -1,0 +1,695 @@
+# Translation of Plugins - WP Chat App - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP Chat App - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-15 21:07:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Chat App - Stable (latest release)\n"
+
+#: views/woocommerce-button.php:73
+msgid "Enable Dokan vendor button"
+msgstr "Dokan verkopersknop inschakelen"
+
+#: views/woocommerce-button.php:66
+msgid "Third party integrations (PRO)"
+msgstr "Integraties met derden (PRO)"
+
+#: views/woocommerce-button.php:60
+msgid "Select accounts to display"
+msgstr "Selecteer accounts die je wilt weergeven"
+
+#: views/woocommerce-button.php:53
+msgid "After long description"
+msgstr "Na lange beschrijving"
+
+#: views/woocommerce-button.php:44
+msgid "After short description"
+msgstr "Na korte beschrijving"
+
+#: views/woocommerce-button.php:35
+msgid "After Add to Cart button"
+msgstr "Na toevoegen aan winkelwagen knop"
+
+#: views/woocommerce-button.php:26
+msgid "Before Add to Cart button"
+msgstr "Voor toevoegen aan winkelwagen knop"
+
+#: views/woocommerce-button.php:17
+msgid "Button position"
+msgstr "Knoppositie"
+
+#: views/woocommerce-button.php:8
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: views/woocommerce-button.php:4
+msgid "Display WhatsApp click to chat button on WooCommerce single product pages."
+msgstr "Toon WhatsApp klik om te chatten knop op WooCommerce enkelvoudige productpagina's."
+
+#: views/user-role-settings.php:7
+msgid "Select User Roles to access"
+msgstr "Selecteer gebruikersrollen om toegang te krijgen"
+
+#: views/url-settings.php:28
+msgid "URL for Mobile"
+msgstr "URL voor mobiel"
+
+#: views/url-settings.php:14
+msgid "URL for Desktop"
+msgstr "URL voor desktop"
+
+#: views/url-settings.php:5
+msgid "Open in new tab"
+msgstr "Open in nieuwe tab"
+
+#: views/url-settings.php:1
+msgid "Choose how you want to redirect WhatsApp URL."
+msgstr "Kies hoe je de WhatsApp URL wilt omleiden."
+
+#: views/settings.php:17
+msgid "User Role"
+msgstr "Gebruikersrol"
+
+#: views/settings.php:16
+msgid "WhatsApp URL"
+msgstr "WhatsApp URL"
+
+#: views/settings.php:15
+msgid "Analytics"
+msgstr "Analytics"
+
+#: views/settings.php:14
+msgid "WooCommerce Button"
+msgstr "WooCommerce knop"
+
+#: views/selected-accounts.php:49 views/woocommerce-button.php:123
+msgid "Selected Accounts:"
+msgstr "Geselecteerde accounts:"
+
+#: views/selected-accounts.php:47 views/woocommerce-button.php:121
+msgid "Please select accounts you want them to display in WhatsApp Chat Widget"
+msgstr "Selecteer accounts die je wilt weergeven in WhatsApp chat widget"
+
+#: views/meta-button-style.php:48
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: views/meta-button-style.php:39
+msgid "Button Text Color"
+msgstr "Tekstkleur knop"
+
+#: views/meta-button-style.php:33
+msgid "Button Background Color"
+msgstr "Knop achtergrondkleur"
+
+#: views/meta-button-style.php:25 blocks/dist/blocks.build.js:1
+msgid "Square"
+msgstr "Vierkant"
+
+#: views/meta-button-style.php:22 blocks/dist/blocks.build.js:1
+msgid "Round"
+msgstr "Rond"
+
+#: views/meta-button-style.php:17 blocks/dist/blocks.build.js:1
+msgid "Button Style"
+msgstr "Knop stijl"
+
+#: views/meta-button-style.php:12
+msgid "This text applies only on shortcode button. Leave empty to use the default label."
+msgstr "Deze tekst is alleen van toepassing op de shortcode knop. Laat leeg om het standaard label te gebruiken."
+
+#: views/meta-button-style.php:8
+msgid "Button Label"
+msgstr "Knop label"
+
+#: views/meta-button-style.php:4
+msgid "This styling applies only to the shortcode buttons for this account."
+msgstr "Deze styling is alleen van toepassing op de shortcode knoppen voor dit account."
+
+#: views/meta-accounts.php:113
+msgid "You can use this text to display on days this account does not work."
+msgstr "Je kan deze tekst gebruiken om weer te geven op dagen dat dit account niet werkt."
+
+#: views/meta-accounts.php:111
+msgid "You can use shortcode [njwa_time_work] to display the exact time this account is back to work on a working day."
+msgstr "Je kan shortcode [njwa_time_work] gebruiken om de exacte tijd weer te geven waarop dit account weer aan het werk is op een werkdag."
+
+#: views/meta-accounts.php:108
+msgid "Description text when offline (PRO)"
+msgstr "Beschrijvingstekst wanneer offline (PRO)"
+
+#: views/meta-accounts.php:97
+msgid "Apply to All Days"
+msgstr "Toepassen op alle dagen"
+
+#: views/meta-accounts.php:64
+msgid "This feature is now only available in Pro version.<br>If you still want to use it, please <a href=\"%1$s\">Upgrade PRO</a> or turn back to <a href=\"%2$s\">Version 2.6</a><br>Need help? <a href=\"%3$s\" style=\"color: #444\">Contact us</a>"
+msgstr "Deze functie is nu alleen beschikbaar in de Pro versie.<br>Als je het nog steeds wilt gebruiken, <a href=\"%1$s\">Upgrade PRO</a> of ga terug naar <a href=\"%2$s\">Versie 2.6</a><br>Hulp nodig? <a href=\"%3$s\" style=\"color: #444\">Neem contact met ons op</a>"
+
+#: views/meta-accounts.php:54
+msgid "Custom Availability (PRO)"
+msgstr "Aangepaste beschikbaarheid (PRO)"
+
+#: views/meta-accounts.php:42
+msgid "Always available online"
+msgstr "Altijd online beschikbaar"
+
+#: views/meta-accounts.php:36
+msgid "Use [njwa_page_title] and [njwa_page_url] shortcodes to output the page's title and URL respectively."
+msgstr "Gebruik [njwa_page_title] en [njwa_page_url] shortcodes om respectievelijk de titel en URL van de pagina weer te geven."
+
+#: views/meta-accounts.php:31
+msgid "Predefined Text"
+msgstr "Vooraf gedefinieerde tekst"
+
+#: views/meta-accounts.php:17
+msgid "Refer to <a href=\"https://faq.whatsapp.com/en/general/21016748\" target=\"_blank\">https://faq.whatsapp.com/en/general/21016748</a> for a detailed explanation."
+msgstr "Raadpleeg <a href=\"https://faq.whatsapp.com/en/general/21016748\" target=\"_blank\">https://faq.whatsapp.com/en/general/21016748</a> voor een gedetailleerde uitleg."
+
+#: views/meta-accounts.php:9
+msgid "Account Number or group chat URL"
+msgstr "Accountnummer of URL van groepschat"
+
+#: views/floating-widget-settings.php:16
+msgid "Display Settings"
+msgstr "Weergave instellingen"
+
+#: views/floating-widget-settings.php:15
+msgid "Design"
+msgstr "Ontwerp"
+
+#: views/floating-widget-settings.php:14
+msgid "Selected Accounts"
+msgstr "Geselecteerde accounts"
+
+#: views/display-settings.php:98
+msgid "Display on Posts (PRO)"
+msgstr "Toon op berichten (PRO)"
+
+#: views/display-settings.php:36
+msgid "Hide on these pages..."
+msgstr "Verberg op deze pagina's..."
+
+#: views/display-settings.php:35
+msgid "Show on these pages..."
+msgstr "Toon op deze pagina's..."
+
+#: views/display-settings.php:34
+msgid "Show on all pages"
+msgstr "Weergeven op alle pagina's"
+
+#: views/display-settings.php:31
+msgid "Display on Pages"
+msgstr "Toon op pagina's"
+
+#: views/display-settings.php:22
+msgid "Show on mobile"
+msgstr "Toon op mobiel"
+
+#: views/display-settings.php:13
+msgid "Show on desktop"
+msgstr "Toon op desktop"
+
+#: views/display-settings.php:5
+msgid "Time Symbols"
+msgstr "Tijdsymbolen"
+
+#: views/design-settings.php:159
+msgid "GDPR Notice"
+msgstr "AVG/GDPR bericht"
+
+#: views/design-settings.php:147
+msgid "Response Time Text"
+msgstr "Reactietijd tekst"
+
+#: views/design-settings.php:128
+msgid "Widget Scroll Bar (PRO)"
+msgstr "Widget scrolbalk (PRO)"
+
+#: views/design-settings.php:99
+msgid "Widget Distance"
+msgstr "Widget afstand"
+
+#: views/design-settings.php:91
+msgid "Right"
+msgstr "Rechts"
+
+#: views/design-settings.php:88
+msgid "Left"
+msgstr "Links"
+
+#: views/design-settings.php:83
+msgid "Widget Position"
+msgstr "Widget positie"
+
+#: views/design-settings.php:79
+msgid "Widget Background Color"
+msgstr "Widget achtergrondkleur"
+
+#: views/design-settings.php:68
+msgid "Regular Text"
+msgstr "Gewone tekst"
+
+#: views/design-settings.php:52 views/design-settings.php:153
+msgid "Description"
+msgstr "Beschrijving"
+
+#: views/design-settings.php:41
+msgid "Widget Font Size"
+msgstr "Widget lettertype grootte"
+
+#: views/design-settings.php:36
+msgid "Widget Text Color"
+msgstr "Widget tekstkleur"
+
+#: views/design-settings.php:25
+msgid "Widget Label Width(px)"
+msgstr "Widget labelbreedte (px)"
+
+#: views/design-settings.php:20
+msgid "Widget Label Text"
+msgstr "Widget labeltekst"
+
+#: views/design-settings.php:10
+msgid "Show Widget Label"
+msgstr "Toon widget label"
+
+#: views/design-settings.php:5
+msgid "Widget Text"
+msgstr "Widget tekst"
+
+#: views/design-settings.php:2 views/display-settings.php:2
+msgid "Setting text and style for the floating widget."
+msgstr "Tekst en stijl instellen voor de zwevende widget."
+
+#: views/analytics.php:36 views/design-settings.php:173
+#: views/display-settings.php:105 views/url-settings.php:43
+#: views/user-role-settings.php:26 views/woocommerce-button.php:79
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: views/analytics.php:31
+msgid "Access Facebook for Business and view recorded events in Event Manager"
+msgstr "Ga naar Facebook for Business en bekijk opgenomen gebeurtenissen in Event Manager"
+
+#: views/analytics.php:25
+msgid "Facebook Pixel (PRO)"
+msgstr "Facebook Pixel (PRO)"
+
+#: views/analytics.php:21
+msgid "Please enable this feature if your website is using Google Analytics 4"
+msgstr "Schakel deze functie in als je site Google Analytics 4 gebruikt"
+
+#: views/analytics.php:11
+msgid "Gain insights of WhatsApp tracking in Google Analytics > Behavior > Events"
+msgstr "Krijg inzicht in WhatsApp tracking in Google Analytics > Gedrag > Gebeurtenissen"
+
+#: views/analytics.php:5
+msgid "Google Analytics (PRO)"
+msgstr "Google Analytics (PRO)"
+
+#: views/analytics.php:1
+msgid "Enable WhatsApp trackers to monitor your WhatsApp widget, button and other guest activities."
+msgstr "Schakel WhatsApp trackers in om je WhatsApp widget, knop en andere gastactiviteiten te volgen."
+
+#: includes/Upgrade.php:92
+msgid "Update WhatsApp Database"
+msgstr "WhatsApp database updaten"
+
+#: includes/Upgrade.php:89
+msgid "WhatsApp has been updated! To use the latest version, you have to update your database to make your WhatsApp accounts work correctly."
+msgstr "WhatsApp is geüpdatet! Om de nieuwste versie te gebruiken, moet je je database updaten om je WhatsApp accounts correct te laten werken."
+
+#: includes/Upgrade.php:86
+msgid "WhatsApp database update required"
+msgstr "WhatsApp database update vereist"
+
+#: includes/Upgrade.php:79
+msgid "Restored Successfully!"
+msgstr "Succesvol teruggezet!"
+
+#: includes/Upgrade.php:73
+msgid "Please contact us! we can't restore your accounts!"
+msgstr "Neem contact met ons op! We kunnen je accounts niet terugzetten!"
+
+#: includes/Settings.php:204
+msgid "Select posts to display the widget"
+msgstr "Selecteer berichten om de widget weer te geven"
+
+#: includes/Settings.php:90 views/floating-widget-settings.php:9
+msgid "Floating Widget"
+msgstr "Zwevende widget"
+
+#: includes/Settings.php:89
+msgid "Add New account"
+msgstr "Nieuw account toevoegen"
+
+#: includes/Settings.php:76
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/Settings.php:68 includes/Settings.php:95
+msgid "Go Pro"
+msgstr "Ga voor Pro"
+
+#: includes/Settings.php:63 includes/Settings.php:91 views/settings.php:9
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/Review.php:79
+msgid "No, thanks"
+msgstr "Nee, dank je"
+
+#: includes/Review.php:78
+msgid "Later"
+msgstr "Later"
+
+#: includes/Review.php:77
+msgid "Rate now"
+msgstr "Waardeer nu"
+
+#: includes/Review.php:74
+msgid "We will be forever grateful. Thank you in advance."
+msgstr "We zullen voor altijd dankbaar zijn. Bedankt alvast."
+
+#: includes/Recommended/views/content.php:213
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr "Deze plugin werkt niet met je versie van PHP."
+
+#: includes/Recommended/views/content.php:204
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr "Deze plugin werkt niet met je versie van WordPress."
+
+#. translators: %s: URL to Update PHP page.
+#: includes/Recommended/views/content.php:198
+#: includes/Recommended/views/content.php:217
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr "<a href=\"%s\">Leer meer over het updaten van PHP</a>."
+
+#. translators: %s: URL to WordPress Updates screen.
+#: includes/Recommended/views/content.php:192
+#: includes/Recommended/views/content.php:208
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr "<a href=\"%s\">Update WordPress.</a>."
+
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+#: includes/Recommended/views/content.php:184
+msgid "<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
+msgstr "<a href=\"%1$s\">Update WordPress</a>en lees meer <a href=\"%2$s\">over het updaten van PHP.</a>."
+
+#: includes/Recommended/views/content.php:180
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr "Deze plugin werkt niet met je versies van WordPress en PHP."
+
+#: includes/Recommended/views/content.php:150
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: includes/Recommended/views/content.php:144
+msgctxt "plugin"
+msgid "Cannot Activate"
+msgstr "Kan niet activeren"
+
+#. translators: %s: Plugin name.
+#: includes/Recommended/views/content.php:131
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Netwerk activeer %s"
+
+#: includes/Recommended/views/content.php:129
+msgid "Network Activate"
+msgstr "Netwerk activeren"
+
+#. translators: %s: Plugin name.
+#: includes/Recommended/views/content.php:118
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Activeer %s"
+
+#: includes/Recommended/views/content.php:116
+msgid "Activate"
+msgstr "Activeren"
+
+#: includes/Recommended/views/content.php:111
+msgctxt "plugin"
+msgid "Activated"
+msgstr "Geactiveerd"
+
+#: includes/Recommended/views/content.php:94
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Kan niet updaten"
+
+#: includes/Recommended/views/content.php:89
+msgid "Update Now"
+msgstr "Nu updaten"
+
+#. translators: %s: Plugin name and version.
+#: includes/Recommended/views/content.php:87
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Update %s nu"
+
+#: includes/Recommended/views/content.php:71
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Kan niet installeren"
+
+#: includes/Recommended/views/content.php:66
+msgid "Install Now"
+msgstr "Nu installeren"
+
+#. translators: %s: Plugin name and version.
+#: includes/Recommended/views/content.php:65
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "%s nu installeren"
+
+#: includes/Recommended/Recommended.php:462
+msgid "Update success"
+msgstr "Update succesvol"
+
+#: includes/Recommended/Recommended.php:438
+msgid "Install success"
+msgstr "Installeren succesvol"
+
+#: includes/Recommended/Recommended.php:356
+msgid "Activate success"
+msgstr "Activeren succesvol"
+
+#: includes/Recommended/Recommended.php:328
+#: includes/Recommended/Recommended.php:372
+#: includes/Recommended/Recommended.php:481
+msgid "Error."
+msgstr "Fout."
+
+#: includes/Recommended/Recommended.php:319
+#: includes/Recommended/Recommended.php:363
+#: includes/Recommended/Recommended.php:472
+msgid "Error exception."
+msgstr "Fout uitzondering."
+
+#: includes/Recommended/Recommended.php:311
+msgid "Get data success"
+msgstr "Gegevens ophalen succesvol"
+
+#: includes/Recommended/Recommended.php:294
+#: includes/Recommended/Recommended.php:342
+#: includes/Recommended/Recommended.php:390
+msgid "Nonce is invalid"
+msgstr "Nonce is ongeldig"
+
+#: includes/Recommended/Recommended.php:155
+#: includes/Recommended/Recommended.php:245
+#: includes/Recommended/Recommended.php:552
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: includes/PostType.php:296
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/PostType.php:295
+msgid "Active Days"
+msgstr "Actieve dagen"
+
+#: includes/PostType.php:294 views/design-settings.php:44
+#: views/meta-accounts.php:23
+msgid "Title"
+msgstr "Titel"
+
+#: includes/PostType.php:293
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/PostType.php:292
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/PostType.php:291 views/design-settings.php:60
+msgid "Account Name"
+msgstr "Accountnaam"
+
+#: includes/PostType.php:56
+msgid "Manager Accounts"
+msgstr "Beheerder accounts"
+
+#: includes/PostType.php:51
+msgid "Remove avatar"
+msgstr "Verwijder profielfoto"
+
+#: includes/PostType.php:50
+msgid "Select an image"
+msgstr "Selecteer een afbeelding"
+
+#: includes/PostType.php:49 blocks/dist/blocks.build.js:1
+msgid "Avatar (PRO)"
+msgstr "Avatar (PRO)"
+
+#: includes/PostType.php:48
+msgid "Search Account"
+msgstr "Zoek account"
+
+#: includes/PostType.php:47
+msgid "View Accounts"
+msgstr "Accounts bekijken"
+
+#: includes/PostType.php:46
+msgid "All Accounts"
+msgstr "Alle accounts"
+
+#: includes/PostType.php:45
+msgid "New Account"
+msgstr "Nieuw account"
+
+#: includes/PostType.php:44
+msgid "Edit Account"
+msgstr "Account bewerken"
+
+#: includes/PostType.php:42 includes/PostType.php:43
+msgid "Add New Account"
+msgstr "Nieuw account toevoegen"
+
+#: includes/PostType.php:41
+msgid "Whatsapp Account"
+msgstr "WhatsApp account"
+
+#: includes/PostType.php:40
+msgid "WhatsApp Accounts"
+msgstr "WhatsApp accounts"
+
+#: includes/I18n.php:23
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/I18n.php:22 views/meta-button-style.php:73
+#: blocks/dist/blocks.build.js:1
+msgid "Online"
+msgstr "Online"
+
+#: includes/Helper.php:32
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: includes/Helper.php:31
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: includes/Helper.php:30
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: includes/Helper.php:29
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: includes/Helper.php:28
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: includes/Helper.php:27
+msgid "Monday"
+msgstr "Maandag"
+
+#: includes/Helper.php:26
+msgid "Sunday"
+msgstr "Zondag"
+
+#: includes/Helper.php:21
+msgid "Always online"
+msgstr "Altijd online"
+
+#: includes/Fields.php:127
+msgid "I will be back soon"
+msgstr "Ik ben zo terug"
+
+#: includes/Fields.php:126
+msgid "I will be back in [njwa_time_work]"
+msgstr "Ik ben terug in [njwa_time_work]"
+
+#: includes/Fields.php:97
+msgid "Please accept our <a href=\"https://ninjateam.org/privacy-policy/\">privacy policy</a> first to start a conversation."
+msgstr "Accepteer eerst ons <a href=\"https://ninjateam.org/privacy-policy/\">privacybeleid</a> om een gesprek te starten."
+
+#: includes/Fields.php:88
+msgid "Need Help? <strong>Chat with us</strong>"
+msgstr "Hulp nodig? <strong>Chat met ons</strong>"
+
+#: includes/Fields.php:78
+msgid "Hi! Click one of our member below to chat on <strong>WhatsApp</strong>"
+msgstr "Hallo! Klik hieronder op een van onze leden om te chatten op <strong>WhatsApp</strong>"
+
+#: includes/Fields.php:77
+msgid "The team typically replies in a few minutes."
+msgstr "Het team antwoordt meestal binnen een paar minuten."
+
+#: includes/Fields.php:76
+msgid "Start a Conversation"
+msgstr "Een gesprek starten"
+
+#: includes/Fields.php:29 includes/Upgrade.php:223
+msgid "Need Help? Chat with us"
+msgstr "Hulp nodig? Chat met ons"
+
+#: includes/Fallback.php:13
+msgid "Read more details."
+msgstr "Lees meer details."
+
+#: includes/Fallback.php:11
+msgid "It looks like you have another WhatsApp version installed, please delete it before activating this new version. All of the settings and data are still preserved."
+msgstr "Het lijkt erop dat je een andere WhatsApp versie hebt geïnstalleerd. Verwijder deze voordat je deze nieuwe versie activeert. Alle instellingen en gegevens blijven bewaard."
+
+#: includes/Cross.php:138
+msgid "Recommend"
+msgstr "Aanbevelen"
+
+#. Author URI of the plugin
+#: whatsapp.php
+msgid "https://ninjateam.org"
+msgstr "https://ninjateam.org"
+
+#. Author of the plugin
+#: whatsapp.php
+msgid "NinjaTeam"
+msgstr "NinjaTeam"
+
+#. Description of the plugin
+#: whatsapp.php
+msgid "Integrate your WhatsApp experience directly into your website. This is one of the best way to connect and interact with your customer."
+msgstr "Integreer je WhatsApp ervaring direct in je site. Dit is een van de beste manieren om verbinding te maken en te communiceren met je klant."
+
+#. Plugin URI of the plugin
+#: whatsapp.php
+msgid "https://ninjateam.org/whatsapp-chat-wordpress/"
+msgstr "https://ninjateam.org/whatsapp-chat-wordpress/"
+
+#. Plugin Name of the plugin
+#: whatsapp.php
+msgid "WP Chat App"
+msgstr "WP Chat App"

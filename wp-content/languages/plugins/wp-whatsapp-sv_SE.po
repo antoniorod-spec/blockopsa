@@ -1,0 +1,695 @@
+# Translation of Plugins - WP Chat App - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WP Chat App - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-15 21:07:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP Chat App - Stable (latest release)\n"
+
+#: views/woocommerce-button.php:73
+msgid "Enable Dokan vendor button"
+msgstr "Aktivera Dokan-säljarknapp"
+
+#: views/woocommerce-button.php:66
+msgid "Third party integrations (PRO)"
+msgstr "Tredjepartsintegrationer (PRO)"
+
+#: views/woocommerce-button.php:60
+msgid "Select accounts to display"
+msgstr "Välj konton som ska visas"
+
+#: views/woocommerce-button.php:53
+msgid "After long description"
+msgstr "Efter lång beskrivning"
+
+#: views/woocommerce-button.php:44
+msgid "After short description"
+msgstr "Efter kort beskrivning"
+
+#: views/woocommerce-button.php:35
+msgid "After Add to Cart button"
+msgstr "Efter knappen ”Lägg till i varukorg”"
+
+#: views/woocommerce-button.php:26
+msgid "Before Add to Cart button"
+msgstr "Före knappen ”Lägg till i varukorg”"
+
+#: views/woocommerce-button.php:17
+msgid "Button position"
+msgstr "Knappens position"
+
+#: views/woocommerce-button.php:8
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: views/woocommerce-button.php:4
+msgid "Display WhatsApp click to chat button on WooCommerce single product pages."
+msgstr "Visa knapp ”klicka för att chatta” från WhatsApp på WooCommerce sidor för enstaka produkter."
+
+#: views/user-role-settings.php:7
+msgid "Select User Roles to access"
+msgstr "Välj användarroller för åtkomst"
+
+#: views/url-settings.php:28
+msgid "URL for Mobile"
+msgstr "URL för mobil"
+
+#: views/url-settings.php:14
+msgid "URL for Desktop"
+msgstr "URL för stationär dator"
+
+#: views/url-settings.php:5
+msgid "Open in new tab"
+msgstr "Öppna i ny flik"
+
+#: views/url-settings.php:1
+msgid "Choose how you want to redirect WhatsApp URL."
+msgstr "Välj hur du vill omdirigera WhatsApp-URL."
+
+#: views/settings.php:17
+msgid "User Role"
+msgstr "Användarroll"
+
+#: views/settings.php:16
+msgid "WhatsApp URL"
+msgstr "WhatsApp-URL"
+
+#: views/settings.php:15
+msgid "Analytics"
+msgstr "Analyser"
+
+#: views/settings.php:14
+msgid "WooCommerce Button"
+msgstr "WooCommerce-knapp"
+
+#: views/selected-accounts.php:49 views/woocommerce-button.php:123
+msgid "Selected Accounts:"
+msgstr "Valda konton:"
+
+#: views/selected-accounts.php:47 views/woocommerce-button.php:121
+msgid "Please select accounts you want them to display in WhatsApp Chat Widget"
+msgstr "Välj de konton du vill visa i WhatsApp-chattwidgeten"
+
+#: views/meta-button-style.php:48
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: views/meta-button-style.php:39
+msgid "Button Text Color"
+msgstr "Knappens textfärg"
+
+#: views/meta-button-style.php:33
+msgid "Button Background Color"
+msgstr "Knappens bakgrundsfärg"
+
+#: views/meta-button-style.php:25 blocks/dist/blocks.build.js:1
+msgid "Square"
+msgstr "Fyrkant"
+
+#: views/meta-button-style.php:22 blocks/dist/blocks.build.js:1
+msgid "Round"
+msgstr "Rund"
+
+#: views/meta-button-style.php:17 blocks/dist/blocks.build.js:1
+msgid "Button Style"
+msgstr "Knappstil"
+
+#: views/meta-button-style.php:12
+msgid "This text applies only on shortcode button. Leave empty to use the default label."
+msgstr "Denna text tillämpas endast på kortkodsknapp. Lämna tomt för att använda standardetiketten."
+
+#: views/meta-button-style.php:8
+msgid "Button Label"
+msgstr "Knappetikett"
+
+#: views/meta-button-style.php:4
+msgid "This styling applies only to the shortcode buttons for this account."
+msgstr "Denna stilsättning avser endast kortkodsknappen för detta konto."
+
+#: views/meta-accounts.php:113
+msgid "You can use this text to display on days this account does not work."
+msgstr "Du kan använda denna text för att visa på vilka dagar som kontot inte arbetar."
+
+#: views/meta-accounts.php:111
+msgid "You can use shortcode [njwa_time_work] to display the exact time this account is back to work on a working day."
+msgstr "Du kan använda kortkoden [njwa_time_work] för att visa den exakta tidpunkten för detta konto är tillbaka i arbete på en arbetsdag."
+
+#: views/meta-accounts.php:108
+msgid "Description text when offline (PRO)"
+msgstr "Beskrivningstext vid offline (PRO)"
+
+#: views/meta-accounts.php:97
+msgid "Apply to All Days"
+msgstr "Tillämpa till alla dagar"
+
+#: views/meta-accounts.php:64
+msgid "This feature is now only available in Pro version.<br>If you still want to use it, please <a href=\"%1$s\">Upgrade PRO</a> or turn back to <a href=\"%2$s\">Version 2.6</a><br>Need help? <a href=\"%3$s\" style=\"color: #444\">Contact us</a>"
+msgstr "Denna funktion finns nu endast i Pro-versionen.<br>Om du fortfarande vill använda den, vänligen <a href=\"%1$s\">Uppgradera till PRO</a> eller gå tillbaka till <a href=\"%2$s\">Version 2.6</a><br>Behöver du hjälp? <a href=\"%3$s\" style=\"color: #444\">Kontakta oss</a>"
+
+#: views/meta-accounts.php:54
+msgid "Custom Availability (PRO)"
+msgstr "Anpassad tillgänglighet (PRO)"
+
+#: views/meta-accounts.php:42
+msgid "Always available online"
+msgstr "Alltid tillgänglig online"
+
+#: views/meta-accounts.php:36
+msgid "Use [njwa_page_title] and [njwa_page_url] shortcodes to output the page's title and URL respectively."
+msgstr "Använd kortkoderna [njwa_page_title] och [njwa_page_url] för att mata ut sidans rubrik respektive URL."
+
+#: views/meta-accounts.php:31
+msgid "Predefined Text"
+msgstr "Fördefinierad text"
+
+#: views/meta-accounts.php:17
+msgid "Refer to <a href=\"https://faq.whatsapp.com/en/general/21016748\" target=\"_blank\">https://faq.whatsapp.com/en/general/21016748</a> for a detailed explanation."
+msgstr "Hänvisa till <a href=\"https://faq.whatsapp.com/en/general/21016748\" target=\"_blank\">https://faq.whatsapp.com/en/general/21016748</a> för en detaljerad förklaring."
+
+#: views/meta-accounts.php:9
+msgid "Account Number or group chat URL"
+msgstr "Kontonummer eller URL för gruppchatt"
+
+#: views/floating-widget-settings.php:16
+msgid "Display Settings"
+msgstr "Visningsinställningar"
+
+#: views/floating-widget-settings.php:15
+msgid "Design"
+msgstr "Design"
+
+#: views/floating-widget-settings.php:14
+msgid "Selected Accounts"
+msgstr "Valda konton"
+
+#: views/display-settings.php:98
+msgid "Display on Posts (PRO)"
+msgstr "Visa på inlägg (PRO)"
+
+#: views/display-settings.php:36
+msgid "Hide on these pages..."
+msgstr "Dölj på dessa sidor …"
+
+#: views/display-settings.php:35
+msgid "Show on these pages..."
+msgstr "Visa på dessa sidor …"
+
+#: views/display-settings.php:34
+msgid "Show on all pages"
+msgstr "Visa på alla sidor"
+
+#: views/display-settings.php:31
+msgid "Display on Pages"
+msgstr "Visa på sidor"
+
+#: views/display-settings.php:22
+msgid "Show on mobile"
+msgstr "Visa på mobil"
+
+#: views/display-settings.php:13
+msgid "Show on desktop"
+msgstr "Visa på stationär dator"
+
+#: views/display-settings.php:5
+msgid "Time Symbols"
+msgstr "Tidssymboler"
+
+#: views/design-settings.php:159
+msgid "GDPR Notice"
+msgstr "GDPR-notis"
+
+#: views/design-settings.php:147
+msgid "Response Time Text"
+msgstr "Text för svarstid"
+
+#: views/design-settings.php:128
+msgid "Widget Scroll Bar (PRO)"
+msgstr "Rullkant för widgeten (PRO)"
+
+#: views/design-settings.php:99
+msgid "Widget Distance"
+msgstr "Widget-avstånd"
+
+#: views/design-settings.php:91
+msgid "Right"
+msgstr "Höger"
+
+#: views/design-settings.php:88
+msgid "Left"
+msgstr "Vänster"
+
+#: views/design-settings.php:83
+msgid "Widget Position"
+msgstr "Position för widget"
+
+#: views/design-settings.php:79
+msgid "Widget Background Color"
+msgstr "Widgetens bakgrundsfärg"
+
+#: views/design-settings.php:68
+msgid "Regular Text"
+msgstr "Vanlig text"
+
+#: views/design-settings.php:52 views/design-settings.php:153
+msgid "Description"
+msgstr "Beskrivning"
+
+#: views/design-settings.php:41
+msgid "Widget Font Size"
+msgstr "Widgetens textstorlek"
+
+#: views/design-settings.php:36
+msgid "Widget Text Color"
+msgstr "Widgetens textfärg"
+
+#: views/design-settings.php:25
+msgid "Widget Label Width(px)"
+msgstr "Bredd för widgetens textrubrik (px)"
+
+#: views/design-settings.php:20
+msgid "Widget Label Text"
+msgstr "Widgetens textrubrik"
+
+#: views/design-settings.php:10
+msgid "Show Widget Label"
+msgstr "Visa widgetetikett"
+
+#: views/design-settings.php:5
+msgid "Widget Text"
+msgstr "Widget-text"
+
+#: views/design-settings.php:2 views/display-settings.php:2
+msgid "Setting text and style for the floating widget."
+msgstr "Anger text och stil för den flytande widgeten."
+
+#: views/analytics.php:36 views/design-settings.php:173
+#: views/display-settings.php:105 views/url-settings.php:43
+#: views/user-role-settings.php:26 views/woocommerce-button.php:79
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: views/analytics.php:31
+msgid "Access Facebook for Business and view recorded events in Event Manager"
+msgstr "Logga in till Facebook for Business och se registrerade händelser i Event Manager"
+
+#: views/analytics.php:25
+msgid "Facebook Pixel (PRO)"
+msgstr "Facebook Pixel (PRO)"
+
+#: views/analytics.php:21
+msgid "Please enable this feature if your website is using Google Analytics 4"
+msgstr "Aktivera denna funktion om din webbplats använder Google Analytics 4"
+
+#: views/analytics.php:11
+msgid "Gain insights of WhatsApp tracking in Google Analytics > Behavior > Events"
+msgstr "Få insikter om WhatsApp-spårning i Google Analytics > Beteende > Händelser"
+
+#: views/analytics.php:5
+msgid "Google Analytics (PRO)"
+msgstr "Google Analytics (PRO)"
+
+#: views/analytics.php:1
+msgid "Enable WhatsApp trackers to monitor your WhatsApp widget, button and other guest activities."
+msgstr "Aktivera WhatsApp-spårning för att övervaka användningen av WhatsApp-widgeten, -knappen och andra åtgärder besökare utför."
+
+#: includes/Upgrade.php:92
+msgid "Update WhatsApp Database"
+msgstr "Uppdatera WhatsApp-databas"
+
+#: includes/Upgrade.php:89
+msgid "WhatsApp has been updated! To use the latest version, you have to update your database to make your WhatsApp accounts work correctly."
+msgstr "WhatsApp har uppdaterats! För att använda den senaste versionen måste du uppdatera din databas för att få dina WhatsApp-konton att fungera korrekt."
+
+#: includes/Upgrade.php:86
+msgid "WhatsApp database update required"
+msgstr "WhatsApp-databasuppdatering obligatoriskt"
+
+#: includes/Upgrade.php:79
+msgid "Restored Successfully!"
+msgstr "Återställdes utan problem!"
+
+#: includes/Upgrade.php:73
+msgid "Please contact us! we can't restore your accounts!"
+msgstr "Kontakta oss! Vi kan inte återställa dina konton!"
+
+#: includes/Settings.php:204
+msgid "Select posts to display the widget"
+msgstr "Välj inlägg för att visa widgeten"
+
+#: includes/Settings.php:90 views/floating-widget-settings.php:9
+msgid "Floating Widget"
+msgstr "Flytande widget"
+
+#: includes/Settings.php:89
+msgid "Add New account"
+msgstr "Lägg till nytt konto"
+
+#: includes/Settings.php:76
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/Settings.php:68 includes/Settings.php:95
+msgid "Go Pro"
+msgstr "Skaffa Pro"
+
+#: includes/Settings.php:63 includes/Settings.php:91 views/settings.php:9
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/Review.php:79
+msgid "No, thanks"
+msgstr "Nej tack"
+
+#: includes/Review.php:78
+msgid "Later"
+msgstr "Senare"
+
+#: includes/Review.php:77
+msgid "Rate now"
+msgstr "Betygsätt nu"
+
+#: includes/Review.php:74
+msgid "We will be forever grateful. Thank you in advance."
+msgstr "Vi kommer att vara evigt tacksamma. Tack på förhand."
+
+#: includes/Recommended/views/content.php:213
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr "Detta tillägg fungerar inte med din version av PHP."
+
+#: includes/Recommended/views/content.php:204
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr "Detta tillägg fungerar inte med din version av WordPress."
+
+#. translators: %s: URL to Update PHP page.
+#: includes/Recommended/views/content.php:198
+#: includes/Recommended/views/content.php:217
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr "<a href=\"%s\">Lär dig mer om uppdatering av PHP</a>."
+
+#. translators: %s: URL to WordPress Updates screen.
+#: includes/Recommended/views/content.php:192
+#: includes/Recommended/views/content.php:208
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr "<a href=\"%s\">Uppdatera WordPress</a>."
+
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+#: includes/Recommended/views/content.php:184
+msgid "<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
+msgstr "<a href=\"%1$s\">Uppdatera WordPress</a> och därefter <a href=\"%2$s\">lär dig mer om hur man uppdaterar PHP</a>."
+
+#: includes/Recommended/views/content.php:180
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr "Detta tillägg fungerar inte med dina versioner av WordPress och PHP."
+
+#: includes/Recommended/views/content.php:150
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installerat"
+
+#: includes/Recommended/views/content.php:144
+msgctxt "plugin"
+msgid "Cannot Activate"
+msgstr "Kan inte aktivera"
+
+#. translators: %s: Plugin name.
+#: includes/Recommended/views/content.php:131
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Aktivera %s för nätverk"
+
+#: includes/Recommended/views/content.php:129
+msgid "Network Activate"
+msgstr "Aktivera för nätverk"
+
+#. translators: %s: Plugin name.
+#: includes/Recommended/views/content.php:118
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Aktivera %s"
+
+#: includes/Recommended/views/content.php:116
+msgid "Activate"
+msgstr "Aktivera"
+
+#: includes/Recommended/views/content.php:111
+msgctxt "plugin"
+msgid "Activated"
+msgstr "Aktiverat"
+
+#: includes/Recommended/views/content.php:94
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Kan inte uppdatera"
+
+#: includes/Recommended/views/content.php:89
+msgid "Update Now"
+msgstr "Uppdatera nu"
+
+#. translators: %s: Plugin name and version.
+#: includes/Recommended/views/content.php:87
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Uppdatera %s nu"
+
+#: includes/Recommended/views/content.php:71
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Kan inte installera"
+
+#: includes/Recommended/views/content.php:66
+msgid "Install Now"
+msgstr "Installera nu"
+
+#. translators: %s: Plugin name and version.
+#: includes/Recommended/views/content.php:65
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Installera %s nu"
+
+#: includes/Recommended/Recommended.php:462
+msgid "Update success"
+msgstr "Uppdatering lyckades"
+
+#: includes/Recommended/Recommended.php:438
+msgid "Install success"
+msgstr "Installering lyckades"
+
+#: includes/Recommended/Recommended.php:356
+msgid "Activate success"
+msgstr "Aktivering lyckades"
+
+#: includes/Recommended/Recommended.php:328
+#: includes/Recommended/Recommended.php:372
+#: includes/Recommended/Recommended.php:481
+msgid "Error."
+msgstr "Fel."
+
+#: includes/Recommended/Recommended.php:319
+#: includes/Recommended/Recommended.php:363
+#: includes/Recommended/Recommended.php:472
+msgid "Error exception."
+msgstr "Felundantag."
+
+#: includes/Recommended/Recommended.php:311
+msgid "Get data success"
+msgstr "Hämtning av data lyckades"
+
+#: includes/Recommended/Recommended.php:294
+#: includes/Recommended/Recommended.php:342
+#: includes/Recommended/Recommended.php:390
+msgid "Nonce is invalid"
+msgstr "Engångskod är ogiltig"
+
+#: includes/Recommended/Recommended.php:155
+#: includes/Recommended/Recommended.php:245
+#: includes/Recommended/Recommended.php:552
+msgid "Recommended Plugins"
+msgstr "Rekommenderade tillägg"
+
+#: includes/PostType.php:296
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: includes/PostType.php:295
+msgid "Active Days"
+msgstr "Aktiva dagar"
+
+#: includes/PostType.php:294 views/design-settings.php:44
+#: views/meta-accounts.php:23
+msgid "Title"
+msgstr "Rubrik"
+
+#: includes/PostType.php:293
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/PostType.php:292
+msgid "Avatar"
+msgstr "Profilbild"
+
+#: includes/PostType.php:291 views/design-settings.php:60
+msgid "Account Name"
+msgstr "Kontonamn"
+
+#: includes/PostType.php:56
+msgid "Manager Accounts"
+msgstr "Kontohanterare"
+
+#: includes/PostType.php:51
+msgid "Remove avatar"
+msgstr "Ta bort profilbild"
+
+#: includes/PostType.php:50
+msgid "Select an image"
+msgstr "Välj en bild"
+
+#: includes/PostType.php:49 blocks/dist/blocks.build.js:1
+msgid "Avatar (PRO)"
+msgstr "Avatar (PRO)"
+
+#: includes/PostType.php:48
+msgid "Search Account"
+msgstr "Sök konto"
+
+#: includes/PostType.php:47
+msgid "View Accounts"
+msgstr "Visa konton"
+
+#: includes/PostType.php:46
+msgid "All Accounts"
+msgstr "Alla konton"
+
+#: includes/PostType.php:45
+msgid "New Account"
+msgstr "Nytt konto"
+
+#: includes/PostType.php:44
+msgid "Edit Account"
+msgstr "Redigera konto"
+
+#: includes/PostType.php:42 includes/PostType.php:43
+msgid "Add New Account"
+msgstr "Lägg till nytt konto"
+
+#: includes/PostType.php:41
+msgid "Whatsapp Account"
+msgstr "WhatsApp-konto"
+
+#: includes/PostType.php:40
+msgid "WhatsApp Accounts"
+msgstr "WhatsApp-konton"
+
+#: includes/I18n.php:23
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/I18n.php:22 views/meta-button-style.php:73
+#: blocks/dist/blocks.build.js:1
+msgid "Online"
+msgstr "Online"
+
+#: includes/Helper.php:32
+msgid "Saturday"
+msgstr "Lördag"
+
+#: includes/Helper.php:31
+msgid "Friday"
+msgstr "Fredag"
+
+#: includes/Helper.php:30
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: includes/Helper.php:29
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: includes/Helper.php:28
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: includes/Helper.php:27
+msgid "Monday"
+msgstr "Måndag"
+
+#: includes/Helper.php:26
+msgid "Sunday"
+msgstr "Söndag"
+
+#: includes/Helper.php:21
+msgid "Always online"
+msgstr "Alltid online"
+
+#: includes/Fields.php:127
+msgid "I will be back soon"
+msgstr "Jag kommer tillbaka snart"
+
+#: includes/Fields.php:126
+msgid "I will be back in [njwa_time_work]"
+msgstr "Jag kommer tillbaka om [njwa_time_work]"
+
+#: includes/Fields.php:97
+msgid "Please accept our <a href=\"https://ninjateam.org/privacy-policy/\">privacy policy</a> first to start a conversation."
+msgstr "Godkänn vår <a href=\"https://ninjateam.org/privacy-policy/\">integritetspolicy</a> först för att starta en konversation."
+
+#: includes/Fields.php:88
+msgid "Need Help? <strong>Chat with us</strong>"
+msgstr "Behöver du hjälp? <strong>Chatta med oss</strong>"
+
+#: includes/Fields.php:78
+msgid "Hi! Click one of our member below to chat on <strong>WhatsApp</strong>"
+msgstr "Hej! Klicka på en av våra medlemmar nedan för att chatta på <strong>WhatsApp</strong>"
+
+#: includes/Fields.php:77
+msgid "The team typically replies in a few minutes."
+msgstr "Teamet svarar vanligtvis inom några minuter."
+
+#: includes/Fields.php:76
+msgid "Start a Conversation"
+msgstr "Starta en konversation"
+
+#: includes/Fields.php:29 includes/Upgrade.php:223
+msgid "Need Help? Chat with us"
+msgstr "Behöver du hjälp? Chatta med oss"
+
+#: includes/Fallback.php:13
+msgid "Read more details."
+msgstr "Läs mer detaljer."
+
+#: includes/Fallback.php:11
+msgid "It looks like you have another WhatsApp version installed, please delete it before activating this new version. All of the settings and data are still preserved."
+msgstr "Det ser ut som att du har en annan WhatsApp-version installerad. Ta bort den innan du aktiverar den här nya versionen. Alla inställningar och data är fortfarande bevarade."
+
+#: includes/Cross.php:138
+msgid "Recommend"
+msgstr "Rekommendera"
+
+#. Author URI of the plugin
+#: whatsapp.php
+msgid "https://ninjateam.org"
+msgstr "https://ninjateam.org"
+
+#. Author of the plugin
+#: whatsapp.php
+msgid "NinjaTeam"
+msgstr "NinjaTeam"
+
+#. Description of the plugin
+#: whatsapp.php
+msgid "Integrate your WhatsApp experience directly into your website. This is one of the best way to connect and interact with your customer."
+msgstr "Integrera din WhatsApp-upplevelse direkt på din webbplats. Detta är ett av de bästa sätten att ansluta och interagera med din kund."
+
+#. Plugin URI of the plugin
+#: whatsapp.php
+msgid "https://ninjateam.org/whatsapp-chat-wordpress/"
+msgstr "https://ninjateam.org/whatsapp-chat-wordpress/"
+
+#. Plugin Name of the plugin
+#: whatsapp.php
+msgid "WP Chat App"
+msgstr "WP Chat App"

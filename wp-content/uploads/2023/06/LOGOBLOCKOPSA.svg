@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.75 125.56">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        font-family: Urfa-Bold, Urfa;
+        font-size: 47.98px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #14304e;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: #8dbf43;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <path class="cls-7" d="m54.37,125.56L0,94.17V31.39L54.37,0l54.37,31.39v62.78l-54.37,31.39ZM7.53,89.82l46.84,27.04,46.84-27.04v-54.08L54.37,8.7,7.53,35.74v54.08Z"/>
+      <path class="cls-3" d="m58.59,86.13h-19.56v-45.87h18.11c9.57,0,13.09,3.86,13.09,10.06v4.68c0,3.31-1.45,5.65-5.1,7.23,3.79.9,6.75,4.2,6.75,8.47v4.48c0,6.47-4.13,10.95-13.29,10.95Zm1.31-34.3c0-2-1.24-3.24-4.13-3.24h-6.41v10.47h6.41c2.75,0,4.13-1.38,4.13-3.24v-3.99Zm1.65,19.15c0-2.55-1.58-3.86-4.34-3.86h-7.85v10.68h6.41c3.24,0,5.78-.69,5.78-3.99v-2.82Z"/>
+      <rect class="cls-7" x="52.28" y="4.35" width="4.18" height="32.18"/>
+      <rect class="cls-7" x="1.37" y="80.98" width="35.59" height="4.18" transform="translate(-39.09 20.82) rotate(-30.11)"/>
+      <rect class="cls-7" x="87.49" y="65.28" width="4.18" height="35.59" transform="translate(-27.22 118.91) rotate(-59.9)"/>
+      <text class="cls-2" transform="translate(127.36 79.4)"><tspan class="cls-8" x="0" y="0">B</tspan><tspan class="cls-9" x="27.83" y="0">L</tspan><tspan class="cls-6" x="51.92" y="0">O</tspan><tspan class="cls-5" x="82.63" y="0">C</tspan><tspan class="cls-1" x="108.68" y="0">K</tspan><tspan class="cls-5" x="137.04" y="0">O</tspan><tspan x="167.27" y="0">P</tspan><tspan class="cls-5" x="195.82" y="0">S</tspan><tspan class="cls-4" x="221.59" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>

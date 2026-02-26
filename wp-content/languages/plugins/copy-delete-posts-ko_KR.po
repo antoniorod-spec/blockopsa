@@ -1,0 +1,1435 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-18 02:36:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#: copy-delete-posts.php
+msgid "https://inisev.com"
+msgstr "https://inisev.com"
+
+#. Author of the plugin
+#: copy-delete-posts.php
+msgid "Inisev"
+msgstr "Inisev"
+
+#: menu/configuration.php:618
+msgid "Enable \"Try it out\" buttons in add new plugin screen."
+msgstr "새로운 플러그인 추가 화면에서 \"시험해 보세요\" 버튼을 활성화합니다."
+
+#: menu/configuration.php:610
+msgid "Clicking on it will spin up a new WordPress instance with the respective plugin installed. Powered by %s."
+msgstr "클릭하면 해당 플러그인이 설치된 새로운 워드프레스 인스턴스가 스핀업됩니다. %s 제공"
+
+#: menu/configuration.php:608
+msgid "add new plugins"
+msgstr "새 플러그인 추가"
+
+#: menu/configuration.php:608
+msgid "If this feature is activated, you’ll see “Try it out”-buttons on the screen where you can"
+msgstr "이 기능이 활성화되면 화면에 \"시험해 보세요\" 버튼이 표시됩니다."
+
+#: menu/configuration.php:604
+msgid "Test new plugins before installing:"
+msgstr "설치 전 새 플러그인 테스트:"
+
+#: menu/modal.php:226
+msgid "click here to select multiple sites"
+msgstr "여러 사이트를 선택하려면 여기를 클릭하십시오"
+
+#: menu/configuration.php:634
+msgid "Adjust URLs in post content for new subsite"
+msgstr "새로운 서브사이트의 게시물 콘텐츠 URL 조정"
+
+#: menu/modal.php:56 menu/tooltips.php:118
+msgid "Select all"
+msgstr "전체 선택"
+
+#: menu/configuration.php:644
+msgid "Move <b>Copy & Delete Posts</b> <u>menu item</u> under <b>Tools</b> dropdown"
+msgstr "<b>게시물 복제/삭제</b> <u>메뉴 항목</u> 아래의 <b>도구</b> 드롭다운으로 이동"
+
+#: menu/configuration.php:343 menu/modal.php:196 menu/tooltips.php:257
+msgid "All post meta"
+msgstr "모든 게시물 메타"
+
+#: menu/variables.php:115
+msgid "Ok, done!"
+msgstr "완료"
+
+#: menu/variables.php:112
+msgid "No, I don't want to help you to improve the plugin."
+msgstr "아니, 플러그인 개선을 돕고 싶지 않습니다."
+
+#: menu/variables.php:106
+msgid "Trouble logging in there?"
+msgstr "로그인에 문제가 있나요?"
+
+#: menu/variables.php:101
+msgid "Go to forum"
+msgstr "포럼으로 가기"
+
+#: menu/variables.php:90
+msgid "However, we noticed some optimization potential on your server."
+msgstr "단, 서버 최적화 가능성을 발견했습니다."
+
+#: menu/variables.php:84
+msgid "Copy worked!"
+msgstr "복제됨!"
+
+#: menu/variables.php:44
+msgid "%b_start%Please%b_end% copy below logs %a_start%into the forum%a_end% so that we can make the plugin even better (for free)!"
+msgstr "%b_start%Please%b_end% 아래 로그 %a_start%를 포럼 %a_end%에 복제하여 플러그인을 더 좋게(공짜로) 만듭니다!"
+
+#: post/handler.php:691
+msgid "Invalid ID argument."
+msgstr "잘못된 ID 인수"
+
+#: menu/variables.php:96
+msgid "Copy logs"
+msgstr "복제 기록"
+
+#: copy-delete-posts.php:907
+msgid "Copy to clipboard failed, your browser does not support this function."
+msgstr "클립보드에 복제하지 못했습니다. 브라우저가 이 기능을 지원하지 않습니다."
+
+#: copy-delete-posts.php:906
+msgid "Copy to clipboard was successfull."
+msgstr "클립보드에 복제가 완료되었습니다."
+
+#: post/handler.php:1577
+msgid "We couldn't catch current tasks, please try again later."
+msgstr "현재 작업을 찾을 수 없습니다. 나중에 다시 시도하십시오."
+
+#: post/handler.php:1562
+msgid "We can't confirm that we killed this task now, please try again later or check if it't killed."
+msgstr "지금 이 작업을 종료했는지 확인할 수 없습니다. 나중에 다시 시도하거나 종료되지 않았는지 확인하십시오."
+
+#: post/handler.php:1539
+msgid "This task has already ended this work, please wait for list refresh and try again."
+msgstr "이 작업은 이미 종료되었습니다. 목록 갱신을 기다렸다가 다시 시도하십시오."
+
+#: post/handler.php:1523
+msgid "We can't hide this task now, – maybe it't already hidden. Please try again later."
+msgstr "이 작업은 숨길 수 없습니다. 이미 숨겨져 있지 않을 수도 있습니다. 나중에 다시 시도하십시오."
+
+#: post/handler.php:1448
+msgid "You can't clear messages when tasks are in progress, please firstly kill tasks or wait till the end."
+msgstr "작업이 진행 중일 때는 메시지를 지울 수 없습니다.먼저 작업을 종료하거나 끝까지 기다려 주십시오."
+
+#: post/handler.php:457
+msgid "Untitled Copy"
+msgstr "제목없는 복제"
+
+#: menu/variables.php:146
+msgid "Average time is 8 copies per second."
+msgstr "평균 시간은 초당 8개입니다."
+
+#: menu/variables.php:143
+msgid ""
+"If you’re making a lot of copies it can take a while\n"
+"        <br>(up to 5 minutes if you’re on a slow server)."
+msgstr ""
+"복제본을 많이 만드는 경우 시간이 좀 걸릴 수 있습니다\n"
+"        <br>(서버 속도가 느린 경우 최대 5분)."
+
+#: menu/variables.php:141
+msgid "Please wait, copying in progress..."
+msgstr "잠시 기다려 주십시오. 복제가 진행 중입니다."
+
+#: menu/variables.php:136
+msgid "Successfull copy image"
+msgstr "이미지 복제 성공"
+
+#: menu/tooltips.php:275
+msgid "to"
+msgstr "에게"
+
+#: menu/tooltips.php:223
+msgid "Link cats"
+msgstr "링크 카테고리"
+
+#: menu/tooltips.php:219
+msgid "Nav Menus"
+msgstr "네비게이션 메뉴"
+
+#: menu/tooltips.php:99
+msgid "define it for this case"
+msgstr "이 케이스에 대응합니다"
+
+#: menu/tooltips.php:72
+msgid "Settings:"
+msgstr "설정:"
+
+#: menu/tooltips.php:46
+msgid "Copy now!"
+msgstr "바로 복제!"
+
+#: menu/notifications.php:95
+msgid "Clear notifiactions"
+msgstr "알림 지우기"
+
+#: menu/notifications.php:68
+msgid "Done:"
+msgstr "완료:"
+
+#: menu/notifications.php:45
+msgid "In progress:"
+msgstr "진행 중:"
+
+#: menu/notifications.php:38
+msgid "Copy & Delete"
+msgstr "Copy & Delete (제목)"
+
+#: menu/modal.php:245 menu/tooltips.php:296
+msgid "Copy and jump to editing"
+msgstr "복제 후 편집으로 이동"
+
+#: menu/modal.php:243 menu/tooltips.php:294
+msgid "Copy it!"
+msgstr "복제!"
+
+#: menu/modal.php:239 menu/tooltips.php:103 menu/tooltips.php:290
+msgid "Making more than 50 copies will take some time. – depending on your server."
+msgstr "사용하는 서버에 따라 다르지만 50개 이상 복제하려면 시간이 걸립니다."
+
+#: menu/modal.php:218 menu/modal.php:230 menu/tooltips.php:63
+#: menu/tooltips.php:279
+msgid "this site"
+msgstr "이 사이트"
+
+#: menu/modal.php:212 menu/tooltips.php:57 menu/tooltips.php:273
+msgid "time(s)"
+msgstr "시간(초)"
+
+#: menu/modal.php:189 menu/tooltips.php:250
+msgid "USM Settings"
+msgstr "USM 설정"
+
+#: menu/modal.php:181 menu/tooltips.php:242
+msgid "Yoast Settings"
+msgstr "Yoast 설정"
+
+#: menu/modal.php:173 menu/tooltips.php:234
+msgid "Woo Settings"
+msgstr "Woo 설정"
+
+#: menu/modal.php:167 menu/tooltips.php:228
+msgid "Plugin options:"
+msgstr "플러그인 옵션:"
+
+#: menu/modal.php:104 menu/tooltips.php:165
+msgid "Feat. image"
+msgstr "부연. 이미지"
+
+#: menu/modal.php:58 menu/tooltips.php:120
+msgid "–– Profiles ––"
+msgstr "–- 프로파일 –-"
+
+#: menu/modal.php:57 menu/tooltips.php:119
+msgid "Clean slate"
+msgstr "새 판짜기"
+
+#: menu/modal.php:55 menu/tooltips.php:77 menu/tooltips.php:117
+msgid "–– Select ––"
+msgstr "–– 선택 ––"
+
+#: menu/modal.php:52 menu/tooltips.php:115
+msgid "Use as basis settings"
+msgstr "기본 설정으로 사용"
+
+#: menu/modal.php:48 menu/tooltips.php:111
+msgid "Elements to copy:"
+msgstr "복제할 요소:"
+
+#: menu/configuration.php:990 menu/variables.php:107
+msgid "Your account on Wordpress.org (where you open a new support thread) is different to the one you login to your WordPress dashboard (where you are now). If you don't have a WordPress.org account yet, please sign up at the top right on here. It only takes a minute :) Thank you!"
+msgstr "Wordpress.org의 계정(새 지원 글타래을 여는 곳)과 워드프레스 알림판에 로그인하는 계정(지금 있는 곳)이 다릅니다. 아직 WordPress.org 계정이 없는 경우 여기 오른쪽 상단에서 가입하세요. 1분이면 됩니다.) 감사합니다!"
+
+#: menu/configuration.php:990
+msgid "<b>Questions?</b> We're happy to help in the <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">Support Forum</a>."
+msgstr "<b>질문?</b> <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">지원 포럼</a>에 도움을 주게 되어 기쁩니다."
+
+#: menu/configuration.php:969
+msgid "You will be notified when the deletion process ends via <span class=\"cdp-green\">Admin Bar Menu</span>."
+msgstr "삭제 프로세스가 끝나면 <span class=\"cdp-green\">Admin Bar Menu</span>로 알려주세요."
+
+#: menu/configuration.php:966
+msgid "Delete selected pages/posts!"
+msgstr "선택한 게시물/페이지 삭제!"
+
+#: menu/configuration.php:963
+msgid "I completed <u>all</u> steps, it’s ok!"
+msgstr "<u>모든</u> 절차를 완료했습니다. 괜찮습니다!"
+
+#: menu/configuration.php:950
+msgid "Select this option to move deleted posts to trash (instead of deleting them permanently right away)."
+msgstr "삭제된 게시물을 즉시 영구적으로 삭제하는 대신 휴지통으로 이동하려면 이 옵션을 선택합니다."
+
+#: menu/configuration.php:948
+msgid "Yes, keep deleted posts in trash!"
+msgstr "예, 삭제된 게시물은 휴지통에 보관하십시오!"
+
+#: menu/configuration.php:944
+msgid "Move post(s) to trash?"
+msgstr "게시물을 휴지통으로 이동하시겠습니까?"
+
+#: menu/configuration.php:938
+msgid "If it’s necessary the process will dynamically slow down - depending on your server’s resource consumption. For example, if you’re using another plugin which is running a background process and it takes a lot of resources (+50%), our plugin will wait/slow down until the other process is complete."
+msgstr "필요한 경우 서버의 리소스 소비량에 따라 프로세스 속도가 동적으로 느려집니다. 예를 들어 백그라운드 프로세스를 실행하는 다른 플러그인을 사용 중인데 리소스를 많이(+50%) 사용하는 경우, 다른 프로세스가 완료될 때까지 플러그인이 대기하거나 느려집니다."
+
+#: menu/configuration.php:936
+msgid "Enable this if you want to have your posts/pages getting deleted in batches (instead of all at once).<br />This reduces the risk of timeouts if you have a lot to delete.<br />"
+msgstr "게시물/페이지를 한 번에 모두 삭제하는 대신 일괄적으로 삭제하려면 이 기능을 활성화하세요.<br />이렇게 하면 삭제할 항목이 많을 때 시간 초과 위험이 줄어듭니다.<br />"
+
+#: menu/configuration.php:931
+msgid "per minute"
+msgstr "1분 당"
+
+#: menu/configuration.php:925
+msgid "Delete"
+msgstr "삭제"
+
+#: menu/configuration.php:916
+msgid "Deletion throttling"
+msgstr "삭제 조절 장치"
+
+#: menu/configuration.php:912
+msgid "Enable this if you want to redirect the urls from your deleted posts/pages to the main one you decided to keep."
+msgstr "삭제된 게시물/페이지에서 유지하기로 결정한 메인 페이지로 URL을 리디렉션하려면 이 옵션을 활성화하십시오."
+
+#: menu/configuration.php:907 menu/configuration.php:921
+msgid "Enabled"
+msgstr "허용"
+
+#: menu/configuration.php:906 menu/configuration.php:920
+msgid "Disabled"
+msgstr "해제"
+
+#: menu/configuration.php:901
+msgid "Automatic redirection"
+msgstr "자동 리디렉션"
+
+#: menu/configuration.php:894
+msgid "Check if you need these features (optional):"
+msgstr "이러한 기능이 필요한지 확인합니다(선택). :"
+
+#: menu/configuration.php:890
+msgid "Select all the posts & pages which should be deleted (by ticking the checkboxes in the table above)."
+msgstr "위 표의 체크박스를 켜서 삭제할 모든 게시물과 페이지를 선택합니다."
+
+#: menu/configuration.php:886
+msgid "Make sure you created a backup with, e.g. with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>."
+msgstr "<a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">이 플러그인</a>으로 백업을 생성했는지 확인합니다."
+
+#: menu/configuration.php:880
+msgid "Steps to deletion:"
+msgstr "삭제 절차:"
+
+#: menu/configuration.php:875
+msgid "You selected <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> pages/posts to be deleted"
+msgstr "<b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> 페이지/패킷을 삭제하도록 선택했습니다."
+
+#: menu/configuration.php:867
+msgid "<u class=\"cdp-d-select-all cdp-f-w-light\">Select all</u> (also from other pages)"
+msgstr "<u class=\"cdp-d-select-all cdp-f-w-light\">모두 선택</u> (다른 페이지에서도)"
+
+#: menu/configuration.php:850
+msgid "# of words"
+msgstr "단어 갯수"
+
+#: menu/configuration.php:849
+msgid "Date created"
+msgstr "생성일"
+
+#: menu/configuration.php:848
+msgid "Type"
+msgstr "형식"
+
+#: menu/configuration.php:847
+msgid "Slug/URL"
+msgstr "슬러그/URL"
+
+#: menu/configuration.php:834
+msgid "per page"
+msgstr "페이지당"
+
+#: menu/configuration.php:821
+msgid "Show"
+msgstr "보기"
+
+#: menu/configuration.php:813
+msgid "Scan has found [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] duplicates"
+msgstr "스캔에서 [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] 중복이 발견되었습니다."
+
+#: menu/configuration.php:806
+msgid "Scan for duplicates now!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(at this point nothing gets deleted)</small>"
+msgstr "복제하기 위해 지금 바로 스캔!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(이 시점에서는 아무것도 삭제되지 않습니다)</small>"
+
+#: menu/configuration.php:800
+msgid "<b>Filter results (optional)</b>: Only list them, if they<span id=\"cdpp-switch-mf\"> […]</span>"
+msgstr "<b>필터 결과 (선택)</b>: <span id=\"cdpp-switch-mf\"> […]</span> 일람 표시합니다."
+
+#: menu/configuration.php:794
+msgid "Delete ALL duplicates, don’t keep any (Be careful!)"
+msgstr "모든 중복을 삭제하고 보관하지 마십시오 (주의하세요!)"
+
+#: menu/configuration.php:793
+msgid "Keep the newest duplicate (typically the last copy you made)"
+msgstr "최신 복제본 보관 (일반적으로 마지막으로 작성한 복제본)"
+
+#: menu/configuration.php:792
+msgid "Keep the oldest duplicate (typically the original)"
+msgstr "가장 오래된 복제본 (일반적으로 원본) 유지"
+
+#: menu/configuration.php:788
+msgid "Which version do you want to keep?"
+msgstr "어떤 버전을 유지하시겠습니까?"
+
+#: menu/configuration.php:780
+msgid "Huh?"
+msgstr "응?"
+
+#: menu/configuration.php:776
+msgid "Also count pages/posts of different types as duplicates"
+msgstr "다른 유형의 페이지/게시물도 중복으로 카운트"
+
+#: menu/configuration.php:775
+msgid "Only count pages/posts of the same type as duplicates"
+msgstr "복제와 같은 유형의 페이지/게시물만 카운트"
+
+#: menu/configuration.php:768
+msgid "...need others? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Suggest them!</a>"
+msgstr "...다른 것이 필요하세요? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">제안해 주세요!</a>"
+
+#: menu/configuration.php:766
+msgid "Word count"
+msgstr "단어 수"
+
+#: menu/configuration.php:764
+msgid "Excerpt (<span class=\"cdp-no-empty-text\"><b>including</b> empty</span>)"
+msgstr "요약글 (공백 <span class=\"cdp-no-empty-text\"><b>포함</b></span>)"
+
+#: menu/configuration.php:757
+msgid "When does “yes” make sense here?"
+msgstr "여기서 \"예\"는 언제 말이 됩니까?"
+
+#: menu/configuration.php:757
+msgid "The copies you created may have been given different titles automatically (according to the rules in <a href=\"#\" class=\"cdp-go-to-names-chapter\">this section</a>) and therefore would not count as duplicates as they have different titles.<br /><br />To remedy this, you can select “Yes” here so that those posts/pages also get considered as duplicates."
+msgstr "(<a href=\"#\" class=\"cdp-go-to-names-chapter\">이 섹션</a>의 규칙에 따라) 생성한 복제본에 자동으로 다른 제목이 주어졌을 수 있어 제목이 다르므로 중복으로 계산되지 않을 수 있습니다.<br /><br />이 문제를 해결하려면 여기에서 '예'를 선택하여 해당 글/페이지도 중복으로 간주되도록 할 수 있습니다."
+
+#: menu/configuration.php:756
+msgid "Yes"
+msgstr "네"
+
+#: menu/configuration.php:755
+msgid "No"
+msgstr "아니오"
+
+#: menu/configuration.php:752
+msgid "Do you want to consider different titles still to be identical if a) the copied posts/pages<br />were created by this plugin and b) they were not modified thereafter?"
+msgstr "A) 복제된 게시물/페이지가 이 플러그인에 의해 생성<br />되고 B) 변경되지 않은 경우 다른 제목을 동일한 것으로 간주하시겠습니까?"
+
+#: menu/configuration.php:747
+msgid "Slugs are never 100% identical (i.e. Wordpress adds a counter automatically to ensure they are unique). The rule to only have them at least 85% identical does the job fine (you can see after the scan which posts are considered identical)."
+msgstr "슬러그는 100% 동일하지 않습니다(즉, 워드프레스는 고유함을 보장하기 위해 카운터를 자동으로 추가합니다). 적어도 85%의 동일성을 가지는 룰은 작업에 문제가 없습니다(스캔 후에 어느 게시물가 동일하다고 생각되는지를 확인할 수 있습니다)."
+
+#: menu/configuration.php:747
+msgid "Similar slug"
+msgstr "유사한 슬러그"
+
+#: menu/configuration.php:744
+msgid "(show more options)"
+msgstr "(옵션 더 보기)"
+
+#: menu/configuration.php:736
+msgid "Count them as duplicates if they are identical with respect to <u class=\"cdp-f-w-bold\">all</u> of the below..."
+msgstr "아래의 <u class=\"cdp-f-w-bold\">모든 항목</u>과 동일한 경우 중복 항목으로 계산합니다."
+
+#: menu/configuration.php:731
+msgid "Custom posts"
+msgstr "맞춤 게시물"
+
+#: menu/configuration.php:726
+msgid "Scan for duplicates in..."
+msgstr "중복 항목 검색..."
+
+#: menu/configuration.php:709
+msgid "Go premium now"
+msgstr "프리미엄 서비스 바로 가기"
+
+#: menu/configuration.php:702
+msgid ""
+"And: you can also use this feature for any other redirections you may need\n"
+"                      (not only redirects from deleted posts/pages)!"
+msgstr ""
+"그리고: 필요할 수 있는 다른 리디렉션에도 이 기능을 사용할 수 있습니다↵\n"
+"                      (삭제된 게시물/페이지의 리디렉션뿐만 아니라)!"
+
+#: menu/configuration.php:699
+msgid "This isn’t just good for your visitors, but also for SEO: the “link juice” from your old (deleted) articles will be forwarded to the versions you keep, helping you to rank higher in search engines."
+msgstr "이것은 방문자뿐만 아니라 SEO에도 도움이 됩니다. 오래된(삭제된) 기사의 \"Link Juice\"에서 귀하가 보관하고 있는 버전으로 전송되어 검색 엔진에서 더 높은 순위를 매길 수 있습니다."
+
+#: menu/configuration.php:696
+msgid "As part of the <span class=\"cdp-green\">premium plugin</span> you can enable redirects, so that the URLs of your deleted posts/pages automatically take visitors to the version which you decided to keep."
+msgstr "<span class=\"cdp-green\">프리미엄 플러그인</span>의 일부로서 리다이렉트를 유효하게 하면, 삭제한 게시물이나 페이지의 URL에 의해서 자동적으로 보존하기로 한 버전으로 방문자가 이동하게 됩니다."
+
+#: menu/configuration.php:683
+msgid "Redirection"
+msgstr "리디렉션"
+
+#: menu/configuration.php:680
+msgid "Automatic Cleanup"
+msgstr "자동 청소"
+
+#: menu/configuration.php:677
+msgid "Manual Cleanup"
+msgstr "수동 청소"
+
+#: menu/configuration.php:672
+msgid ""
+"Before you delete anything here (which cannot be undone!) we <b class=\"cdp-f-w-bold\">strongly suggest</b><br />\n"
+"                that you create a backup, for example with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>"
+msgstr ""
+"여기에서 항목을 삭제하기 전에(되돌릴 수 없습니다!) <br />\n"
+"                <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">이 플러그인</a>을 사용하여 백업을 생성하시기를 <b class=\"cdp-f-w-bold\">강력하게 제안합니다</b>."
+
+#: menu/configuration.php:664
+msgid "Delete duplicate posts/pages"
+msgstr "복제된 게시물/페이지 삭제"
+
+#: menu/configuration.php:657
+msgid "...and after your copy frenzy, you may need to…"
+msgstr "...미친듯이 복제한 후에, 이런 것들이 필요…"
+
+#: menu/configuration.php:640
+msgid "Show post export & import buttons"
+msgstr "게시물 내보내기 및 가져오기 버튼 표시"
+
+#: menu/configuration.php:628
+msgid "Hide copy tooltip on hover and only show the button"
+msgstr "마우스 오버에 복제 도구 설명을 숨기고 단추만 표시"
+
+#: menu/configuration.php:623
+msgid "Additional features"
+msgstr "추가 기능"
+
+#: menu/configuration.php:584
+msgid "If checked, you will see a reference to the original post/page (on the copied version)."
+msgstr "체크박스를 켜면 (복제된 버전에 있는) 원본 게시물/페이지에 대한 참조가 표시됩니다."
+
+#: menu/configuration.php:583
+msgid "Show reference to original item?"
+msgstr "원본 아이템 참조 표시?"
+
+#: menu/configuration.php:581
+msgid "Gutenberg editor"
+msgstr "구텐베르크 에디터"
+
+#: menu/configuration.php:580
+msgid "Bulk actions menu"
+msgstr "대량 액션 메뉴"
+
+#: menu/configuration.php:578 menu/configuration.php:587
+msgid "Edit screens"
+msgstr "화면 편집"
+
+#: menu/configuration.php:577 menu/configuration.php:586
+msgid "Posts/pages lists"
+msgstr "게시물/페이지 목록"
+
+#: menu/configuration.php:575
+msgid "Display copy option on..."
+msgstr "복제 옵션 표시..."
+
+#: menu/configuration.php:573
+msgid "Custom posts types"
+msgstr "사용자 게시물 타입"
+
+#: menu/configuration.php:572 menu/configuration.php:729
+msgid "Posts"
+msgstr "게시물"
+
+#: menu/configuration.php:571 menu/configuration.php:730
+msgid "Pages"
+msgstr "페이지"
+
+#: menu/configuration.php:569
+msgid "Content types which can be copied"
+msgstr "복제 가능한 콘텐츠 유형"
+
+#: menu/configuration.php:549
+msgid "Which user role(s) should be able to copy & delete? <i style=\"color: gray\">– The role also must have access to the dashboard.</i>"
+msgstr "복제 및 삭제가 가능한 사용자 역할<i style=\"color: gray\"> – 이 역할에는 알림판에 대한 액세스 권한도 필요합니다.</i>"
+
+#: menu/configuration.php:548
+msgid "User level permissions"
+msgstr "사용자 수준의 권한"
+
+#: menu/configuration.php:544
+msgid "ALWAYS change the type when copied (posts will become pages, pages will become posts)"
+msgstr "복제시 항상 유형을 변경합니다 (게시물은 페이지가 되고 페이지는 게시물이 됩니다)"
+
+#: menu/configuration.php:543
+msgid "Copies will be the same type as the original"
+msgstr "복제본은 원본과 같은 유형입니다."
+
+#: menu/configuration.php:538
+msgid "However, if you want it as a <b class=\"cdp-f-w-bold\">default setting option</b>, then please select it below: "
+msgstr "단, <b class=\"cdp-f-w-bold\">기본 설정 옵션</b>으로 하려면 아래에서 선택하십시오. "
+
+#: menu/configuration.php:537
+msgid "If you want to make a page out of a post, or vice versa, then you can do this on a <b class=\"cdp-f-w-bold\">case by case basis</b> if you select the option “Define it specifically for this case” in the copy-tooltip, and then select this option on the following screen in the tooltip."
+msgstr "게시물에서 페이지를 만들거나 그 반대로 페이지를 만들려면 복제-툴팁에서 \"이 경우에만 특별히 정의하기\" 옵션을 선택한 후 다음 화면에서 툴팁의 이 옵션을 선택하면 <b class=\"cdp-f-w-bold\">사례별로 이런 작업을 수행</b>할 수 있습니다."
+
+#: menu/configuration.php:536
+msgid "By default, the type of what you copy does not change, i.e. if you copy a post the new version will also be a post, and the same for pages."
+msgstr "기본적으로 복제한 항목 유형은 변경되지 않습니다. 즉, 게시물을 복제하면 새 버전도 게시물이 되며 페이지도 마찬가지입니다."
+
+#: menu/configuration.php:532
+msgid "Pages vs. Posts converter"
+msgstr "페이지와 게시물 변환"
+
+#: menu/configuration.php:528
+msgid "If you created multiple copies in one go, you’ll be taken to the first copy."
+msgstr "한 번에 여러 개의 복제본을 만든 경우 첫 번째 복제본으로 이동합니다."
+
+#: menu/configuration.php:525
+msgid "Decide on a case-by-case basis (adds new button on copy screen)"
+msgstr "케이스 바이 케이스 (복제 화면에서 새 버튼 추가)"
+
+#: menu/configuration.php:524
+msgid "Take me to the edit-page of the created copy"
+msgstr "작성된 복제본 편집 페이지로 이동"
+
+#: menu/configuration.php:523
+msgid "Leave me where I was"
+msgstr "내가 있던 곳에 내버려 둬"
+
+#: menu/configuration.php:519
+msgid "Navigation after copying"
+msgstr "복제 후 탐색"
+
+#: menu/configuration.php:513
+msgid "<b class=\"cdp-ff-b4\">Other</b> options"
+msgstr "<b class=\"cdp-ff-b4\">기타</b> 옵션"
+
+#: menu/configuration.php:497
+msgid "If you make multiple copies in one go, use the Counter-option as otherwise some copies will have the same name."
+msgstr "한 번에 여러 개의 복제본을 만들 경우 카운터 옵션을 사용하십시오. 그렇지 않으면 일부 복제본의 이름이 동일하게 됩니다."
+
+#: menu/configuration.php:496
+msgid "If you’re not of the drag & droppy-type, you can also enter shortcodes [Counter], [CurrentDate] and [CurrentTime]."
+msgstr "드래그앤드롭 방식이 아닌 경우 쇼트코드 [Counter], [CurrentDate]과 [CurrentTime]도 입력할 수 있습니다."
+
+#: menu/configuration.php:495
+msgid "You can also type tailored text into the fields above."
+msgstr "위 필드에 맞춤 텍스트를 입력할 수도 있습니다."
+
+#: menu/configuration.php:491
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current time</b> in hh:mm:ss format"
+msgstr "<b class=\"cdp-f-w-semi-bold\">현재 시각</b>를 hh:mm:ss 형식으로 추가"
+
+#: menu/configuration.php:489
+msgid "CurrentTime"
+msgstr "현시간"
+
+#: menu/configuration.php:482
+msgid "format."
+msgstr "형식"
+
+#: menu/configuration.php:479 menu/modal.php:59 menu/tooltips.php:121
+msgid "Custom"
+msgstr "사용자정의"
+
+#: menu/configuration.php:478
+msgid "dd/mm/yyyy"
+msgstr "yyyy/mm/dd"
+
+#: menu/configuration.php:477
+msgid "mm/dd/yyyy"
+msgstr "yyyy/mm/dd"
+
+#: menu/configuration.php:474
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current date</b> in"
+msgstr "<b class=\"cdp-f-w-semi-bold\">현재 날짜 추가</b>"
+
+#: menu/configuration.php:469
+msgid "CurrentDate"
+msgstr "오늘 날짜"
+
+#: menu/configuration.php:465
+msgid "Adds an <b class=\"cdp-f-w-semi-bold\">incremental counter</b> (starting with “2”)"
+msgstr "<b class=\"cdp-f-w-semi-bold\">카운터 증가</b> (\"2\"부터 시작)"
+
+#: menu/configuration.php:463
+msgid "Counter"
+msgstr "카운터"
+
+#: menu/configuration.php:459
+msgid "Drag & drop the automatic elements into the Prefix/Suffix fields to add them."
+msgstr "자동 요소를 접두어/접미어 필드에 끌어다 놓아 추가합니다."
+
+#: menu/configuration.php:452
+msgid "Example based on current selections:"
+msgstr "현재 선택한 내용에 근거한 예:"
+
+#: menu/configuration.php:443
+msgid "Change to blank"
+msgstr "공백으로 변경"
+
+#: menu/configuration.php:434
+msgid "Suffix"
+msgstr "접미사"
+
+#: menu/configuration.php:432
+msgid "Prefix"
+msgstr "접두사"
+
+#: menu/configuration.php:428
+msgid "Build your preferred naming logic for the copies:"
+msgstr "복제본에 대해 원하는 명명 로직 구축:"
+
+#: menu/configuration.php:422
+msgid "What <b class=\"cdp-ff-b4\">name(s)</b> should the copies have?"
+msgstr "복제하면 <b class=\"cdp-ff-b4\">게시물 제목</b>을 어떻게 만들까요?"
+
+#: menu/configuration.php:411 menu/configuration.php:502
+#: menu/configuration.php:650 menu/configuration.php:973
+msgid "Close section"
+msgstr "섹션 닫기"
+
+#: menu/configuration.php:409 menu/configuration.php:500
+#: menu/configuration.php:648
+msgid "Save"
+msgstr "저장"
+
+#: menu/configuration.php:405
+msgid ""
+"Do you know anything else you want to have copied (e.g. data added by a different plugin)? <br />\n"
+"                Please <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">tell us about it</span></a>, we always want to further improve this plugin! :) "
+msgstr ""
+"복사하고 싶은 다른 것이 있습니까? (예: 다른 플러그인에 의해 추가된 데이터)<br />↵\n"
+"                저희는 항상 이 플러그인을 더욱 개선하고 싶으니 <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">알려주세요</span></a>! :) "
+
+#: menu/configuration.php:398
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO plugin</span></a> as the original."
+msgstr "…원본과 같은 <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO 플러그인</span></a>설정을 가져옵니다."
+
+#: menu/configuration.php:393
+msgid "Yoast SEO Settings"
+msgstr "Yoast SEO 설정"
+
+#: menu/configuration.php:381
+msgid "…the same settings from the <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media plugin</span></a> as the original."
+msgstr "…<a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media 플러그인</span>의  원본과 동일한 설정</a>."
+
+#: menu/configuration.php:376
+msgid "Ultimate Social Media Settings"
+msgstr "Ultimate Social Media 설정"
+
+#: menu/configuration.php:365 menu/configuration.php:382
+#: menu/configuration.php:399
+msgid "…get empty settings."
+msgstr "…빈 설정을 가져옵니다."
+
+#: menu/configuration.php:364
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">WooCommerce plugin</span></a> as the original."
+msgstr "…원본과 같은 <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">우커머스 플러그인</span></a>설정을 가져옵니다."
+
+#: menu/configuration.php:359
+msgid "WooCommerce Settings"
+msgstr "우커머스 설정"
+
+#: menu/configuration.php:349
+msgid "…copy only required post/page metadata."
+msgstr "…필요한 게시물/페이지 메타 데이터만 복제"
+
+#: menu/configuration.php:348
+msgid "…clone all metadata tags assigned to post/page."
+msgstr "…게시물/페이지에 할당된 모든 메타 데이터 태그를 복제합니다."
+
+#: menu/configuration.php:330 menu/modal.php:162
+msgid "Link categories"
+msgstr "링크 카테고리"
+
+#: menu/configuration.php:327 menu/configuration.php:332
+msgid "…be without private taxonomy."
+msgstr "…비공개 택소노미 없이."
+
+#: menu/configuration.php:326 menu/configuration.php:331
+msgid "…get this private taxonomy from the original."
+msgstr "…이 개인 분류법을 원본에서 가져옵니다."
+
+#: menu/configuration.php:321 menu/modal.php:158
+msgid "Navigation Menus"
+msgstr "네비게이션 메뉴"
+
+#: menu/configuration.php:311
+msgid "…be without custom taxonomy."
+msgstr "…사용자 분류법이 없습니다."
+
+#: menu/configuration.php:310
+msgid "…get all custom taxonomy from the original."
+msgstr "…모든 사용자 분류법을 원본에서 가져옵니다."
+
+#: menu/configuration.php:309 menu/modal.php:154 menu/tooltips.php:215
+msgid "Taxonomies"
+msgstr "택소노미"
+
+#: menu/configuration.php:306
+msgid "…be without any tags."
+msgstr "…태그가 없습니다."
+
+#: menu/configuration.php:305
+msgid "…get all tags of the original post."
+msgstr "…원본 게시물의 모든 태그를 가져옵니다."
+
+#: menu/configuration.php:304 menu/modal.php:150 menu/tooltips.php:211
+msgid "Tags"
+msgstr "태그"
+
+#: menu/configuration.php:301
+msgid "…be Uncategorized, no categories will be copied."
+msgstr "…분류되지 않음. 카테고리가 복제되지 않습니다."
+
+#: menu/configuration.php:300
+msgid "…get all categories from the original post."
+msgstr "…원본 게시물에서 모든 카테고리를 가져옵니다."
+
+#: menu/configuration.php:299 menu/modal.php:144 menu/tooltips.php:205
+msgid "Categories"
+msgstr "카테고리"
+
+#: menu/configuration.php:296
+msgid "…get the menu order set to default (0)."
+msgstr "…메뉴 순서를 디폴트(0)로 설정합니다."
+
+#: menu/configuration.php:295
+msgid "…get the <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">menu order</span></a> from the original."
+msgstr "… 원본에서 <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">메뉴 순서</span></a>를 가져옵니다."
+
+#: menu/configuration.php:294 menu/modal.php:136 menu/tooltips.php:197
+msgid "Menu order"
+msgstr "메뉴 순서"
+
+#: menu/configuration.php:291
+msgid "…get no comments from the original."
+msgstr "…원본에서 코멘트를 가져오지 않습니다."
+
+#: menu/configuration.php:290
+msgid "…get all comments from the original."
+msgstr "…원본에서 모든 코멘트를 가져옵니다."
+
+#: menu/configuration.php:289 menu/modal.php:132 menu/tooltips.php:193
+msgid "Comments"
+msgstr "댓글"
+
+#: menu/configuration.php:286
+msgid "…not get their child pages copied along (if the page is a parent)."
+msgstr "…하위 페이지를 복제하지 않습니다(페이지가 부모인 경우)."
+
+#: menu/configuration.php:285
+msgid "…get their <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">child pages</span></a> copied as well, with all current settings applied to child-duplicates (if the page is a parent)."
+msgstr "…<a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">하위 페이지</span></a>도 복제되며, 모든 현재 설정이 하위 중복 항목에 적용됩니다(페이지가 상위 페이지인 경우)."
+
+#: menu/configuration.php:284 menu/modal.php:126 menu/tooltips.php:187
+msgid "Children"
+msgstr "하위 항목"
+
+#: menu/configuration.php:281
+msgid "…get existing attachments from the original."
+msgstr "… 원본에서 기존 첨부 파일을 가져옵니다."
+
+#: menu/configuration.php:280
+msgid "…create new <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">attachments</span></a> (duplicates in Media Library) as well. <i>Recommended only for Multisites.</i>"
+msgstr "…새 <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">첨부파일</span></a>(미디어 라이브러리에 중복된 파일)도 만들 수 있습니다. <i>다중사이트에만 권장됩니다.</i>"
+
+#: menu/configuration.php:279 menu/modal.php:140 menu/tooltips.php:201
+msgid "Attachments"
+msgstr "첨부"
+
+#: menu/configuration.php:276
+msgid "…get no password."
+msgstr "…패스워드를 가져오지 않습니다."
+
+#: menu/configuration.php:275
+msgid "…get the same <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">password</span></a> as original."
+msgstr "…원본과 같은 <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">패스워드</span></a>를 가져옵니다."
+
+#: menu/configuration.php:274 menu/modal.php:122 menu/tooltips.php:183
+msgid "Password"
+msgstr "비밀번호"
+
+#: menu/configuration.php:271
+msgid "…get the user that is duplicating as an author."
+msgstr "…작성자로 복제하는 사용자를 가져옵니다."
+
+#: menu/configuration.php:270
+msgid "…get the same author as original."
+msgstr "…원본과 같은 작성자를 가져옵니다."
+
+#: menu/configuration.php:269 menu/modal.php:118 menu/tooltips.php:179
+msgid "Author"
+msgstr "작성자"
+
+#: menu/configuration.php:266
+msgid "…get the standard post format."
+msgstr "…표준 게시물 형식을 가져옵니다."
+
+#: menu/configuration.php:265
+msgid "…get the same <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">post format</span></a> as original."
+msgstr "…원본과 동일한 <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">게시물 형식</span></a>을 가져옵니다."
+
+#: menu/configuration.php:264 menu/modal.php:114 menu/tooltips.php:175
+msgid "Format"
+msgstr "형식"
+
+#: menu/configuration.php:261
+msgid "…get the default page template."
+msgstr "…기본 페이지 템플릿을 가져옵니다."
+
+#: menu/configuration.php:260
+msgid "…get the same page <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> as original."
+msgstr "…원본 페이지와 같은 <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">페이지 템플릿</span></a>을 가져옵니다."
+
+#: menu/configuration.php:259 menu/modal.php:108 menu/tooltips.php:169
+msgid "Template"
+msgstr "템플릿"
+
+#: menu/configuration.php:256
+msgid "…get no featured image."
+msgstr "…특성 이미지를 가져오지 않습니다."
+
+#: menu/configuration.php:255
+msgid "…it will set the same <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">featured image</span></a> as the original."
+msgstr "…원본과 같은 <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">특성 이미지</span></a>를 설정합니다."
+
+#: menu/configuration.php:254
+msgid "Featured image"
+msgstr "특성 이미지"
+
+#: menu/configuration.php:251
+msgid "…get no content (be completely blank)."
+msgstr "…콘텐츠를 가져오지 않음 (완전 공백)"
+
+#: menu/configuration.php:250
+msgid "…get all the content (text, images, videos and other elements/blocks) from the original."
+msgstr "…모든 콘텐츠(텍스트, 이미지, 비디오 및 기타 요소/블록)를 원본에서 가져옵니다."
+
+#: menu/configuration.php:249 menu/modal.php:100 menu/tooltips.php:161
+msgid "Content"
+msgstr "콘텐츠"
+
+#: menu/configuration.php:246
+msgid "…get an empty <i>custom</i> excerpt (and default to taking the first 55 words of the post)."
+msgstr "…빈 <i>사용자</i> 요약글을 가져옵니다(디폴트로는 게시물 첫 번째 55단어를 가져옵니다)."
+
+#: menu/configuration.php:245
+msgid "…get the custom <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">excerpt</span></a> (post/page summary) of the original (if the original had any)."
+msgstr "…원본이 있는 경우 원본의 사용자 <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">요약글</span></a>(게시물/페이지 요약)을 가져옵니다."
+
+#: menu/configuration.php:244 menu/modal.php:96 menu/tooltips.php:157
+msgid "Excerpt"
+msgstr "요약문"
+
+#: menu/configuration.php:241
+msgid "…get a blank slug, unless the page is published, then it will generate it automatically."
+msgstr "…빈 슬러그를 가져옵니다.페이지가 공개되지 않으면 자동으로 생성됩니다."
+
+#: menu/configuration.php:240
+msgid "…get the same <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> of the original. (However after publishing it will give it automatically a new slug because 2 pages cannot be on the same URL)."
+msgstr "…원본과 동일한 <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">슬러그</span></a>를 가져옵니다. (하지만 게시 후에는 동일한 URL에 두 페이지가 있을 수 없으므로 자동으로 새 슬러그가 생성됩니다.)"
+
+#: menu/configuration.php:239 menu/modal.php:90 menu/tooltips.php:151
+msgid "Slug"
+msgstr "슬러그"
+
+#: menu/configuration.php:236
+msgid "…get the status “Draft”."
+msgstr "…\"초안\" 상태를 가져옵니다."
+
+#: menu/configuration.php:235
+msgid "…get status of original article (which can be “published” or “deleted” etc.)"
+msgstr "…원본 게시물 상태 가져오기 ('발행' 또는 '삭제' 등)"
+
+#: menu/configuration.php:234 menu/modal.php:86 menu/tooltips.php:147
+msgid "Status"
+msgstr "상태"
+
+#: menu/configuration.php:231
+msgid "…get the date & time at time of copying. "
+msgstr "…복제한 날짜와 시간을 가져옵니다. "
+
+#: menu/configuration.php:230
+msgid "…get the same creation date & time as the original."
+msgstr "…원본과 같은 작성 날짜와 시간을 가져옵니다."
+
+#: menu/configuration.php:229 menu/modal.php:82 menu/tooltips.php:143
+msgid "Date"
+msgstr "날짜"
+
+#: menu/configuration.php:226
+msgid "…be titled “Untitled”."
+msgstr "…제목 없음"
+
+#: menu/configuration.php:225
+msgid "…get the title as defined in the <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">next section</span></a>."
+msgstr "…<a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">다음 섹션</span></a>에서 정의한 제목을 가져옵니다."
+
+#: menu/configuration.php:224 menu/configuration.php:741
+#: menu/configuration.php:846 menu/modal.php:78 menu/tooltips.php:139
+msgid "Title"
+msgstr "제목"
+
+#: menu/configuration.php:219
+msgid "<b>If <u class=\"cdp-f-w-bold\">un</u>checked</b> copies will..."
+msgstr "<b>만약  <u class=\"cdp-f-w-bold\">선택하지</u>않는다면</b> 복제본은..."
+
+#: menu/configuration.php:218
+msgid "<b>If checked</b> copies will..."
+msgstr "복제본을 <b>확인하면</b>..."
+
+#: menu/configuration.php:208
+msgid "Which <b class=\"cdp-ff-b4\">elements</b> shall be copied?"
+msgstr "어느 <b class=\"cdp-ff-b4\">엘리먼트</b>를 복제해야 합니까?"
+
+#: menu/configuration.php:196
+msgid "+ Add / manage / import / export settings"
+msgstr "+ 설정 추가/관리/가져오기/내보내기"
+
+#: menu/configuration.php:189
+msgid "settings"
+msgstr "설정"
+
+#: menu/configuration.php:185
+msgid "Add new"
+msgstr "새로 추가"
+
+#: menu/configuration.php:184 menu/modal.php:67 menu/tooltips.php:85
+#: menu/tooltips.php:129
+msgid "Default"
+msgstr "기본"
+
+#: menu/configuration.php:166
+msgid "Below are your"
+msgstr "아래는 당신의"
+
+#: menu/configuration.php:155
+msgid "Don't show this intro – never again!"
+msgstr "이 소개를 다시는 표시하지 마세요!"
+
+#: menu/configuration.php:151
+msgid "Got it, close intro!"
+msgstr "알겠습니다. 소개 닫기!"
+
+#: menu/configuration.php:149
+msgid "…and you can also <b>delete duplicate</b> posts easily, see below :)"
+msgstr "…또, <b>복제된 게시물의 삭제</b>는 간단합니다.아래를 참조해 주세요."
+
+#: menu/configuration.php:143 menu/configuration.php:579
+msgid "Admin bar"
+msgstr "관리자 표시줄"
+
+#: menu/configuration.php:137
+msgid "Edit screen"
+msgstr "화면 편집"
+
+#: menu/configuration.php:131
+msgid "List of posts/pages"
+msgstr "게시물/페이지 목록"
+
+#: menu/configuration.php:128
+msgid "You can now easily copy posts & pages in various areas:"
+msgstr "다양한 영역에서 게시물 및 페이지를 쉽게 복제할 수 있게 되었습니다."
+
+#: menu/configuration.php:122
+msgid "Show intro"
+msgstr "소개 보기"
+
+#: menu/configuration.php:119
+msgid "Welcome to Copy & Delete Posts!"
+msgstr "게시물 복제/삭제에 오신 것을 환영합니다!"
+
+#: menu/configuration.php:111
+msgid "Loading..."
+msgstr "로딩..."
+
+#: copy-delete-posts.php:1068
+msgid "Settings"
+msgstr "설정"
+
+#: copy-delete-posts.php:1008
+msgid "post"
+msgstr "게시물"
+
+#: copy-delete-posts.php:1008
+msgid "this"
+msgstr "이것"
+
+#: copy-delete-posts.php:1008
+msgid "Copy of"
+msgstr "복제본"
+
+#: copy-delete-posts.php:837
+msgid "There was an error with this notification."
+msgstr "이 알림에 오류가 발생했습니다."
+
+#: copy-delete-posts.php:836
+msgid "It will hide this banner just for now."
+msgstr "현재로서는 이 배너를 숨깁니다."
+
+#: copy-delete-posts.php:835
+msgid "Premium"
+msgstr "프리미엄"
+
+#: copy-delete-posts.php:833
+msgid "Plugin has been installed successfully, feel free to check those awesome features!"
+msgstr "플러그인은 정상적으로 설치되었습니다. 이 멋진 기능들을 확인하세요!"
+
+#: copy-delete-posts.php:831 copy-delete-posts.php:832
+msgid "There was an error and we couldn't kill the task."
+msgstr "오류가 발생하여 작업을 종료할 수 없습니다."
+
+#: copy-delete-posts.php:830
+msgid "The task has been killed"
+msgstr "작업이 종료되었습니다."
+
+#: copy-delete-posts.php:828 copy-delete-posts.php:829
+msgid "There was an error and we couldn't hide the task."
+msgstr "오류가 발생하여 작업을 숨길 수 없었습니다."
+
+#: copy-delete-posts.php:827
+msgid "The task has been hidden"
+msgstr "작업이 숨겨졌습니다."
+
+#: copy-delete-posts.php:825 copy-delete-posts.php:826
+msgid "We couldn't update task list, please try again later or kill tasks individualy."
+msgstr "작업 목록을 갱신할 수 없습니다. 나중에 다시 시도하거나 개별적으로 작업을 종료하십시오."
+
+#: copy-delete-posts.php:824
+msgid "Tasks cleared!"
+msgstr "작업이 완료되었습니다!"
+
+#: copy-delete-posts.php:823
+msgid "This banner will not appear again, if any feature is missing you can ask for it on our support forum!"
+msgstr "이 배너는 다시 표시되지 않습니다. 기능이 없는 경우 지원 포럼에서 요청하실 수 있습니다!"
+
+#: copy-delete-posts.php:822
+msgid "Alright! We will ask you again in 14 days!"
+msgstr "좋아요! 14일 후에 다시 묻겠습니다."
+
+#: copy-delete-posts.php:820 copy-delete-posts.php:821
+msgid "Thank you very much for the review, this banner will not appear again!"
+msgstr "리뷰 감사합니다. 이 배너는 다시 표시되지 않습니다!"
+
+#: copy-delete-posts.php:819
+msgid "Cannot send dismiss request. Are you connected to the internet?"
+msgstr "해제 요청을 보낼 수 없습니다. 인터넷에 접속되어 있습니까?"
+
+#: copy-delete-posts.php:818
+msgid "There was an issue while dismissing banner, please do it next time again."
+msgstr "배너를 해제하는 동안 문제가 발생했습니다. 다음에 다시 시도하십시오."
+
+#: copy-delete-posts.php:753
+msgid "Manual Cleanup removed "
+msgstr "수동 청소가 제거되었습니다 "
+
+#: copy-delete-posts.php:698
+msgid "Copy this post"
+msgstr "이 게시물 복제"
+
+#: copy-delete-posts.php:396 copy-delete-posts.php:426
+msgid "test"
+msgstr "테스트"
+
+#: copy-delete-posts.php:359
+msgid "Copy & Delete Posts Menu"
+msgstr "게시물 복제/삭제 메뉴"
+
+#: copy-delete-posts.php:357 copy-delete-posts.php:359
+msgid "<span id=\"cdp-menu\">Copy & Delete Posts</span>"
+msgstr "<span id=\"cdp-menu\">게시물 복제/삭제</span>"
+
+#: copy-delete-posts.php:329 copy-delete-posts.php:524
+msgid "Copy this"
+msgstr "이것을 복제"
+
+#: copy-delete-posts.php:260 copy-delete-posts.php:396
+#: copy-delete-posts.php:426 copy-delete-posts.php:450
+#: copy-delete-posts.php:472 menu/modal.php:207 menu/tooltips.php:268
+msgid "Copy"
+msgstr "복제"
+
+#: copy-delete-posts.php:914
+msgid "Please select basic settings for this copy."
+msgstr "이 복제본의 기본 설정을 선택하십시오."
+
+#: copy-delete-posts.php:913
+msgid "Please select at least one row to copy and try again."
+msgstr "복제할 행을 하나 이상 선택하고 다시 시도하십시오."
+
+#: copy-delete-posts.php:912
+msgid "Please select at least one row to copy."
+msgstr "복제할 행을 하나 이상 선택하십시오."
+
+#: copy-delete-posts.php:905
+msgid "–––––––––––––- END OF THE DEBUG OUTPUT –––––––––––––- "
+msgstr "–––––––––––––- 디버깅 출력 종료 –––––––––––––- "
+
+#: copy-delete-posts.php:904
+msgid "You're crazy! – Here is the output:"
+msgstr "미쳤네! – 결과는 다음과 같습니다."
+
+#: copy-delete-posts.php:903
+msgid "Are you REALLY sure?"
+msgstr "정말 확실한가요?"
+
+#: copy-delete-posts.php:902
+msgid "This post is a duplicate of"
+msgstr "이 게시물는 복제본입니다"
+
+#: copy-delete-posts.php:901
+msgid "Change the type of this copy <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+msgstr "이 복제본 <span class=\"cdp-premium-icon cdp-big-icon\"></span>의 유형을 변경합니다."
+
+#: copy-delete-posts.php:900
+msgid "If you’re on a multisite you can copy it to other sites."
+msgstr "여러 사이트를 가지고 있는 경우 다른 사이트에 복제할 수 있습니다."
+
+#: copy-delete-posts.php:898 copy-delete-posts.php:899
+msgid "This is a Premium Feature.<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Check it out and upgrade today</a>,<br>we made it <b>really affordable!</b>"
+msgstr "이것은 프리미엄 기능입니다.<br> <br>확인해 보시고 <b>저렴한 가격으로!</b> <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">지금 바로 업그레이드</a>하세요."
+
+#: copy-delete-posts.php:897
+msgid "If you’re on a multisite you can copy it to other sites with the Premium Plugin. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Order it now!</a>"
+msgstr "다중사이트에 있는 경우 프리미엄 플러그인을 사용하여 다른 사이트에 복제할 수 있습니다. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">지금 주문하세요!</a>"
+
+#: copy-delete-posts.php:896
+msgid "here"
+msgstr "여기"
+
+#: copy-delete-posts.php:895
+msgid "Define your copy settings"
+msgstr "복제 설정 정의"
+
+#: copy-delete-posts.php:894 menu/notifications.php:87
+msgid "Hide"
+msgstr "숨기기"
+
+#: copy-delete-posts.php:893 menu/notifications.php:86
+msgid "Auto Cleaned-up"
+msgstr "자동 정리"
+
+#: copy-delete-posts.php:892 menu/notifications.php:86
+msgid "Deleted Posts"
+msgstr "삭제된 게시물"
+
+#: copy-delete-posts.php:891 menu/notifications.php:56
+msgid "Kill"
+msgstr "Kill"
+
+#: copy-delete-posts.php:890 menu/notifications.php:55
+msgid "Auto Cleaning-up"
+msgstr "자동 청소"
+
+#: copy-delete-posts.php:889 menu/notifications.php:55
+msgid "Deleting Posts"
+msgstr "게시물 삭제"
+
+#: copy-delete-posts.php:888
+msgid "Change it to blank"
+msgstr "공백으로 변경"
+
+#: copy-delete-posts.php:887
+msgid "Change it to (Name of original)"
+msgstr "(원본 이름)으로 변경"
+
+#: copy-delete-posts.php:886
+msgid "only if <u><b>not</b></u> empty"
+msgstr "비어있지 <u><b>않은</b></u> 경우에만"
+
+#: copy-delete-posts.php:885
+msgid "<b>including</b> empty"
+msgstr "공백 <b>포함</b>"
+
+#: copy-delete-posts.php:884
+msgid "Something went wrong and we couldn't send request, are you connected to the internet?"
+msgstr "뭔가 잘못되어 요청을 보낼 수 없습니다. 인터넷에 연결되어 있습니까?"
+
+#: copy-delete-posts.php:883
+msgid "Something went wrong and we couldn't send request, please try refresh page and try again."
+msgstr "뭔가 잘못되어 요청을 보낼 수 없습니다. 페이지를 새로 고친 후 다시 시도하십시오."
+
+#: copy-delete-posts.php:882
+msgid "Unknown response, please try refresh the page!"
+msgstr "알 수 없는 응답입니다. 페이지를 새로 고치십시오!"
+
+#: copy-delete-posts.php:881
+msgid "License is valid, press the button again to activate!"
+msgstr "라이선스가 유효합니다. 활성화하려면 버튼을 다시 누르십시오!"
+
+#: copy-delete-posts.php:880
+msgid "License is already active, let us reload the page!"
+msgstr "라이선스는 이미 활성화되어 있습니다. 페이지를 새로고침 하겠습니다!"
+
+#: copy-delete-posts.php:879
+msgid "Please enter license key, currently it is empty."
+msgstr "라이선스 키를 입력하십시오. 현재 비어 있습니다."
+
+#: copy-delete-posts.php:878
+msgid "Something went wrong and we couldn't setup the deletion task. – Please check console for more info."
+msgstr "뭔가 잘못되어 삭제 태스크를 설정할 수 없습니다. – 자세한 내용은 콘솔을 확인하십시오."
+
+#: copy-delete-posts.php:877
+msgid "– Please try without throttling."
+msgstr "– 조정 장치없이 시도해주세요"
+
+#: copy-delete-posts.php:876
+msgid "Something went wrong and we couldn't setup the deletion task."
+msgstr "뭔가 잘못되어 삭제 태스크를 설정할 수 없습니다."
+
+#: copy-delete-posts.php:875
+msgid "Deletion process started, you can close this page now and wait till the process ends!"
+msgstr "삭제 프로세스가 시작되었습니다. 지금 이 페이지를 닫고 프로세스가 끝날 때까지 기다리십시오!"
+
+#: copy-delete-posts.php:874
+msgid "You have wrong count in throttling field, please fix."
+msgstr "슬롯링 필드에 잘못된 카운트가 있습니다. 수정하십시오."
+
+#: copy-delete-posts.php:873
+msgid "Nothing to do here, please select at least one post to delete."
+msgstr "여기서 할 일은 없습니다. 삭제할 게시물을 하나 이상 선택하십시오."
+
+#: copy-delete-posts.php:872
+msgid "Please check that you completed all steps, before this task!"
+msgstr "이 작업 전에 모든 단계를 완료했는지 확인하십시오!"
+
+#: copy-delete-posts.php:871
+msgid "No posts/pages meeting the current filter conditions."
+msgstr "현재 필터 조건을 충족하는 게시물/페이지가 없습니다."
+
+#: copy-delete-posts.php:870
+msgid "You did not select any filter.<br>Click <a href=\"#\" class=\"cdp-show-the-copies\">here</a> to show all copies (of the selected post type) made by this plugin."
+msgstr "필터를 선택하지 않았습니다.<br><a href=\"#\" class=\"cdp-show-the-copies\">여기</a>를 클릭하면 이 플러그인으로 만든 모든 사본(선택한 게시물 유형)을 볼 수 있습니다. ."
+
+#: copy-delete-posts.php:869
+msgid "Cannot connect to the server, premium filters will not be applied."
+msgstr "서버에 연결할 수 없습니다. 프리미엄 필터는 적용되지 않습니다."
+
+#: copy-delete-posts.php:868
+msgid "Please, check for: which duplicates you are looking for"
+msgstr "찾고 있는 중복 항목을 확인하십시오."
+
+#: copy-delete-posts.php:867
+msgid "Something went wrong and we couldn't get post list. – Please check console for more info."
+msgstr "뭔가 잘못되어 게시물 목록을 가져올 수 없습니다. – 자세한 내용은 콘솔을 확인하십시오."
+
+#: copy-delete-posts.php:866
+msgid "There was an error while getting data from server, please try again."
+msgstr "서버에서 데이터를 가져오는 동안 오류가 발생했습니다. 다시 시도하십시오."
+
+#: copy-delete-posts.php:865 copy-delete-posts.php:918
+msgid "Copy in progress..."
+msgstr "복제 진행중..."
+
+#: copy-delete-posts.php:864
+msgid "Something went wrong and we couldn't get profile settings – please try again!"
+msgstr "뭔가 잘못되어 프로파일 설정을 가져올 수 없습니다.다시 시도해 주세요 !"
+
+#: copy-delete-posts.php:863
+msgid "Copy & Delete Post – Error"
+msgstr "게시물 복제/삭제 – 오류"
+
+#: copy-delete-posts.php:862
+msgid "Something went wrong and we couldn't get profile settings. – Check console for more details"
+msgstr "뭔가 잘못되어 프로파일 설정을 가져올 수 없습니다. – 자세한 내용은 콘솔에서 확인"
+
+#: copy-delete-posts.php:861
+msgid "Unable to recognize selected profile, please try again."
+msgstr "선택한 프로파일을 인식할 수 없습니다.다시 시도하십시오."
+
+#: copy-delete-posts.php:860 copy-delete-posts.php:917
+msgid "Couldn't recognize that button, please try again."
+msgstr "버튼을 인식할 수 없습니다. 다시 시도하십시오."
+
+#: copy-delete-posts.php:859 copy-delete-posts.php:916
+msgid "Something went wrong and we couldn't copy this post. – See dev console for more info."
+msgstr "뭔가 잘못되어 이 게시물을 복제할 수 없습니다. – 자세한 내용은 개발 콘솔을 참조하십시오."
+
+#: copy-delete-posts.php:858 copy-delete-posts.php:915
+msgid "Something went wrong and we couldn't copy this post – please try again!"
+msgstr "뭔가 잘못되어 이 게시물을 복제할 수 없습니다.다시 시도해 주세요 !"
+
+#: copy-delete-posts.php:857
+msgid "You need to insert positive number for copies."
+msgstr "복제를 위해 양수를 삽입해야 합니다."
+
+#: copy-delete-posts.php:856 menu/configuration.php:443
+#: menu/configuration.php:454
+msgid "(Name of original)"
+msgstr "(원래 이름)"
+
+#: copy-delete-posts.php:855
+msgid "Something went wrong and we couldn't save your settings. – Please check console for more info."
+msgstr "뭔가 잘못되어 설정을 저장할 수 없습니다. – 자세한 내용은 콘솔을 확인하십시오."
+
+#: copy-delete-posts.php:854
+msgid "Something went wrong and we couldn't save your settings."
+msgstr "뭔가 잘못되어 설정을 저장할 수 없습니다."
+
+#: copy-delete-posts.php:853
+msgid "All your settings were saved!"
+msgstr "설정이 저장되었습니다!"
+
+#: copy-delete-posts.php:852
+msgid "Something went wrong and we couldn't update intro settings. – Please check console for more info."
+msgstr "뭔가 잘못되어 소개글 설정을 갱신할 수 없습니다. – 자세한 내용은 콘솔을 확인하십시오."
+
+#: copy-delete-posts.php:851
+msgid "Something went wrong and we couldn't update intro settings – try again!"
+msgstr "뭔가 잘못되어 소개글 설정을 갱신할 수 없습니다. 다시 시도하세요!"
+
+#: copy-delete-posts.php:850
+msgid "Something went wrong and we couldn't save intro settings."
+msgstr "뭔가 잘못되어 소개글 설정을 저장할 수 없습니다."
+
+#: copy-delete-posts.php:849
+msgid "Something went wrong and we couldn't save intro settings!"
+msgstr "뭔가 잘못되어 소개글 설정을 저장할 수 없습니다!"
+
+#: copy-delete-posts.php:848
+msgid "No items to show, try with other filters!"
+msgstr "표시할 항목이 없습니다. 다른 필터를 사용해 보십시오!"
+
+#: menu/configuration.php:998
+msgid "This will establish connection to the chat servers"
+msgstr "채팅 서버와 연결됩니다."
+
+#: menu/configuration.php:996
+msgid "Connect with support (click to load)"
+msgstr "지원 연결 (클릭하여 로드)"
+
+#. Description of the plugin
+#: copy-delete-posts.php
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "게시물 및 페이지를 쉽게 복제하고 한 번에 삭제할 수 있는 최고의 솔루션입니다."
+
+#. Plugin URI of the plugin
+#: copy-delete-posts.php
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php copy-delete-posts.php:357 copy-delete-posts.php:834
+#: copy-delete-posts.php:838
+msgid "Copy & Delete Posts"
+msgstr "게시물 복제/삭제"

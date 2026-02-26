@@ -1,0 +1,2973 @@
+# Translation of Plugins - Really Simple Security &#8211; Simple and Performant Security (formerly Really Simple SSL) - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Really Simple Security &#8211; Simple and Performant Security (formerly Really Simple SSL) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-13 18:28:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Really Simple Security &#8211; Simple and Performant Security (formerly Really Simple SSL) - Stable (latest release)\n"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1350
+msgid "Invalid user."
+msgstr "Ogiltig användare."
+
+#: core/app/Managers/EndpointManager.php:174
+msgid "Forbidden."
+msgstr "Förbjudet."
+
+#. Author URI of the plugin
+#: rlrsssl-really-simple-ssl.php
+msgid "https://really-simple-ssl.com/about-us"
+msgstr "https://really-simple-ssl.com/about-us"
+
+#: settings/config/disable-fields-filter.php:84
+msgid "Resend email"
+msgstr "Skicka e-post igen"
+
+#: functions.php:527
+msgid "Error occurred"
+msgstr "Fel uppstod"
+
+#: settings/config/disable-fields-filter.php:79
+msgid "Verification email sent"
+msgstr "E-postverifiering skickad."
+
+#: functions.php:519
+msgid "Failed to send"
+msgstr "Misslyckades att skicka"
+
+#: functions.php:515 functions.php:521 functions.php:529
+msgid "Resend verification email"
+msgstr "Skicka e-postverifiering igen"
+
+#: functions.php:513
+msgid "Email sent!"
+msgstr "E-post skickat!"
+
+#: functions.php:502
+msgid "Sending..."
+msgstr "Skickar …"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:177
+msgid "Resource not found"
+msgstr "Resurs hittades inte"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:111
+msgid "Add Device"
+msgstr "Lägg till enhet"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:110
+msgid "Passkeys"
+msgstr "Säkerhetsnycklar"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:31
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:30
+msgid "Last Used"
+msgstr "Senast använd"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:29
+msgid "Registered"
+msgstr "Registrerad"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:28
+msgid "Device Name"
+msgstr "Enhetsnamn"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:16
+msgid "Devices"
+msgstr "Enheter"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:15
+msgid "Device"
+msgstr "Enhet"
+
+#: assets/templates/two_fa/profile-settings.php:20
+msgid "Login protection"
+msgstr "Inloggningsskydd"
+
+#: assets/templates/passkey/login.php:13
+msgid "Remember Me"
+msgstr "Kom ihåg mig"
+
+#: assets/templates/passkey/login.php:8
+msgid "Password"
+msgstr "Lösenord"
+
+#: assets/templates/passkey/login.php:4
+msgid "Username or Email Address"
+msgstr "Användarnamn eller e‑postadress"
+
+#: class-wp-cli.php:1520
+msgid "Deactivate the license."
+msgstr "Inaktivera licensen."
+
+#: class-wp-cli.php:1410
+msgid "Activate SSL on the site."
+msgstr "Aktivera SSL på webbplatsen."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-profile-settings.php:141
+msgid "Invalid nonce."
+msgstr "Ogiltig engångskod."
+
+#: security/wordpress/two-fa/controllers/class-rsssl-email-controller.php:275
+#: security/wordpress/two-fa/controllers/class-rsssl-email-controller.php:293
+#: security/wordpress/two-fa/controllers/class-rsssl-email-controller.php:323
+msgid "Access denied."
+msgstr "Åtkomst nekad."
+
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:106
+msgid "The site's security policy requires you to configure Two-Factor Authentication to protect against account theft. %1$s and configure Two-Factor authentication %2$swithin three days%3$s. If you haven't performed the configuration by then, %4$syou will be unable to login%5$s."
+msgstr "Webbplatsens säkerhetspolicy kräver att du konfigurerar tvåfaktorsautentisering för att skydda mot kontostöld. %1$s och konfigurera tvåfaktorsautentisering %2$sinom tre dagar%3$s. Om du inte har utfört konfigurationen då, %4$s kommer du inte att kunna logga in%5$s."
+
+#. translators: 1: Site URL.
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:93
+msgid "You are receiving this email because you have an account registered at %s."
+msgstr "Du får det här e-postmeddelandet eftersom du har ett konto registrerat på %s."
+
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:86
+msgid "Please login"
+msgstr "Logga in"
+
+#. translators: %s: First name. %s: Last name.
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:141
+msgid "Hi %s %s"
+msgstr "Hej %s %s"
+
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:74
+msgid "Important security notice"
+msgstr "Viktigt säkerhetsmeddelande"
+
+#: security/notices.php:153
+msgid "The Firewall, LLA and 2FA are currently inactive, as you have activated Safe Mode with the rsssl-safe-mode.lock file. Remove the file from your /wp-content folder after you have finished debugging."
+msgstr "Brandväggen, LLA och 2FA är för närvarande inaktiva, eftersom du har aktiverat felsäkert läge med filen rsssl-safe-mode.lock. Ta bort filen från din /wp-content-mapp efter att du har slutfört felsökningen."
+
+#: settings/config/menu.php:566 settings/config/menu.php:567
+msgid "The Firewall can also block traffic from malicious or resource-consuming bots that might crawl your website. A list of well-known bad User-Agents is automatically included. You can manually add or delete user-agents if so desired."
+msgstr "Brandväggen kan också blockera trafik från skadliga eller resurskrävande botlar som kan genomsöka din webbplats. En lista över välkända dåliga Användaragenter ingår automatiskt. Du kan lägga till eller ta bort användaragenter manuellt om så önskas."
+
+#: settings/config/menu.php:564 settings/config/menu.php:565
+msgid "User-Agents"
+msgstr "Användaragenter"
+
+#: settings/config/fields/firewall.php:194
+msgid "Date Added"
+msgstr "Datum tillagt"
+
+#: settings/config/fields/firewall.php:180
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/firewall/UserAgentModal.js:104
+msgid "User-Agent"
+msgstr "Användaragent"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:299
+msgid "Below you'll find the email activation code for %1$s. It's valid for 15 minutes. %2$s"
+msgstr "Här nedan hittar du e-postaktiveringskoden för %1$s. Den är giltig i 15 minuter. %2$s"
+
+#: progress/class-progress.php:90
+msgid "Basic security configuration completed!"
+msgstr "Grundläggande säkerhetskonfiguration är klar!"
+
+#: class-site-health.php:159
+msgid "Secure your site with a Firewall"
+msgstr "Säkra din webbplats med en brandvägg"
+
+#: class-site-health.php:155
+msgid "Your site is protected by a firewall."
+msgstr "Din webbplats är skyddad av en brandvägg."
+
+#: class-site-health.php:150
+msgid "Secure your site with the performant Firewall."
+msgstr "Säkra din webbplats med den effektiva brandväggen."
+
+#: class-site-health.php:97
+msgid "Protect your user logins with Two-Factor Authentication (at least for Administrator accounts)"
+msgstr "Skydda dina användarinloggningar med tvåfaktorsautentisering (åtminstone för administratörskonton)"
+
+#: class-site-health.php:93
+msgid "Your site is protected by Two-Factor Authentication (2FA)."
+msgstr "Din webbplats skyddas av tvåfaktorsautentisering (2FA)."
+
+#: class-site-health.php:88
+msgid "We recommend to enable Two-Factor Authentication at least for administrators."
+msgstr "Vi rekommenderar att du aktiverar tvåfaktorsautentisering åtminstone för administratörer."
+
+#: class-site-health.php:73
+msgid "Firewall Protection"
+msgstr "Brandväggsskydd"
+
+#: class-site-health.php:67
+msgid "Limit Login Attempts Protection"
+msgstr "Begränsa skydd för inloggningsförsök"
+
+#: settings/config/fields/firewall.php:167 settings/config/menu.php:578
+msgid "Deleted"
+msgstr "Borttaget"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: rlrsssl-really-simple-ssl.php
+msgid "Really Simple Security"
+msgstr "Really Simple Security"
+
+#: settings/config/menu.php:332
+msgid "Here you can see which users have configured Two-Factor Authentication. The reset button will trigger the 2FA onboarding for the selected user(s) again and allow the configured grace period."
+msgstr "Här kan du se vilka användare som har konfigurerat tvåfaktorsautentisering. Återställningsknappen kommer att utlösa 2FA ombordstigning för den eller de valda användarna igen och tillåta den konfigurerade respitperioden."
+
+#: settings/config/menu.php:322
+msgid "TOTP requires users to authenticate using a third-party app such as Google Authenticator."
+msgstr "TOTP kräver att användare autentiseras med en tredjepartsapp som Google Autentisering."
+
+#: settings/config/menu.php:104
+msgid "Essential Security Headers"
+msgstr "Viktiga säkerhetsrubriker"
+
+#. Description of the plugin
+#: rlrsssl-really-simple-ssl.php upgrade/upgrade-to-pro.php:147
+msgid "Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation."
+msgstr "Förbättra enkelt webbplatssäkerheten med WordPress-härdning, tvåfaktorsautentisering (2FA), inloggningsskydd, sårbarhetsdetektering och generering av SSL-certifikat."
+
+#: settings/config/menu.php:321
+msgid "Authenticator App (TOTP)"
+msgstr "Autentiserings-App (TOTP)"
+
+#: settings/config/fields/two-fa.php:73 settings/config/fields/two-fa.php:74
+#: settings/config/fields/two-fa.php:75
+msgid "%s days"
+msgstr "%s dagar"
+
+#: settings/config/fields/security-headers.php:24
+msgid "About Essential Security Headers"
+msgstr "Om viktiga säkerhetsrubriker"
+
+#: settings/config/fields/two-fa.php:68
+msgid "Allow grace period"
+msgstr "Tillåt frist"
+
+#: settings/config/fields/vulnerability-detection.php:64
+msgid "Really Simple Security dashboard"
+msgstr "Really Simple Security kontrollpanel"
+
+#: security/wordpress/two-fa/function-login-header.php:107
+msgid "https://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: security/wordpress/two-fa/function-login-header.php:136
+msgid "Powered by WordPress"
+msgstr "Drivs med WordPress"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name.
+#: security/wordpress/two-fa/function-login-header.php:56
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#. translators: %s: Site title.
+#: security/wordpress/two-fa/function-login-footer.php:31
+msgctxt "site"
+msgid "&larr; Go to %s"
+msgstr "&larr; Gå till %s"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1091
+msgid "Invalid verification code."
+msgstr "Ogiltig verifieringskod."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1522
+msgid "Key copied"
+msgstr "Nyckel kopierad"
+
+#: security/wordpress/two-fa/controllers/class-rsssl-email-controller.php:116
+#: security/wordpress/two-fa/controllers/class-rsssl-email-controller.php:188
+msgid "Invalid provider"
+msgstr "Ogiltig leverantör"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:565
+msgid "Receive a code by email"
+msgstr "Skaffa en kod via e-post"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:562
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#. translators: %s: Login screen title.
+#: security/wordpress/two-fa/function-login-header.php:60
+msgid "Recovery Mode &#8212; %s"
+msgstr "Återställningsläge &#8212; %s"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-settings.php:636
+msgid "Authenticator App"
+msgstr "Autentiseringsapp"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1523
+msgid "Could not copy text: "
+msgstr "Kunde inte kopiera text: "
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:619
+msgid "API login for user disabled."
+msgstr "API-inloggning för användare inaktiverad."
+
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:145
+msgid "Compromised password reset"
+msgstr "Återställning av intrång i lösenordet"
+
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:101
+msgid "Compromised password for %s has been reset"
+msgstr "Lösenordet som har gjorts intrång i %s har återställts"
+
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:28
+msgid "Your password was compromised and has been reset"
+msgstr "Ditt lösenord har äventyrats och har återställts"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1259
+msgid "If you are the owner of this account, please check your email for instructions on regaining access."
+msgstr "Om du är ägaren till det här kontot, kontrollera din e-post för instruktioner om hur du återfår åtkomst."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1255
+msgid "There have been too many failed two-factor authentication attempts, which often indicates that the password has been compromised. The password has been reset in order to protect the account."
+msgstr "Det har förekommit för många misslyckade tvåfaktorsautentiseringsförsök, vilket ofta indikerar att lösenordet har äventyrats. Lösenordet har återställts för att skydda kontot."
+
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:121
+msgid "Hello, this is a notice from your website to inform you that an unusually high number of failed login attempts have been detected on the %1$s account (ID %2$d). Those attempts successfully entered the user's password, and were only blocked because they entered invalid second authentication factors. To protect their account, the password has automatically been reset, and they have been notified that they will need to create a new one. If you do not wish to receive these notifications, you can disable them with the `two_factor_notify_admin_user_password_reset` filter. See %3$s for more information. Thank you"
+msgstr "Hej! Detta är ett meddelande från din webbplats för att informera dig om att ett ovanligt stort antal misslyckade inloggningsförsök har upptäckts på %1$s -kontot (ID %2$d). Dessa försök angav framgångsrikt användarens lösenord och blockerades bara för att de angav ogiltiga andra autentiseringsfaktorer. För att skydda deras konto har lösenordet automatiskt återställts och de har blivit meddelade att de måste skapa ett nytt. Om du inte vill få dessa meddelanden kan du inaktivera dem med filtret `two_factor_notify_admin_user_password_reset`. Se %3$s för mer information. Tack"
+
+#. translators: %s: URL to reset password
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:771
+msgid "Your password was reset because of too many failed Two Factor attempts. You will need to <a href=\"%s\">create a new password</a> to regain access. Please check your email for more information."
+msgstr "Ditt lösenord har återställts på grund av för många misslyckade tvåfaktorsförsök. Du måste <a href=\"%s\">skapa ett nytt lösenord</a> för att få åtkomst igen. Kontrollera din e-post för mer information."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:716
+msgid "Warning: There has been %1$s failed login attempt on your account without providing a valid two-factor token. The last failed login occurred %2$s ago. If this wasn't you, you should reset your password."
+msgid_plural "Warning: %1$s failed login attempts have been detected on your account without providing a valid two-factor token. The last failed login occurred %2$s ago. If this wasn't you, you should reset your password."
+msgstr[0] "Varning: Det har gjorts %1$s misslyckat inloggningsförsök på ditt konto utan att ange en giltig tvåfaktorstoken. Den senaste misslyckade inloggningen skedde för %2$s sedan. Om det inte var du bör du återställa ditt lösenord."
+msgstr[1] "Varning: Det har gjorts %1$s misslyckade inloggningsförsök på ditt konto utan att ange en giltig tvåfaktorstoken. Den senaste misslyckade inloggningen skedde för %2$s sedan. Om det inte var du bör du återställa ditt lösenord."
+
+#. translators: %s: time delay between login attempts
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1029
+msgid "Too many invalid verification codes, you can try again in %s. This limit protects your account against automated attacks."
+msgstr "För många ogiltiga verifieringskoder, du kan försöka igen om %s. Denna gräns skyddar ditt konto mot automatiska attacker."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:545
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1318
+msgid "Your 2FA grace period expired. Please contact your site administrator to regain access and to configure 2FA."
+msgstr "Din respitperiod för 2FA har löpt ut. Kontakta din webbplatsadministratör för att återfå åtkomst och för att konfigurera 2FA."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-profile-settings.php:307
+msgid "The Two-Factor Authentication setup for email failed. Please try again."
+msgstr "Inställningen av tvåfaktorsautentisering för e-post misslyckades. Försök igen."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-profile-settings.php:284
+msgid "The Two-Factor Authentication setup for TOTP failed. Please try again."
+msgstr "Tvåfaktorsautentiseringsinställningen för TOTP misslyckades. Försök igen."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-profile-settings.php:260
+msgid "Two-Factor Authentication for TOTP failed. No Authentication code provided, please try again."
+msgstr "Tvåfaktorsautentisering för TOTP misslyckades. Ingen autentiseringskod har angetts, försök igen."
+
+#. translators: %1$s: user login, %2$s: site url, %3$s: password best practices
+#. link, %4$s: lost password url
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:49
+msgid ""
+"Hello %1$s, an unusually high number of failed login attempts have been detected on your account at %2$s.\n"
+"\n"
+"These attempts successfully entered your password, and were only blocked because they failed to enter your second authentication factor. Despite not being able to access your account, this behavior indicates that the attackers have compromised your password. The most common reasons for this are that your password was easy to guess, or was reused on another site which has been compromised.\n"
+"\n"
+"To protect your account, your password has been reset, and you will need to create a new one. For advice on setting a strong password, please read %3$s\n"
+"\n"
+"To pick a new password, please visit %4$s\n"
+"\n"
+"This is an automated notification. If you would like to speak to a site administrator, please contact them directly."
+msgstr ""
+"Hej %1$s, ett ovanligt stort antal misslyckade inloggningsförsök har upptäckts på ditt konto på %2$s.\n"
+"\n"
+"Dessa försök angav ditt lösenord framgångsrikt och blockerades bara eftersom de misslyckades med att ange din andra autentiseringsfaktor. Trots att du inte kan komma åt ditt konto indikerar detta beteende på att angriparna har äventyrat ditt lösenord. De vanligaste orsakerna till detta är att ditt lösenord var lätt att gissa, eller att det återanvändes på en annan webbplats som har äventyrats.\n"
+"\n"
+"För att skydda ditt konto har ditt lösenord återställts och du måste skapa ett nytt. För råd om hur du ställer in ett starkt lösenord, läs %3$s\n"
+"\n"
+"För att välja ett nytt lösenord, besök %4$s\n"
+"\n"
+"Detta är ett automatiskt meddelande. Om du vill prata med en webbplatsadministratör, var snäll och kontakta dem direkt."
+
+#: security/wordpress/two-fa/function-login-header.php:133
+msgid "Usage of the title attribute on the login logo is not recommended for accessibility reasons. Use the link text instead."
+msgstr "Användning av titelattributet på inloggningslogotypen rekommenderas inte av tillgänglighetsskäl. Använd länktexten istället."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1541
+msgid "Failed to create a login nonce."
+msgstr "Misslyckades att skapa en engångskod för inloggning."
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-settings.php:632
+msgid "not set"
+msgstr "inte inställd"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1266
+msgid "Password Reset"
+msgstr "Återställning av lösenord"
+
+#. translators: %s: email address
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:484
+msgid "Authentication codes will be sent to %s."
+msgstr "Autentiseringskoder kommer skickas till %s."
+
+#: assets/templates/passkey/login.php:17
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:380
+msgid "Log In"
+msgstr "Logga in"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:340
+msgid "Hi"
+msgstr "Hej"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:108
+msgctxt "Provider Label"
+msgid "Email"
+msgstr "E-post"
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:133
+msgid "The key is not valid."
+msgstr "Nyckeln är inte giltig."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:79
+msgid "Welcome to Really Simple Security"
+msgstr "Välkommen till Really Simple Security"
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:114
+msgid "The authentication code is not valid."
+msgstr "Autentiseringskoden är inte giltig."
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:95
+msgid "The selected provider is not valid."
+msgstr "Den valda leverantören är inte giltig."
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:38
+msgid "The user ID is not valid."
+msgstr "Användar-ID är inte giltigt."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:126
+msgid "Verify your email"
+msgstr "Verifiera din e-post"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:305
+msgid "Below you will find your login code for %1$s. It's valid for 15 minutes. %2$s"
+msgstr "Nedan hittar du din inloggningskod för %1$s. Den är giltig i 15 minuter. %2$s"
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:57
+msgid "The preferred method is not set."
+msgstr "Den föredragna metoden är inte inställd."
+
+#: core/app/Services/SettingsConfigService.php:31
+msgid "E-mail login"
+msgstr "E-postinloggning"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:175
+msgid "Activate your license key"
+msgstr "Aktivera din licensnyckel"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:209
+msgid "We think you will like this"
+msgstr "Vi tror att du kommer att gilla det här"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:155
+msgid "Essential security"
+msgstr "Grundläggande säkerhet"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:415
+msgid "Don't use Two-Factor Authentication"
+msgstr "Använd inte tvåfaktorsautentisering"
+
+#. translators: %s: site name
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:276
+msgid "Your login confirmation code for %s"
+msgstr "Din inloggningsbekräftelsekod för %s"
+
+#: security/wordpress/two-fa/class-rsssl-parameter-validation.php:76
+msgid "The user object is not valid."
+msgstr "Användarobjektet är inte giltigt."
+
+#: security/notices.php:117
+msgid "Vulnerability scanning is enabled."
+msgstr "Sårbarhetssökning är aktiverad."
+
+#: progress/class-progress.php:86
+msgid "Security configuration completed!"
+msgstr "Säkerhetskonfigurationen är klar!"
+
+#: progress/class-progress.php:83
+msgid "Security configuration not completed yet. You still have %s task open."
+msgid_plural "You still have %s tasks open."
+msgstr[0] "Säkerhetskonfigurationen är inte klar än. Du har fortfarande %s uppgift öppen."
+msgstr[1] "Du har fortfarande %s uppgifter öppna."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:140
+msgid "Instantly configure these essential features."
+msgstr "Konfigurera dessa viktiga funktioner omedelbart."
+
+#: core/app/Services/SettingsConfigService.php:168
+msgid "Strong Password policy"
+msgstr "Stark lösenordspolicy"
+
+#. translators: %s is replaced with the site url
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:337
+#: security/wordpress/two-fa/services/class-rsssl-two-fa-reminder-service.php:117
+#: security/wordpress/two-fa/traits/trait-rsssl-email-trait.php:142
+msgid "Notification by %s"
+msgstr "Avisering av %s"
+
+#: security/notices.php:142
+msgid "All recommended hardening features enabled."
+msgstr "Alla rekommenderade härdningsfunktioner aktiverade."
+
+#: security/notices.php:110
+msgid "Enable the Vulnerability scan to detect possible vulnerabilities."
+msgstr "Aktivera Sårbarhetsskanningen för att upptäcka möjliga sårbarheter."
+
+#: security/notices.php:130
+msgid "You have %s open hardening feature."
+msgid_plural "You have %s open hardening features."
+msgstr[0] "Du har %s öppen härdningsfunktion."
+msgstr[1] "Du har %s öppen härdningsfunktioner."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:144
+msgid "Please %sconsider upgrading to Pro%s to enjoy all simple and performant security features."
+msgstr "Var snäll och %söverväg att uppgradera till Pro%s för att njuta av alla enkla och effektiva säkerhetsfunktioner."
+
+#: core/app/Services/SettingsConfigService.php:25
+msgid "Essential WordPress hardening"
+msgstr "Viktig WordPress-härdning"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:127
+msgid "Really Simple Security will send email notifications and security warnings from your server. We will send a test email to confirm that email is correctly configured on your site. Look for the confirmation button in the email."
+msgstr "Really Simple Security skickar e-postmeddelanden och säkerhetsvarningar från din server. Vi kommer att skicka ett testmail för att bekräfta att e-posten är korrekt konfigurerad på din webbplats. Leta efter bekräftelseknappen i e-postmeddelandet."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:80
+msgid "The onboarding wizard will help to configure essential security features in 1 minute! Select your hosting provider to start."
+msgstr "Introduktionsguiden hjälper dig att konfigurera viktiga säkerhetsfunktioner på 1 minut! Välj din värdleverantör för att starta."
+
+#: class-site-health.php:272
+msgid "Essential security headers installed"
+msgstr "Viktiga säkerhetshuvuden installerade"
+
+#: class-admin.php:3364
+msgid "Read about our journey towards Really Simple Security"
+msgstr "Läs om vår resa mot Really Simple Security"
+
+#: class-admin.php:3370
+msgid "Experience all powerful features of Really Simple Security Pro using this %slimited time discount%s: %s"
+msgstr "Upplev alla kraftfulla funktioner i Really Simple Security Pro med denna %sbegränsade tidsrabatt%s: %s"
+
+#. translators: %1$s: opening bold tag, %2$s: closing bold tag
+#: class-admin.php:3357
+msgid "Really Simple SSL is now %1$sReally Simple Security!%2$s"
+msgstr "Really Simple SSL är nu %1$sReally Simple Security!%2$s"
+
+#: class-admin.php:2388
+msgid "Complete email validation and enable notifications to make sure you will receive security warnings."
+msgstr "Slutför e-postvalidering och aktivera aviseringar för att se till att du får säkerhetsvarningar."
+
+#: class-admin.php:2349
+msgid "Protect your site with a performant Firewall."
+msgstr "Skydda din webbplats med en bra brandvägg."
+
+#: class-admin.php:2337
+msgid "Protect your login form with Limit Login Attempts."
+msgstr "Skydda ditt inloggningsformulär med Begränsa inloggningsförsök."
+
+#: class-admin.php:2325
+msgid "Implement Two-Factor Authentication or Passkey login."
+msgstr "Implementera tvåfaktorsautentisering eller inloggning med lösenord."
+
+#: class-admin.php:707
+msgid "View Dashboard"
+msgstr "Visa adminpanel"
+
+#: assets/templates/two_fa/totp-config.php:54
+msgid "Submit"
+msgstr "Skicka"
+
+#. translators: Example auth code.
+#: assets/templates/two_fa/profile-settings.php:98
+#: assets/templates/two_fa/totp-config.php:45
+msgid "eg. %s"
+msgstr "t.ex. %s"
+
+#: assets/templates/two_fa/profile-settings.php:95
+#: assets/templates/two_fa/totp-config.php:42
+msgid "Authentication Code:"
+msgstr "Autentiseringskod:"
+
+#: assets/templates/two_fa/profile-settings.php:66
+msgid "Preferred Method"
+msgstr "Föredragen metod"
+
+#: assets/templates/two_fa/profile-settings.php:61
+msgid "Selected provider"
+msgstr "Vald leverantör"
+
+#: assets/templates/two_fa/profile-settings.php:42
+#: assets/templates/two_fa/profile-settings.php:48
+msgid "Backup Codes"
+msgstr "Reservkoder"
+
+#: assets/templates/two_fa/onboarding.php:171
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:271
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: assets/templates/two_fa/onboarding.php:156
+msgid "day"
+msgstr "dag"
+
+#: assets/templates/two_fa/onboarding.php:156
+msgid "days"
+msgstr "dagar"
+
+#: assets/templates/two_fa/onboarding.php:126
+#: assets/templates/two_fa/profile-settings.php:119
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:383
+msgid "Resend Code"
+msgstr "Skicka kod igen"
+
+#: assets/templates/two_fa/onboarding.php:118
+#: assets/templates/two_fa/profile-settings.php:115
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:378
+msgid "Verification Code:"
+msgstr "Verifieringskod:"
+
+#: assets/templates/two_fa/profile-settings.php:90
+#: assets/templates/two_fa/totp-config.php:36
+msgid "Copy setup key"
+msgstr "Kopiera inställningsnyckel"
+
+#: assets/templates/two_fa/onboarding.php:56
+#: assets/templates/two_fa/onboarding.php:137
+msgid "Don't ask again"
+msgstr "Fråga inte igen"
+
+#. Translators: %s is the hyperlink for "Download"
+#: assets/templates/two_fa/totp-config.php:22
+msgid "Use your authenticator app like Google Authenticator to scan the QR code below, then paste the provided Authentication code. %s"
+msgstr "Använd din autentiseringsapp som Google Authenticator för att skanna QR-koden nedan och klistra sedan in den medföljande autentiseringskoden. %s"
+
+#: assets/templates/two_fa/totp-config.php:18
+msgid "Install Authentication app:"
+msgstr "Installera autentiseringsappen:"
+
+#: assets/templates/two_fa/totp-config.php:11
+msgid "Authentication code is incorrect."
+msgstr "Autentiseringskoden är felaktig."
+
+#: assets/templates/two_fa/profile-settings.php:119
+msgid "A verification code has been sent to the email address associated with your account to verify functionality."
+msgstr "En verifieringskod har skickats till den e-postadress som är kopplad till ditt konto för att verifiera funktionaliteten."
+
+#: assets/templates/two_fa/profile-settings.php:53
+msgid "Codes only available for 5 minutes"
+msgstr "Koder endast tillgängliga i 5 minuter"
+
+#: assets/templates/two_fa/profile-settings.php:52
+#: assets/templates/two_fa/totp-config.php:23
+#: security/wordpress/two-fa/class-rsssl-two-factor.php:1521
+msgid "Download Backup Codes"
+msgstr "Ladda ner säkerhetskopieringskoder"
+
+#: assets/templates/two_fa/profile-settings.php:31
+#: settings/config/fields/two-fa.php:12
+msgid "Enable Two-Factor Authentication"
+msgstr "Aktivera tvåfaktorsautentisering"
+
+#: assets/templates/two_fa/profile-settings.php:24
+msgid "Two-Factor Authentication is mandatory for your account, so you need to make a selection."
+msgstr "Tvåfaktorsautentisering är obligatoriskt för ditt konto, så du måste göra ett val."
+
+#: settings/config/menu.php:668
+msgid "Logs"
+msgstr "Loggar"
+
+#: settings/config/menu.php:659
+msgid "Permanent"
+msgstr "Permanent"
+
+#: settings/config/menu.php:655
+msgid "Temporary"
+msgstr "Temporär"
+
+#: settings/config/menu.php:536
+msgid "Rules"
+msgstr "Regler"
+
+#: settings/config/fields/firewall.php:131
+msgid "1 day"
+msgstr "1 dag"
+
+#: settings/config/fields/firewall.php:128
+msgid "30 minutes"
+msgstr "30 minuter"
+
+#: settings/config/menu.php:641 settings/config/menu.php:642
+msgid "IP Blocklist"
+msgstr "IP-blockeringslista"
+
+#: settings/config/menu.php:617
+msgid "Blocklists"
+msgstr "Blockeringslistor"
+
+#: settings/config/menu.php:557 settings/config/menu.php:558
+msgid "Crawlers might scan your site looking for possible exploits. One way to detect this is the fact that they trigger more 404 (not found) errors than legitimate visitors would. Below you can set the threshold and lockout duration for 404 blocking."
+msgstr "Sökrobotar kan skanna din webbplats och leta efter möjligheter att utnyttja den. Ett sätt att upptäcka detta är det faktum att de utlöser fler 404-fel (ej hittade) än vad legitima besökare skulle göra. Här nedan kan du ställa in tröskeln och spärrtiden för 404-blockering."
+
+#: settings/config/menu.php:555 settings/config/menu.php:556
+msgid "404 Blocking"
+msgstr "404 Blockering"
+
+#: settings/config/menu.php:548
+msgid "The lightweight Firewall can be used to lockout malicious traffic from your site. You can configure generic rules below, or block specific IP addresses by adding them to the Blocklist."
+msgstr "Den mindre brandväggen kan användas för att låsa ut skadlig trafik från din webbplats. Du kan konfigurera generiska regler nedan eller blockera specifika IP-adresser genom att lägga till dem i blockeringslistan."
+
+#: settings/config/menu.php:544
+msgid "Firewall Rules"
+msgstr "Brandväggsregler"
+
+#: settings/config/fields/firewall.php:100
+msgid "Threshold"
+msgstr "Tröskelvärde"
+
+#: settings/config/fields/access-control.php:79
+msgid "48 hours (default)"
+msgstr "48 timmar (standard)"
+
+#: lets-encrypt/class-letsencrypt-handler.php:762
+msgid "Certificate not created."
+msgstr "Certifikat inte skapat."
+
+#: lets-encrypt/class-letsencrypt-handler.php:624
+msgid "%d seconds"
+msgstr "%d sekunder"
+
+#: lets-encrypt/class-letsencrypt-handler.php:622
+msgid "%d:%02d minutes"
+msgstr "%d:%02d minuter"
+
+#: lets-encrypt/class-letsencrypt-handler.php:618
+msgid "%d:%02d:%02d hours"
+msgstr "%d:%02d:%02d timmar"
+
+#: security/includes/check404/class-rsssl-simple-404-interceptor.php:108
+msgid "We detected suspected bots triggering large numbers of 404 errors on your site."
+msgstr "Vi upptäckte misstänkta bottar som utlöste ett stort antal 404-fel på din webbplats."
+
+#: lets-encrypt/class-letsencrypt-handler.php:758
+msgid "Due to a change in challenge type, the order had to be reset. Please start at the previous step."
+msgstr "På grund av en ändring i utmaningstyp måste ordern återställas. Var snäll och börja med föregående steg."
+
+#: lets-encrypt/class-letsencrypt-handler.php:586
+msgid "Please wait %s before trying again, as this is the expiration of the DNS record currently."
+msgstr "Vänta %s innan du försöker igen, eftersom detta är utgången av DNS-posten för närvarande."
+
+#: lets-encrypt/class-letsencrypt-handler.php:481
+#: lets-encrypt/class-letsencrypt-handler.php:502
+msgid "Please start at the previous step."
+msgstr "Var snäll och börja med föregående steg."
+
+#: lets-encrypt/class-letsencrypt-handler.php:481
+#: lets-encrypt/class-letsencrypt-handler.php:502
+msgid "There are existing keys, the order had to be cleared first."
+msgstr "Det finns befintliga nycklar, beställningen måste rensas först."
+
+#: settings/config/fields/security-headers.php:334
+msgid "Yes (don't set header)"
+msgstr "Ja (ställ inte in rubriken)"
+
+#: settings/config/menu.php:199
+msgid "Scan results"
+msgstr "Skanningsresultat"
+
+#: settings/config/menu.php:628 settings/config/menu.php:629
+msgid "Trusted IP addresses"
+msgstr "Betrodda IP-adresser"
+
+#: settings/config/fields/firewall.php:36
+#: settings/config/fields/firewall.php:76
+#: settings/config/fields/firewall.php:187
+msgid "Note"
+msgstr "Obs"
+
+#: settings/config/menu.php:41 settings/config/menu.php:44
+msgid "Captcha"
+msgstr "Captcha"
+
+#: settings/config/fields/limit-login-attempts.php:85
+msgid "%s months"
+msgstr "%s månader"
+
+#: settings/config/fields/limit-login-attempts.php:84
+msgid "%s month"
+msgstr "%s månad"
+
+#: settings/config/fields/limit-login-attempts.php:83
+msgid "%s week"
+msgstr "%s vecka"
+
+#: settings/config/fields/general.php:166
+msgid "hCaptcha site key"
+msgstr "hCaptcha webbplatsnyckel"
+
+#: settings/config/fields/general.php:149
+msgid "reCaptcha secret key"
+msgstr "reCaptcha hemlig nyckel"
+
+#: settings/config/fields/general.php:132
+msgid "reCaptcha site key"
+msgstr "reCaptcha webbplatsnyckel"
+
+#: settings/config/fields/general.php:112
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#: settings/config/fields/general.php:111
+msgid "reCaptcha v2"
+msgstr "reCaptcha v2"
+
+#: settings/config/fields/general.php:110
+msgid "Choose your provider"
+msgstr "Välj din leverantör"
+
+#: settings/config/fields/firewall.php:130
+msgid "4 hours"
+msgstr "4 timmar"
+
+#: settings/config/fields/access-control.php:78
+msgid "8 hours (recommended)"
+msgstr "8 timmar (rekommenderas)"
+
+#: settings/config/menu.php:365
+msgid "Password security"
+msgstr "Lösenordssäkerhet"
+
+#: settings/config/menu.php:510 settings/config/menu.php:604
+msgid "Continents"
+msgstr "Kontinenter"
+
+#: settings/config/menu.php:498 settings/config/menu.php:518
+#: settings/config/menu.php:590 settings/config/menu.php:591
+msgid "Regions"
+msgstr "Regioner"
+
+#: settings/config/menu.php:482 settings/config/menu.php:692
+msgid "Warnings"
+msgstr "Varningar"
+
+#: settings/config/menu.php:440 settings/config/menu.php:460
+msgid "IP Addresses"
+msgstr "IP-adresser"
+
+#: settings/config/menu.php:369
+msgid "Passwords"
+msgstr "Lösenord"
+
+#: settings/config/menu.php:359
+msgid "Password Security"
+msgstr "Lösenordssäkerhet"
+
+#: settings/config/menu.php:421 settings/config/menu.php:456
+msgid "Temporary block"
+msgstr "Temporär blockering"
+
+#: settings/config/menu.php:413 settings/config/menu.php:448
+msgid "Permanent block"
+msgstr "Permanent blockering"
+
+#: core/app/Services/SettingsConfigService.php:64
+#: core/app/Services/SettingsConfigService.php:132 settings/config/menu.php:376
+#: settings/config/menu.php:384 modal/build/index.dc39341c6b0a7592427c.js:1
+#: modal/src/components/DeactivationModal/DeactivationModal.js:101
+msgid "Limit Login Attempts"
+msgstr "Begränsa inloggningsförsök"
+
+#: assets/templates/two_fa/expired.php:3
+#: assets/templates/two_fa/onboarding.php:44 class-admin.php:3399
+#: class-site-health.php:61 core/app/Services/SettingsConfigService.php:57
+#: core/app/Services/SettingsConfigService.php:124 settings/config/menu.php:302
+#: modal/build/index.dc39341c6b0a7592427c.js:1
+#: modal/src/components/DeactivationModal/DeactivationModal.js:96
+msgid "Two-Factor Authentication"
+msgstr "Tvåfaktorsautentisering"
+
+#: settings/config/menu.php:273 modal/build/index.dc39341c6b0a7592427c.js:1
+#: modal/src/components/DeactivationModal/DeactivationModal.js:91
+msgid "Login Protection"
+msgstr "Inloggningsskydd"
+
+#: settings/config/menu.php:245
+msgid "Advanced"
+msgstr "Avancerad"
+
+#: settings/config/menu.php:239
+msgid "Basic"
+msgstr "Grundläggande"
+
+#: settings/config/menu.php:69
+msgid "Let's Encrypt."
+msgstr "Let's Encrypt."
+
+#: settings/config/fields/hardening-xml.php:37
+msgid "About XML-RPC"
+msgstr "Om XML-RPC"
+
+#: settings/config/fields/limit-login-attempts.php:58
+#: settings/config/fields/limit-login-attempts.php:82
+#: settings/config/fields/two-fa.php:72
+msgid "%s day"
+msgstr "%s dag"
+
+#: settings/config/fields/limit-login-attempts.php:57
+#: settings/config/fields/limit-login-attempts.php:81
+msgid "%s hours"
+msgstr "%s timmar"
+
+#: settings/config/fields/limit-login-attempts.php:56
+#: settings/config/fields/limit-login-attempts.php:80
+msgid "%s hour"
+msgstr "%s timme"
+
+#: settings/config/fields/limit-login-attempts.php:54
+#: settings/config/fields/limit-login-attempts.php:55
+#: settings/config/fields/limit-login-attempts.php:78
+#: settings/config/fields/limit-login-attempts.php:79
+msgid "%s minutes"
+msgstr "%s minuter"
+
+#: settings/config/fields/access-control.php:61
+msgid "2 years"
+msgstr "2 år"
+
+#: settings/config/fields/access-control.php:60
+msgid "1 year"
+msgstr "1 år"
+
+#: settings/config/fields/access-control.php:59
+msgid "6 months"
+msgstr "6 månader"
+
+#: settings/config/menu.php:261
+msgid "XML-RPC with Learning Mode"
+msgstr "XML-RPC med inlärningsläge"
+
+#: settings/config/menu.php:76
+msgid "Redirection"
+msgstr "Omdirigering"
+
+#: settings/config/fields/access-control.php:63
+msgid "Change passwords every"
+msgstr "Byt lösenord varje"
+
+#: settings/config/fields/access-control.php:28
+msgid "Enforce frequent password change"
+msgstr "Tvinga frekvent lösenordsbyte"
+
+#: settings/config/fields/access-control.php:15
+msgid "This adds extra requirements for strong passwords for new users and updated passwords."
+msgstr "Detta lägger till extra krav på starka lösenord för nya användare och uppdaterade lösenord."
+
+#: settings/config/fields/access-control.php:12
+#: settings/config/fields/access-control.php:19
+msgid "Enforce strong passwords"
+msgstr "Tvinga starka lösenord"
+
+#: security/sync-settings.php:34
+msgid "Debug.log"
+msgstr "Debug.log"
+
+#: settings/config/fields/firewall.php:29
+#: settings/config/fields/firewall.php:69
+#: settings/config/fields/firewall.php:285
+#: settings/config/fields/limit-login-attempts.php:199
+#: settings/config/fields/limit-login-attempts.php:323
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/GeoBlockList/TrustIpAddressModal.js:89
+#: settings/src/Settings/LimitLoginAttempts/AddIpAddressModal.js:81
+msgid "IP Address"
+msgstr "IP-adress"
+
+#: security/wordpress/two-fa/class-rsssl-passkey-list-table.php:78
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LearningMode/LearningMode.js:297
+msgid "Remove"
+msgstr "Ta bort"
+
+#: settings/config/fields/two-fa.php:143 settings/config/menu.php:331
+#: settings/config/menu.php:405 settings/config/menu.php:425
+msgid "Users"
+msgstr "Användare"
+
+#: settings/config/fields/firewall.php:299
+#: settings/config/fields/limit-login-attempts.php:331
+msgid "Event"
+msgstr "Händelse"
+
+#: settings/config/fields/limit-login-attempts.php:315
+msgid "User"
+msgstr "Användare"
+
+#: settings/config/fields/firewall.php:241
+#: settings/config/fields/limit-login-attempts.php:259
+msgid "Continent"
+msgstr "Kontinent"
+
+#: settings/config/fields/firewall.php:234
+#: settings/config/fields/firewall.php:279
+#: settings/config/fields/limit-login-attempts.php:251
+#: settings/config/fields/limit-login-attempts.php:303
+msgid "Country"
+msgstr "Land"
+
+#: settings/config/fields/firewall.php:215
+#: settings/config/fields/limit-login-attempts.php:141
+#: settings/config/fields/limit-login-attempts.php:186
+#: settings/config/fields/limit-login-attempts.php:232
+#: settings/config/menu.php:417 settings/config/menu.php:452
+msgid "Trusted"
+msgstr "Betrodd"
+
+#: settings/config/fields/limit-login-attempts.php:52
+msgid "Interval"
+msgstr "Intervall"
+
+#: settings/config/fields/limit-login-attempts.php:31
+#: settings/config/fields/limit-login-attempts.php:32
+#: settings/config/fields/limit-login-attempts.php:33
+#: settings/config/fields/limit-login-attempts.php:34
+msgid "attempts"
+msgstr "försök"
+
+#: settings/config/fields/limit-login-attempts.php:29
+msgid "Login attempts"
+msgstr "Inloggningsförsök"
+
+#: mailer/class-mail.php:124
+msgid "Verify email"
+msgstr "Verifiera e-post"
+
+#: mailer/class-mail.php:122
+msgid "Please verify your email"
+msgstr "Verifiera din e-post"
+
+#: mailer/class-mail.php:210 settings/config/disable-fields-filter.php:106
+#: settings/config/fields/general.php:90
+msgid "Email validation"
+msgstr "E-postvalidering"
+
+#: settings/config/disable-fields-filter.php:95
+msgid "Email validation completed"
+msgstr "E-postvalidering slutförd"
+
+#: settings/config/fields/firewall.php:214
+#: settings/config/fields/limit-login-attempts.php:140
+#: settings/config/fields/limit-login-attempts.php:185
+#: settings/config/fields/limit-login-attempts.php:231
+msgid "Locked-out"
+msgstr "Utelåst"
+
+#: settings/config/fields/limit-login-attempts.php:17
+msgid "About Limit Login Attempts"
+msgstr "Om begränsning av inloggningsförsök"
+
+#: mailer/class-mail.php:121
+msgid "Really Simple Security - Verify your email address"
+msgstr "Really Simple Security – Verifiera din e-postadress"
+
+#: settings/config/fields/firewall.php:129
+msgid "1 hour"
+msgstr "1 timme"
+
+#: class-admin.php:2396
+msgid "Email address successfully verified."
+msgstr "E-postadress verifierad."
+
+#: settings/config/fields/hardening-extended.php:46
+msgid "Restrict creation of administrator roles"
+msgstr "Begränsa skapandet av administratörsroller"
+
+#: security/wordpress/vulnerabilities.php:372
+msgid "Please take appropriate action."
+msgstr "Vidta lämpliga åtgärder."
+
+#: security/wordpress/vulnerabilities.php:330
+msgid "View vulnerabilities"
+msgstr "Visa sårbarheter"
+
+#: security/wordpress/vulnerabilities.php:296
+#: security/wordpress/vulnerabilities.php:304
+msgid "No known vulnerabilities detected"
+msgstr "Inga kända sårbarheter hittades"
+
+#: security/wordpress/vulnerabilities.php:324
+msgid "%s vulnerability has been detected."
+msgid_plural "%s vulnerabilities have been detected."
+msgstr[0] "%s sårbarhet har upptäckts."
+msgstr[1] "%s sårbarheter har upptäckts."
+
+#: settings/config/fields/firewall.php:42
+#: settings/config/fields/firewall.php:293
+#: settings/config/fields/limit-login-attempts.php:166
+#: settings/config/fields/limit-login-attempts.php:212
+#: settings/config/fields/limit-login-attempts.php:309
+#: settings/config/fields/vulnerability-detection.php:165
+msgid "Date"
+msgstr "Datum"
+
+#: settings/config/fields/vulnerability-detection.php:157
+msgid "Component"
+msgstr "Komponent"
+
+#: settings/config/fields/vulnerability-detection.php:127
+#: settings/config/fields/vulnerability-detection.php:131
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/RiskConfiguration/NotificationTester.js:63
+msgid "Test notifications"
+msgstr "Testa aviseringar"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-settings.php:640
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:564
+#: settings/config/fields/vulnerability-detection.php:108
+#: settings/config/menu.php:35
+msgid "Email"
+msgstr "E-post"
+
+#: settings/config/fields/vulnerability-detection.php:106
+msgid "Critical (default)"
+msgstr "Kritiskt (standard)"
+
+#: security/wordpress/two-fa/class-rsssl-two-factor-settings.php:644
+#: security/wordpress/two-fa/class-rsssl-two-factor-settings.php:662
+#: settings/config/fields/vulnerability-detection.php:58
+#: settings/config/fields/vulnerability-detection.php:80
+#: settings/config/fields/vulnerability-detection.php:102
+#: settings/config/fields/vulnerability-detection.php:193
+msgid "None"
+msgstr "Ingen"
+
+#: settings/config/fields/vulnerability-detection.php:172
+#: settings/config/fields/vulnerability-detection.php:215
+msgid "Risk"
+msgstr "Risk"
+
+#: settings/config/fields/vulnerability-detection.php:62
+#: settings/config/fields/vulnerability-detection.php:84
+#: settings/config/fields/vulnerability-detection.php:197
+msgid "Critical"
+msgstr "Kritisk"
+
+#: settings/config/fields/vulnerability-detection.php:21
+msgid "About Vulnerabilities"
+msgstr "Om sårbarheter"
+
+#: security/wordpress/vulnerabilities.php:646
+msgid "Quarantine"
+msgstr "Karantän"
+
+#: security/wordpress/vulnerabilities.php:640
+msgid "Force update"
+msgstr "Tvinga uppdatering"
+
+#: security/wordpress/vulnerabilities.php:625 settings/config/menu.php:182
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Vulnerabilities/VulnerabilitiesHeader.js:15
+msgid "Vulnerabilities"
+msgstr "Sårbarheter"
+
+#: security/hardening.php:21 security/wordpress/vulnerabilities.php:87
+msgid "critical"
+msgstr "kritisk"
+
+#: security/cron.php:104
+msgid "Every three hours"
+msgstr "Var 3:e timme"
+
+#: security/wordpress/vulnerabilities.php:1187
+msgid "Vulnerability: %s"
+msgstr "Sårbarhet: %s"
+
+#: security/wordpress/vulnerabilities.php:732
+#: security/wordpress/vulnerabilities.php:1204
+msgid "Quarantined"
+msgstr "I karantän"
+
+#: assets/templates/two_fa/onboarding.php:140
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Onboarding/OnboardingControls.js:201
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:128
+#: settings/build/995.7a0675fe0519b06656b3.js:1
+#: settings/src/Settings/Settings.js:153
+msgid "Save and continue"
+msgstr "Spara och fortsätt"
+
+#: security/wordpress/two-fa/providers/class-rsssl-two-factor-email.php:562
+#: settings/config/fields/firewall.php:101
+#: settings/config/fields/firewall.php:106
+#: settings/config/fields/security-headers.php:14
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/DataTable/DataTableWrapper.js:167
+#: settings/src/Settings/DynamicDataTable/DynamicDataTable.js:168
+#: settings/src/Settings/EventLog/EventLogDataTable.js:232
+#: settings/src/Settings/firewall/UserAgentTable.js:273
+#: settings/src/Settings/GeoBlockList/BlockListDatatable.js:362
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:520
+#: settings/src/Settings/GeoBlockList/WhiteListDatatable.js:415
+#: settings/src/Settings/LearningMode/LearningMode.js:386
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:454
+#: settings/src/Settings/LimitLoginAttempts/IpAddressDatatable.js:319
+#: settings/src/Settings/LimitLoginAttempts/UserDatatable.js:281
+#: settings/src/Settings/PermissionsPolicy.js:205
+#: settings/src/Settings/RiskConfiguration/VulnerabilitiesOverview.js:134
+#: settings/src/Settings/RolesDropDown.js:94
+#: settings/src/Settings/TwoFA/TwoFaDataTable.js:315
+#: settings/src/Settings/TwoFA/TwoFaEnabledDropDown.js:133
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: settings/config/fields/hardening-extended.php:109
+msgid "Custom login URL"
+msgstr "Anpassad URL för inloggning"
+
+#: mailer/class-mail.php:36
+msgid "This email was sent to"
+msgstr "Denna e-post skickades till"
+
+#: settings/config/fields/general.php:50
+msgid "Dismiss all notifications"
+msgstr "Avfärda alla aviseringar"
+
+#: mailer/class-mail.php:35
+msgid "Learn more about our features!"
+msgstr "Lär dig mer om våra funktioner!"
+
+#: mailer/class-mail.php:218 upgrade/upgrade-to-pro.php:341
+#: upgrade/upgrade-to-pro.php:342
+msgid "An error occurred:"
+msgstr "Ett fel uppstod:"
+
+#: mailer/class-mail.php:216
+msgid "Email could not be sent."
+msgstr "E-post kunde inte skickas."
+
+#: mailer/class-mail.php:73
+msgid "About notifications"
+msgstr "Om aviseringar"
+
+#: mailer/class-mail.php:66 mailer/class-mail.php:105 mailer/class-mail.php:151
+msgid "Email address not valid"
+msgstr "E-postadress inte giltig"
+
+#: settings/config/fields/hardening-basic.php:101
+msgid "Block the username 'admin'"
+msgstr "Blockera användarnamnet 'admin'"
+
+#: settings/config/fields/general.php:99
+msgid "Notifications by email"
+msgstr "Aviseringar via e-post"
+
+#: settings/config/fields/security-headers.php:15
+msgid "(recommended)"
+msgstr "(rekommenderad)"
+
+#: core/config/related.php:34 lets-encrypt/config/fields.php:111
+msgid "Terms & Conditions"
+msgstr "Användarvillkor"
+
+#: settings/config/fields/general.php:88
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/Support.js:45
+msgid "Send"
+msgstr "Skicka"
+
+#: class-admin.php:720 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Dashboard/TaskElement.js:72
+#: settings/src/Dashboard/TaskElement.js:76
+#: settings/src/Settings/MixedContentScan/MixedContentScan.js:80
+msgid "View"
+msgstr "Visa"
+
+#: settings/config/fields/firewall.php:168
+#: settings/config/fields/firewall.php:213
+#: settings/config/fields/limit-login-attempts.php:139
+#: settings/config/fields/limit-login-attempts.php:184
+#: settings/config/fields/limit-login-attempts.php:230
+#: settings/config/menu.php:506 settings/config/menu.php:574
+#: settings/config/menu.php:600 settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LearningMode/LearningMode.js:149
+msgid "Blocked"
+msgstr "Blockerad"
+
+#: settings/config/menu.php:514 settings/config/menu.php:608
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LearningMode/LearningMode.js:148
+msgid "Allowed"
+msgstr "Tillåten"
+
+#: settings/config/menu.php:339 settings/config/menu.php:486
+#: settings/config/menu.php:651 settings/config/menu.php:688
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/DataTable/DataTableWrapper.js:151
+#: settings/src/Settings/EventLog/EventLogDataTable.js:213
+#: settings/src/Settings/firewall/UserAgentTable.js:257
+#: settings/src/Settings/GeoBlockList/BlockListDatatable.js:345
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:502
+#: settings/src/Settings/GeoBlockList/WhiteListDatatable.js:398
+#: settings/src/Settings/LearningMode/LearningMode.js:147
+#: settings/src/Settings/LearningMode/LearningMode.js:320
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:435
+#: settings/src/Settings/LimitLoginAttempts/IpAddressDatatable.js:298
+msgid "All"
+msgstr "Alla"
+
+#: settings/config/fields/firewall.php:248
+#: settings/config/fields/limit-login-attempts.php:160
+#: settings/config/fields/limit-login-attempts.php:206
+#: settings/config/fields/limit-login-attempts.php:266
+#: settings/config/fields/two-fa.php:189
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/SslLabs/SslLabsHeader.js:5
+msgid "Status"
+msgstr "Status"
+
+#: settings/config/fields/security-headers.php:400
+msgid "Source"
+msgstr "Källa"
+
+#: settings/config/fields/security-headers.php:393
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LearningMode/ManualCspAdditionModal.js:156
+msgid "Directive"
+msgstr "Direktiv"
+
+#: settings/config/fields/security-headers.php:214
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LearningMode/LearningMode.js:335
+#: settings/src/Settings/LearningMode/LearningMode.js:343
+#: settings/src/Settings/PermissionsPolicy.js:200
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: settings/config/fields/encryption.php:107
+#: settings/config/fields/security-headers.php:386
+msgid "Location"
+msgstr "Plats"
+
+#: settings/config/fields/encryption.php:101
+#: settings/config/fields/vulnerability-detection.php:221
+msgid "Description"
+msgstr "Beskrivning"
+
+#: settings/config/fields/encryption.php:94
+msgid "Type"
+msgstr "Typ"
+
+#: settings/config/fields/security-headers.php:143
+msgid "One year"
+msgstr "Ett år"
+
+#: settings/config/fields/security-headers.php:126
+msgid "Include subdomains"
+msgstr "Inkludera underdomäner"
+
+#: settings/config/fields/vulnerability-detection.php:209
+msgid "Action"
+msgstr "Åtgärd"
+
+#: settings/config/fields/hardening-xml.php:55
+msgid "Login status"
+msgstr "Inloggningsstatus"
+
+#: settings/config/fields/hardening-xml.php:48
+#: settings/config/fields/two-fa.php:181
+msgid "Method"
+msgstr "Metod"
+
+#: lets-encrypt/config/fields.php:8 settings/config/fields/general.php:61
+#: settings/config/menu.php:717
+msgid "System status"
+msgstr "Systemstatus"
+
+#: settings/config/fields/security-headers.php:214
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:278
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:295
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:473
+#: settings/src/Settings/GeoBlockList/GeoDatatable.js:484
+#: settings/src/Settings/LearningMode/ChangeStatus.js:7
+#: settings/src/Settings/LearningMode/LearningMode.js:276
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:310
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:321
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:330
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:401
+#: settings/src/Settings/LimitLoginAttempts/CountryDatatable.js:412
+msgid "Allow"
+msgstr "Tillåt"
+
+#: settings/config/fields/encryption.php:17
+msgid "No redirect"
+msgstr "Ingen omdirigering"
+
+#: settings/config/disable-fields-filter.php:28
+#: settings/config/fields/encryption.php:14
+#: settings/config/fields/encryption.php:23
+msgid "Redirect method"
+msgstr "Omdirigeringsmetod"
+
+#: lets-encrypt/config/fields.php:21 settings/config/menu.php:740
+msgid "DNS verification"
+msgstr "DNS-verifiering"
+
+#: settings/config/fields/security-headers.php:338
+msgid "Allow your domain to be embedded"
+msgstr "Tillåt att din domän bäddas in"
+
+#: settings/config/fields/security-headers.php:60
+msgid "recommended"
+msgstr "rekommenderas"
+
+#: settings/config/fields/hardening-basic.php:142
+msgid "Disable XML-RPC"
+msgstr "Inaktivera XML-RPC"
+
+#: settings/config/fields/hardening-basic.php:13
+msgid "Disable \"anyone can register\""
+msgstr "Inaktivera ”Vem som helst kan registrera sig”"
+
+#: settings/config/fields/security-headers.php:303
+msgid "Enable Permissions Policy"
+msgstr "Aktivera behörighetspolicy"
+
+#: settings/config/fields/hardening-extended.php:29
+msgid "Disable application passwords"
+msgstr "Inaktivera applikationslösenord"
+
+#: settings/config/fields/hardening-basic.php:49
+msgid "Hide your WordPress version"
+msgstr "Dölj din WordPress-version"
+
+#: settings/config/fields/access-control.php:20
+#: settings/config/fields/security-headers.php:221
+msgid "They might be misused if you don’t actively tell the browser to disable these features."
+msgstr "De kan missbrukas om du inte aktivt säger åt webbläsaren att inaktivera dessa funktioner."
+
+#: settings/config/fields/security-headers.php:102
+msgid "After enabling this feature, you can submit your site to %shstspreload.org%s"
+msgstr "Efter att ha aktiverat denna funktion kan du skicka in din webbplats till %shstspreload.org%s"
+
+#: settings/config/fields/hardening-extended.php:56
+msgid "Disable HTTP methods"
+msgstr "Inaktivera HTTP-metoder"
+
+#: settings/config/fields/hardening-basic.php:29
+msgid "Disable the built-in file editors"
+msgstr "Inaktivera de inbyggda filredigerarna"
+
+#: settings/config/fields/hardening-basic.php:19
+msgid "About Hardening"
+msgstr "Om förstärkning"
+
+#: settings/config/fields/hardening-basic.php:70
+msgid "Disable directory browsing"
+msgstr "Inaktivera katalogbläddring"
+
+#: settings/config/fields/hardening-basic.php:80
+msgid "Disable user enumeration"
+msgstr "Inaktivera uppräkning av användare"
+
+#: settings/config/fields/hardening-extended.php:20
+msgid "Change debug.log file location"
+msgstr "Ändra debug.log-filens plats"
+
+#: settings/config/fields/security-headers.php:225
+msgid "Feature"
+msgstr "Funktion"
+
+#: settings/config/fields/security-headers.php:221
+msgid "Browser features are plentiful, but most are not needed on your website."
+msgstr "Det finns gott om webbläsarfunktioner, men de flesta behövs inte på din webbplats."
+
+#: settings/config/fields/security-headers.php:220
+msgid "About the Permission Policy"
+msgstr "Om behörighetspolicyn"
+
+#: settings/config/fields/security-headers.php:312
+msgid "Serve encrypted and authenticated responses"
+msgstr "Betjäna krypterade och autentiserade svar"
+
+#: settings/config/fields/security-headers.php:44
+#: settings/config/fields/security-headers.php:59
+#: settings/config/fields/security-headers.php:162
+#: settings/config/fields/security-headers.php:184
+#: settings/config/fields/security-headers.php:199
+msgid "Off"
+msgstr "Av"
+
+#: lets-encrypt/config/fields.php:12 settings/config/menu.php:725
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: settings/config/menu.php:68 settings/build/index.978c7d81c599bb78e256.js:1
+#: settings/src/Header.js:32
+msgid "Let's Encrypt"
+msgstr "Let's Encrypt"
+
+#: settings/config/menu.php:264
+msgid "XML-RPC"
+msgstr "XML-RPC"
+
+#: settings/config/menu.php:11
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: security/notices.php:93 settings/config/fields/limit-login-attempts.php:153
+#: settings/config/fields/two-fa.php:165
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/LimitLoginAttempts/AddUserModal.js:60
+msgid "Username"
+msgstr "Användarnamn"
+
+#: core/app/Services/SettingsConfigService.php:50
+#: core/app/Services/SettingsConfigService.php:117
+#: security/firewall-manager.php:712 security/firewall-manager.php:718
+#: security/firewall-manager.php:734 settings/config/menu.php:529
+#: settings/config/menu.php:547 modal/build/index.dc39341c6b0a7592427c.js:1
+#: modal/src/components/DeactivationModal/DeactivationModal.js:76
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Progress/ProgressFooter.js:44
+#: settings/src/Dashboard/Progress/ProgressFooter.js:48
+msgid "Firewall"
+msgstr "Brandvägg"
+
+#: placeholders/class-placeholder.php:431
+msgid "Widget area"
+msgstr "Widgetområde"
+
+#: placeholders/class-placeholder.php:331
+#: placeholders/class-placeholder.php:348
+#: placeholders/class-placeholder.php:372
+#: placeholders/class-placeholder.php:389
+#: placeholders/class-placeholder.php:415
+#: placeholders/class-placeholder.php:440
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Settings/MixedContentScan/MixedContentScan.js:90
+#: settings/src/Settings/RiskConfiguration/RiskData.js:115
+msgid "Details"
+msgstr "Detaljer"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:180
+#: settings/config/menu.php:755 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Dashboard/OtherPlugins/OtherPluginsData.js:74
+#: settings/src/Onboarding/OnboardingControls.js:192
+#: settings/src/Settings/License/License.js:49
+msgid "Activate"
+msgstr "Aktivera"
+
+#. translators: Accessibility text.
+#: class-site-health.php:197 class-site-health.php:227
+#: class-site-health.php:257
+msgid "(opens in a new tab)"
+msgstr "(öppnas i en ny flik)"
+
+#: settings/config/fields/security-headers.php:215
+msgid "Permissions Policy"
+msgstr "Behörighetspolicy"
+
+#: settings/config/fields/security-headers.php:79
+msgid "HTTP Strict Transport Security"
+msgstr "HTTP Strict Transport Security"
+
+#: settings/config/menu.php:57
+msgid "Debugging with Really Simple Security"
+msgstr "Felsökning med Really Simple Security"
+
+#: security/wordpress/prevent-login-info-leakage.php:9
+msgid "Invalid login details."
+msgstr "Ogiltiga inloggningsdetaljer."
+
+#: security/notices.php:32
+msgid ".htaccess not writable"
+msgstr ".htaccess är inte skrivbar"
+
+#: placeholders/class-placeholder.php:356
+#: placeholders/class-placeholder.php:397
+#: placeholders/class-placeholder.php:423
+#: placeholders/class-placeholder.php:448
+msgid "Import and insert file"
+msgstr "Importera och infoga fil"
+
+#: lets-encrypt/config/notices.php:169 lets-encrypt/config/notices.php:172
+msgid "Renew certificate"
+msgstr "Förnya certifikat"
+
+#: lets-encrypt/config/notices.php:166
+msgid "Renew installation"
+msgstr "Förnya installation"
+
+#: lets-encrypt/config/fields.php:307 lets-encrypt/config/fields.php:312
+msgid "CloudWays API key"
+msgstr "CloudWays API-nyckel"
+
+#: lets-encrypt/config/fields.php:145 lets-encrypt/config/fields.php:148
+msgid "Include alias"
+msgstr "Inkludera alias"
+
+#: lets-encrypt/class-le-restapi.php:166 lets-encrypt/class-le-restapi.php:227
+msgid "Permission denied."
+msgstr "Behörighet nekad."
+
+#: settings/config/menu.php:233 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Vulnerabilities/VulnerabilitiesHeader.js:15
+msgid "Hardening"
+msgstr "Förstärkning"
+
+#: class-admin.php:3398 settings/config/menu.php:254
+msgid "Advanced Hardening"
+msgstr "Avancerad förstärkning"
+
+#: security/wordpress/rename-admin-user.php:15
+msgid "Username 'admin' has been changed to %s"
+msgstr "Användarnamn ”admin” har ändrats till %s"
+
+#: security/wordpress/block-code-execution-uploads.php:19
+msgid "Uploads folder not writable."
+msgstr "Uppladdningsmapp är inte skrivbar."
+
+#: security/notices.php:40
+msgid ".htaccess does not exist"
+msgstr ".htaccess finns inte"
+
+#: security/notices.php:33 security/notices.php:41 security/notices.php:60
+msgid "Please add the following lines to your .htaccess, or set it to writable:"
+msgstr "Lägg till följande rader i din .htaccess, eller ställ in den på skrivbar:"
+
+#: security/notices.php:33
+msgid "An option that requires the .htaccess file is enabled, but the file is not writable."
+msgstr "Ett alternativ som kräver .htaccess-filen är aktiverat, men filen är inte skrivbar."
+
+#: security/firewall-manager.php:719
+msgid "Please set the wp-content folder to writable:"
+msgstr "Ställ in mappen wp-content till skrivbar:"
+
+#: security/firewall-manager.php:719
+msgid "A firewall rule was enabled, but /the wp-content/ folder is not writable."
+msgstr "En brandväggsregel har aktiverats, men mappen /wp-content/ är inte skrivbar."
+
+#: security/firewall-manager.php:713
+msgid "A firewall rule was enabled, but the wp-config.php is not writable."
+msgstr "En brandväggsregel har aktiverats, men wp-config.php är inte skrivbar."
+
+#: rlrsssl-really-simple-ssl.php:194
+msgid "Visit the plugins overview or %srenew your license%s."
+msgstr "Besök tilläggets översikt eller %sförnya din licens%s."
+
+#: rlrsssl-really-simple-ssl.php:192
+msgid "Update Really Simple SSL Pro: the plugin needs to be updated to the latest version to be compatible."
+msgstr "Uppdatera Really Simple SSL Pro: tilläggetmåste uppdateras till den senaste versionen för att vara kompatibelt."
+
+#: placeholders/class-placeholder.php:436
+msgid "Widget with mixed content"
+msgstr "Widget med blandat innehåll"
+
+#: placeholders/class-placeholder.php:357
+#: placeholders/class-placeholder.php:398
+#: placeholders/class-placeholder.php:424
+#: placeholders/class-placeholder.php:449
+msgid "Copyright warning!"
+msgstr "Upphovsrättsvarning!"
+
+#: placeholders/class-placeholder.php:343
+msgid "Mixed content in %s"
+msgstr "Blandat innehåll i %s"
+
+#: placeholders/class-placeholder.php:327
+msgid "Mixed content in PHP file in %s"
+msgstr "Blandat innehåll i PHP-fil i %s"
+
+#: lets-encrypt/config/fields.php:356
+msgid "Plesk username and password"
+msgstr "Plesk användarnamn och lösenord"
+
+#: lets-encrypt/config/fields.php:110
+msgid "I agree to the Terms & Conditions from Let's Encrypt."
+msgstr "Jag godkänner användarvillkoren från Let's Encrypt."
+
+#: lets-encrypt/class-le-restapi.php:235
+msgid "Test not found."
+msgstr "Test hittades inte."
+
+#: settings/config/menu.php:52
+msgid "The following information is attached when you send this form: license key, scan results, your domain, .htaccess file, debug log and a list of active plugins."
+msgstr "Följande information bifogas när du skickar detta formulär: licensnyckel, skanningsresultat, din domän, .htaccess-fil, felsökningslogg och en lista över aktiva tillägg."
+
+#: security/sync-settings.php:35
+msgid "Changed debug.log location to:"
+msgstr "Ändrade debug.log-platsen till:"
+
+#: security/notices.php:59
+msgid ".htaccess in uploads not writable"
+msgstr ".htaccess i uppladdningar är inte skrivbar"
+
+#: security/notices.php:41
+msgid "An option that requires the .htaccess file is enabled, but the file does not exist."
+msgstr "Ett alternativ som kräver .htaccess-filen är aktiverat, men filen finns inte."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:108
+#: lets-encrypt/integrations/cpanel/cpanel.php:192
+msgid "Your website's ip address is blocked. Please add your domain's ip address to the security policy in CPanel"
+msgstr "Din webbplatss IP-adress är blockerad. Lägg till din domäns IP-adress i säkerhetspolicyn i CPanel"
+
+#: lets-encrypt/config/fields.php:332
+msgid "Plesk admin URL"
+msgstr "Plesk admin-URL"
+
+#: class-site-health.php:211
+msgid "Your site is set to display errors on your website"
+msgstr "Din webbplats är inställd på att visa fel på din webbplats"
+
+#: lets-encrypt/config/fields.php:123 lets-encrypt/config/fields.php:126
+msgid "Disable OCSP stapling"
+msgstr "Inaktivera OCSP stapling"
+
+#: security/firewall-manager.php:713
+msgid "Please set the wp-config.php to writable until the rule has been written."
+msgstr "Ställ in wp-config.php till skrivbar tills regeln har skrivits."
+
+#: security/notices.php:60
+msgid "An option that requires the .htaccess file in the uploads directory is enabled, but the file is not writable."
+msgstr "Ett alternativ som kräver .htaccess-filen i uppladdningskatalogen är aktiverat, men filen är inte skrivbar."
+
+#: security/notices.php:79
+msgid "We have detected administrator roles where the login and display names are the same."
+msgstr "Vi har upptäckt administratörsroller där inloggnings- och visningsnamnen är desamma."
+
+#: settings/config/menu.php:88 settings/config/menu.php:90
+msgid "Mixed Content Scan"
+msgstr "Skanning av blandat innehåll"
+
+#: placeholders/class-placeholder.php:385
+msgid "Mixed content in post: %s"
+msgstr "Blandat innehåll i inlägg: %s"
+
+#: security/wordpress/user-enumeration.php:10
+msgid "forbidden - number in author name not allowed = %s"
+msgstr "förbjudet – nummer i författarens namn ej tillåtet = %s"
+
+#: class-multisite.php:110
+msgid "SSL activation in progress"
+msgstr "SSL-aktivering pågår"
+
+#: class-multisite.php:83
+msgid "SSL is not enabled on your network"
+msgstr "SSL är inte aktiverat på ditt nätverk"
+
+#: class-admin.php:1991 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/OtherPlugins/OtherPlugins.js:21
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: class-admin.php:2054
+msgid "To safely enable SSL on your server configuration, you should add the following line of code to your wp-config.php."
+msgstr "För att säkert aktivera SSL på din serverkonfiguration bör du lägga till följande kodrad till din wp-config.php."
+
+#: upgrade/upgrade-to-pro.php:551
+msgid "Your license is not active for this URL."
+msgstr "Din licens är inte aktiv för denna URL."
+
+#: upgrade/upgrade-to-pro.php:548
+msgid "Invalid license."
+msgstr "Ogiltig licens."
+
+#: upgrade/upgrade-to-pro.php:545
+msgid "Missing license."
+msgstr "Licens saknas."
+
+#: upgrade/upgrade-to-pro.php:542
+msgid "Your license key has been disabled."
+msgstr "Din licensnyckel har inaktiverats."
+
+#: upgrade/upgrade-to-pro.php:536
+msgid "Your license key expired on %s."
+msgstr "Din licensnyckel löpte ut den %s."
+
+#: upgrade/upgrade-to-pro.php:528 upgrade/upgrade-to-pro.php:560
+msgid "An error occurred, please try again."
+msgstr "Ett fel uppstod, försök igen."
+
+#: upgrade/upgrade-to-pro.php:342
+msgid "Check your %slicense%s."
+msgstr "Kontrollera din %slicens%s."
+
+#: upgrade/upgrade-to-pro.php:341
+msgid "Install %sManually%s."
+msgstr "Installera %smanuellt%s."
+
+#: upgrade/upgrade-to-pro.php:336
+msgid "Visit Dashboard"
+msgstr "Besök adminpanel"
+
+#: upgrade/upgrade-to-pro.php:325
+msgid "Installing"
+msgstr "Installerar"
+
+#: upgrade/upgrade-to-pro.php:300
+msgid "Recommended by Really Simple Plugins"
+msgstr "Rekommenderat av Really Simple Plugins"
+
+#: upgrade/upgrade-to-pro.php:199
+msgid "Installation finished"
+msgstr "Installation slutförd"
+
+#: upgrade/upgrade-to-pro.php:107
+msgid "Failed to activate plugin"
+msgstr "Misslyckades att aktivera tillägg"
+
+#: upgrade/upgrade-to-pro.php:106
+msgid "Plugin activated"
+msgstr "Tillägg aktiverat"
+
+#: upgrade/upgrade-to-pro.php:105
+msgid "Activating plugin..."
+msgstr "Aktiverar tillägg …"
+
+#: upgrade/upgrade-to-pro.php:100
+msgid "Failed to install plugin"
+msgstr "Misslyckades att installera tillägg"
+
+#: upgrade/upgrade-to-pro.php:99
+msgid "Plugin installed"
+msgstr "Tillägg installerat"
+
+#: upgrade/upgrade-to-pro.php:98
+msgid "Installing plugin..."
+msgstr "Installerar tillägg …"
+
+#: upgrade/upgrade-to-pro.php:93
+msgid "Failed to gather package information"
+msgstr "Misslyckades att samla in paketinformation"
+
+#: upgrade/upgrade-to-pro.php:92
+msgid "Package information retrieved"
+msgstr "Paketinformation hämtad"
+
+#: upgrade/upgrade-to-pro.php:91
+msgid "Retrieving package information..."
+msgstr "Hämtar paketinformation …"
+
+#: upgrade/upgrade-to-pro.php:86
+msgid "License invalid"
+msgstr "Licens ogiltig"
+
+#: upgrade/upgrade-to-pro.php:85
+msgid "License valid"
+msgstr "Licens giltig"
+
+#: upgrade/upgrade-to-pro.php:84
+msgid "Validating license..."
+msgstr "Validerar licens …"
+
+#: upgrade/upgrade-to-pro.php:79
+msgid "Destination folder already exists"
+msgstr "Målmappen finns redan"
+
+#: upgrade/upgrade-to-pro.php:78
+msgid "Able to create destination folder"
+msgstr "Kan skapa målmapp"
+
+#: upgrade/upgrade-to-pro.php:77
+msgid "Checking if plugin folder exists..."
+msgstr "Kontrollerar om tilläggets mapp finns …"
+
+#: upgrade/upgrade-to-pro.php:143
+msgid "One click SSL optimization"
+msgstr "SSL-optimering med ett klick"
+
+#: upgrade/upgrade-to-pro.php:557
+msgid "Your license key has reached its activation limit."
+msgstr "Din licensnyckel har nått sin aktiveringsgräns."
+
+#: upgrade/upgrade-to-pro.php:554
+msgid "This appears to be an invalid license key for this plugin."
+msgstr "Detta verkar vara en ogiltig licensnyckel för detta tillägg."
+
+#: class-admin.php:2159
+msgid "Check manually"
+msgstr "Kontrollera manuellt"
+
+#: class-admin.php:2154
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:103
+msgid "Could not test certificate"
+msgstr "Kunde inte testa certifikat"
+
+#: class-admin.php:2155
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:103
+msgid "Automatic certificate detection is not possible on your server."
+msgstr "Automatisk upptäckt av certifikat är inte möjlig på din server."
+
+#: lets-encrypt/config/fields.php:422
+msgid "Checking host..."
+msgstr "Kontrollerar webbhotell …"
+
+#: class-admin.php:2139
+msgid "The wp-config.php file is not writable, and needs to be edited. Please set this file to writable."
+msgstr "Filen wp-config.php är inte skrivbar och måste redigeras. Ställ in denna fil på skrivbar."
+
+#: class-multisite.php:239 class-multisite.php:240 class-site-health.php:100
+#: class-site-health.php:131 class-site-health.php:162
+#: class-site-health.php:184 class-site-health.php:214
+#: class-site-health.php:244 class-site-health.php:275
+#: class-site-health.php:315 security/wordpress/vulnerabilities.php:299
+#: security/wordpress/vulnerabilities.php:319 settings/settings.php:197
+#: settings/settings.php:198 settings/settings.php:230
+msgid "Security"
+msgstr "Säkerhet"
+
+#: class-admin.php:2314
+msgid "Recommended security headers enabled."
+msgstr "Rekommenderade säkerhetsheaders aktiverade."
+
+#: lets-encrypt/functions.php:12
+msgid "For more information, please read this %sarticle%s"
+msgstr "För mer information, läs denna %sartikel%s"
+
+#: class-admin.php:2375
+msgid "Black Friday sale! Get 40% Off Really Simple Security Pro"
+msgstr "Black Friday-rea! Få 40&nbsp;% rabatt på Really Simple Security Pro"
+
+#: lets-encrypt/config/fields.php:506
+msgid "Checking if Terms & Conditions are accepted..."
+msgstr "Kontrollerar om villkoren har accepterats …"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1055
+msgid "Terms & Conditions are accepted."
+msgstr "Villkoren har accepterats."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1059
+msgid "The Terms & Conditions were not accepted. Please accept in the general settings."
+msgstr "Villkoren har inte accepterats. Acceptera dem under allmänna inställningar."
+
+#. translators: %s is replaced with the plugin name.
+#: class-admin.php:2361
+msgid "We have detected the %s plugin on your website."
+msgstr "Vi har upptäckt tillägget %s på din webbplats."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:110
+msgid "No SSL certificate has been detected."
+msgstr "Inget SSL-certifikat har upptäckts."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:110
+msgid "Please refresh the SSL status if a certificate has been installed recently."
+msgstr "Uppdatera SSL-statusen om ett certifikat nyligen har installerats."
+
+#: lets-encrypt/class-letsencrypt-handler.php:488
+msgid "Order ID mismatch, regenerate order."
+msgstr "Beställnings-ID matchar inte, återskapa beställning."
+
+#: lets-encrypt/class-letsencrypt-handler.php:491
+msgid "If you entered your DNS records before, they need to be changed."
+msgstr "Om du lagt in dina DNS-poster tidigare, behöver de ändras."
+
+#: settings/config/fields/general.php:60
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/LetsEncrypt/Installation.js:95
+#: settings/src/LetsEncrypt/Installation.js:100
+#: settings/src/LetsEncrypt/Installation.js:104
+msgid "Download"
+msgstr "Ladda ner"
+
+#: settings/config/menu.php:213 settings/build/995.7a0675fe0519b06656b3.js:1
+#: settings/src/Settings/Settings.js:164
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: lets-encrypt/config/fields.php:29 settings/config/menu.php:750
+msgid "Installation"
+msgstr "Installation"
+
+#: lets-encrypt/config/fields.php:474 lets-encrypt/config/fields.php:512
+msgid "Creating account..."
+msgstr "Skapar konto …"
+
+#: lets-encrypt/config/fields.php:446
+msgid "Checking permissions..."
+msgstr "Kontrollerar behörigheter …"
+
+#: lets-encrypt/config/fields.php:17 settings/config/menu.php:735
+msgid "Directories"
+msgstr "Kataloger"
+
+#: lets-encrypt/config/notices.php:111
+msgid "Your certificate will be renewed and installed automatically."
+msgstr "Ditt certifikat kommer att förnyas och installeras automatiskt."
+
+#: lets-encrypt/config/notices.php:71
+msgid "Your certificate is valid until: %s"
+msgstr "Ditt certifikat är giltigt till: %s"
+
+#: lets-encrypt/config/notices.php:28
+msgid "Your Key and Certificate directories are not properly protected."
+msgstr "Dina nyckel- och certifikatkataloger är inte korrekt skyddade."
+
+#: lets-encrypt/config/fields.php:440
+msgid "Checking certs directory..."
+msgstr "Kontrollerar ”certs”-katalogen …"
+
+#: lets-encrypt/config/fields.php:434
+msgid "Checking key directory..."
+msgstr "Kontrollerar nyckelkatalogen …"
+
+#: lets-encrypt/config/fields.php:428
+msgid "Checking challenge directory..."
+msgstr "Kontrollerar ”challenge”-katalogen …"
+
+#: lets-encrypt/config/fields.php:25 settings/config/menu.php:745
+msgid "Generation"
+msgstr "Generering"
+
+#: lets-encrypt/config/notices.php:104
+msgid "Automatic renewal of your certificate was not possible. The SSL certificate should be %srenewed%s manually."
+msgstr "Automatisk förnyelse av ditt certifikat var inte möjligt. SSL-certifikatet måste %sförnyas%s manuellt."
+
+#: lets-encrypt/config/fields.php:532
+msgid "Searching for link to SSL installation page on your server..."
+msgstr "Söker efter länk till SSL-installationssida på din server …"
+
+#: lets-encrypt/config/notices.php:75
+msgid "Your certificate will expire on %s. You can renew it %shere%s."
+msgstr "Ditt certifikat löper ut den %s. Du kan förnya det %shär%s."
+
+#: lets-encrypt/config/fields.php:480
+msgid "Retrieving DNS verification token..."
+msgstr "Tar emot token för DNS-verifiering …"
+
+#: lets-encrypt/config/fields.php:453
+msgid "Checking challenge directory reachable over http..."
+msgstr "Kontrollerar om “challenge“-katalogen kan nås via http …"
+
+#: lets-encrypt/config/notices.php:90
+msgid "The automatic installation of your certificate has failed. Please check your credentials, and retry the %sinstallation%s."
+msgstr "Den automatiska installationen av ditt certifikat har misslyckats. Kontrollera dina autentiseringsuppgifter och försök göra om %sinstallationen%s."
+
+#: lets-encrypt/config/notices.php:97
+msgid "The SSL certificate has been renewed, and requires manual %sinstallation%s in your hosting dashboard."
+msgstr "SSL-certifikatet har förnyats och kräver manuell %sinstallation%s i adminpanelen på ditt webbhotell."
+
+#: lets-encrypt/config/notices.php:43
+msgid "The www version of your site does not point to this website. This is recommended, as it will allow you to add it to the certificate as well."
+msgstr "www-versionen av din webbplats pekar inte på den här webbplatsen. Detta rekommenderas eftersom det gör att du också kan lägga till den i certifikatet."
+
+#: settings/config/menu.php:729
+msgid "Hosting"
+msgstr "Webbhotell"
+
+#: lets-encrypt/config/fields.php:134 lets-encrypt/config/notices.php:51
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/LetsEncrypt/DnsVerification.js:62
+msgid "Domain"
+msgstr "Domän"
+
+#: lets-encrypt/config/fields.php:94 lets-encrypt/config/fields.php:97
+#: settings/config/fields/general.php:78
+msgid "Email address"
+msgstr "E-postadress"
+
+#: lets-encrypt/config/fields.php:47
+msgid "Detected status of your setup."
+msgstr "Upptäckt status för din installation."
+
+#: lets-encrypt/config/fields.php:52
+msgid "Checking SSL certificate..."
+msgstr "Kontrollerar SSL-certifikat …"
+
+#: lets-encrypt/config/fields.php:58
+msgid "Checking if CURL is available..."
+msgstr "Kontrollerar om CURL är tillgängligt …"
+
+#: lets-encrypt/config/fields.php:377
+msgid "Plesk password"
+msgstr "Lösenord för Plesk"
+
+#: lets-encrypt/config/fields.php:353
+msgid "Plesk username"
+msgstr "Användarnamn för Plesk"
+
+#: lets-encrypt/config/fields.php:357
+msgid "You can find your Plesk username and password in %s"
+msgstr "Du hittar ditt användarnamn och lösenord för Plesk i %s"
+
+#: settings/settings.php:524
+msgid "Terms and Conditions"
+msgstr "Användarvillkor"
+
+#: lets-encrypt/config/fields.php:166 lets-encrypt/config/fields.php:169
+msgid "CPanel host"
+msgstr "CPanel-server"
+
+#: lets-encrypt/config/fields.php:228
+msgid "DirectAdmin host"
+msgstr "DirectAdmin-server"
+
+#: lets-encrypt/config/fields.php:329
+msgid "Plesk host"
+msgstr "Plesk-server"
+
+#: lets-encrypt/config/fields.php:271
+msgid "DirectAdmin password"
+msgstr "Lösenord för DirectAdmin"
+
+#: lets-encrypt/config/fields.php:252
+msgid "DirectAdmin username"
+msgstr "Användarnamn för DirectAdmin"
+
+#: lets-encrypt/config/fields.php:209
+msgid "CPanel password"
+msgstr "Lösenord för CPanel"
+
+#: lets-encrypt/config/fields.php:190
+msgid "CPanel username"
+msgstr "Användarnamn för CPanel"
+
+#: lets-encrypt/config/fields.php:291
+msgid "CloudWays user email"
+msgstr "Användarens e-post för CloudWays"
+
+#: lets-encrypt/config/fields.php:313
+msgid "You can find your api key %shere%s (make sure you're logged in with your main account)."
+msgstr "Du kan hitta din API-nyckel %shär%s (se till att du är inloggad med ditt huvudkonto)."
+
+#: lets-encrypt/config/fields.php:98
+msgid "This email address is used to create a Let's Encrypt account. This is also where you will receive renewal notifications."
+msgstr "Denna e-postadress används för att skapa ett Let's Encrypt-konto. Det är också här du kommer att få aviseringar om förnyelse."
+
+#: lets-encrypt/config/fields.php:70
+msgid "Checking alias domain..."
+msgstr "Kontrollerar aliasdomän …"
+
+#: lets-encrypt/config/fields.php:76
+msgid "Checking for website configuration..."
+msgstr "Kontrollerar webbplatsens konfiguration …"
+
+#: lets-encrypt/config/fields.php:64
+msgid "Checking server software..."
+msgstr "Kontrollerar serverprogramvara …"
+
+#: settings/config/fields/general.php:32
+msgid "Hosting provider"
+msgstr "Webbhotell"
+
+#: lets-encrypt/config/fields.php:149
+msgid "This will include both the www. and non-www. version of your domain."
+msgstr "Detta kommer inkludera både www- och icke-www-versionen för din domän."
+
+#: lets-encrypt/config/fields.php:333
+msgid "The URL you use to access your Plesk dashboard. Ends on :8443."
+msgstr "URL:en du använder för att komma åt din Plesk-adminpanel. Slutar på :8443."
+
+#: lets-encrypt/config/fields.php:232
+msgid "The URL you use to access your DirectAdmin dashboard. Ends on :2222."
+msgstr "URL:en du använder för att komma åt din DirectAdmin-adminpanel. Slutar på :2222."
+
+#: lets-encrypt/config/fields.php:170
+msgid "The URL you use to access your cPanel dashboard. Ends on :2083."
+msgstr "URL:en du använder för att komma åt din cPanel-adminpanel. Slutar på :2083."
+
+#: lets-encrypt/config/fields.php:400
+msgid "Store for renewal purposes. If not stored, renewal may need to be done manually."
+msgstr "Lagra för förnyelseändamål. Om den inte lagras kan förnyelse behöva göras manuellt."
+
+#: lets-encrypt/integrations/cloudways/functions.php:43
+msgid "Installing SSL certificate..."
+msgstr "Installerar SSL-certifikat …"
+
+#: lets-encrypt/functions.php:386
+msgid "Go to installation"
+msgstr "Gå till installation"
+
+#: lets-encrypt/functions.php:385
+msgid "Go to activation"
+msgstr "Gå till aktivering"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1364
+#: lets-encrypt/class-letsencrypt-handler.php:1368
+#: lets-encrypt/class-letsencrypt-handler.php:1747
+msgid "Error code %s"
+msgstr "Felkod %s"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1861
+msgid "Installation failed."
+msgstr "Installationen misslyckades."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:294
+msgid "Unable to connect to cPanel"
+msgstr "Kan inte ansluta till cPanel"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:128
+#: lets-encrypt/integrations/cpanel/cpanel.php:207
+msgid "Errors were reported during installation."
+msgstr "Fel rapporterades under installationen."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:123
+#: lets-encrypt/integrations/directadmin/directadmin.php:124
+msgid "SSL successfully installed on %s"
+msgstr "SSL har installerats på %s"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:66
+#: lets-encrypt/integrations/directadmin/directadmin.php:66
+msgid "No valid list of domains."
+msgstr "Ingen giltig lista med domäner."
+
+#: lets-encrypt/integrations/cloudways/functions.php:49
+msgid "Enabling auto renew..."
+msgstr "Aktiverar automatisk förnyelse …"
+
+#: lets-encrypt/functions.php:406
+msgid "You can follow these %sinstructions%s."
+msgstr "Du kan följa dessa %sinstruktioner%s."
+
+#: security/cron.php:96
+msgid "Once every 5 minutes"
+msgstr "En gång var 5:e minut"
+
+#: security/cron.php:100
+msgid "Once every day"
+msgstr "En gång varje dag"
+
+#: security/cron.php:108
+msgid "Once every week"
+msgstr "En gång varje vecka"
+
+#: lets-encrypt/class-letsencrypt-handler.php:408
+msgid "Please change your email address %shere%s and try again."
+msgstr "Ändra din e-postadress %shär%s och försök igen."
+
+#: lets-encrypt/class-letsencrypt-handler.php:407
+msgid "The used domain for your email address is not allowed."
+msgstr "Den använda domänen för din e-postadress är inte tillåten."
+
+#: lets-encrypt/class-letsencrypt-handler.php:717
+#: lets-encrypt/class-letsencrypt-handler.php:793
+msgid "Files not created yet..."
+msgstr "Filer har inte skapats ännu …"
+
+#: lets-encrypt/class-letsencrypt-handler.php:787
+msgid "Successfully generated certificate."
+msgstr "Certifikat genererades utan problem."
+
+#: lets-encrypt/config/fields.php:518
+msgid "Generating SSL certificate..."
+msgstr "Genererar SSL-certifikat …"
+
+#: lets-encrypt/integrations/plesk/plesk.php:90
+msgid "Successfully installed SSL"
+msgstr "SSL installerades utan problem"
+
+#: lets-encrypt/integrations/cpanel/functions.php:107
+#: lets-encrypt/integrations/directadmin/functions.php:35
+msgid "Attempting to install certificate..."
+msgstr "Försöker att installera certifikat …"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:298
+msgid "Login credentials incorrect"
+msgstr "Inloggningsuppgifterna är felaktiga"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:196
+msgid "Error enabling auto renew for Let's Encrypt"
+msgstr "Fel vid aktivering av automatisk förnyelse för Let's Encrypt"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:181
+#: lets-encrypt/integrations/cloudways/cloudways.php:187
+msgid "Successfully installed Let's Encrypt"
+msgstr "Let's Encrypt installerades utan problem"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:161
+msgid "Failed retrieving access token"
+msgstr "Misslyckades att hämta åtkomsttoken"
+
+#: lets-encrypt/functions.php:393 lets-encrypt/functions.php:397
+#: lets-encrypt/functions.php:407
+msgid "After completing the installation, you can continue to the next step to complete your configuration."
+msgstr "Efter att ha slutfört installationen kan du fortsätta till nästa steg för att slutföra din konfiguration."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1866
+#: lets-encrypt/integrations/cloudways/functions.php:22
+#: lets-encrypt/integrations/cpanel/functions.php:17
+#: lets-encrypt/integrations/cpanel/functions.php:35
+#: lets-encrypt/integrations/directadmin/functions.php:16
+#: lets-encrypt/integrations/plesk/functions.php:16
+msgid "The system is not ready for the installation yet. Please run the wizard again."
+msgstr "Systemet är inte redo för installation ännu. Kör guiden igen."
+
+#: lets-encrypt/download.php:49
+msgid "File missing. Please retry the previous steps."
+msgstr "Fil saknas. Försök igen med föregående stegen."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1729
+msgid "Could not create test folder and file."
+msgstr "Kunde inte skapa testmapp och fil."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1700
+msgid "If this is not the case, don't add this alias to your certificate."
+msgstr "Om detta inte är fallet, lägg inte till detta alias i ditt certifikat."
+
+#: lets-encrypt/class-letsencrypt-handler.php:595
+msgid "Could not verify TXT record for domain %s"
+msgstr "Kunde inte verifiera TXT-post för domän %s"
+
+#: lets-encrypt/class-letsencrypt-handler.php:575
+msgid "Successfully verified DNS records"
+msgstr "DNS-poster verifierades utan problem"
+
+#: lets-encrypt/class-letsencrypt-handler.php:561
+#: lets-encrypt/integrations/cpanel/functions.php:47
+msgid "Token not generated. Please complete the previous step."
+msgstr "Token genererades inte. Slutför föregående steg."
+
+#: lets-encrypt/class-letsencrypt-handler.php:469
+msgid "Token not received yet."
+msgstr "Token har inte tagits emot än."
+
+#: lets-encrypt/class-letsencrypt-handler.php:416
+msgid "The email address was not set. Please set the email address"
+msgstr "E-postadressen har inte ställts in. Ställ in e-postadressen"
+
+#: lets-encrypt/class-letsencrypt-handler.php:376
+msgid "The PHP function CURL is not available on your server, which is required. Please contact your hosting provider."
+msgstr "PHP-funktionen CURL är inte tillgänglig på din server, vilket krävs. Kontakta ditt webbhotell."
+
+#: lets-encrypt/integrations/plesk/functions.php:33
+msgid "Installing SSL certificate using PLESK API..."
+msgstr "Installerar SSL-certifikat med PLESK API …"
+
+#: lets-encrypt/integrations/cpanel/functions.php:91
+msgid "Attempting to install certificate using AutoSSL..."
+msgstr "Försöker att installera certifikat med AutoSSL …"
+
+#: lets-encrypt/integrations/cpanel/functions.php:63
+msgid "The system is not ready for the DNS verification yet. Please run the wizard again."
+msgstr "Systemet är inte redo för DNS-verifiering ännu. Kör guiden igen."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:310
+#: lets-encrypt/integrations/cpanel/cpanel.php:329
+msgid "Could not automatically add TXT record. Please proceed manually, following the steps below."
+msgstr "Kunde inte lägga till TXT-post automatiskt. Fortsätt manuellt genom att följa stegen nedan."
+
+#: lets-encrypt/functions.php:384
+msgid "Please activate it on your dashboard %smanually%s"
+msgstr "Aktivera det på din adminpanel %smanuellt%s"
+
+#: lets-encrypt/functions.php:383
+msgid "Please complete %smanually%s"
+msgstr "Slutför %smanuellt%s"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1730
+msgid "Please create a folder 'rsssl' in the uploads directory, with 644 permissions."
+msgstr "Skapa en mapp 'rsssl' i uppladdningskatalogen med behörighet 644."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1184
+msgid "Set permissions to 644 to enable SSL generation."
+msgstr "Ställ in behörigheter till 644 för att aktivera SSL-generering."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1184
+msgid "The following directories do not have the necessary writing permissions."
+msgstr "Följande kataloger har inte nödvändiga skrivbehörigheter."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1168
+msgid "Please complete the following step(s) first: %s"
+msgstr "Slutför följande steg först: %s"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1340
+#: lets-encrypt/class-letsencrypt-handler.php:1684
+msgid "no response"
+msgstr "inget svar"
+
+#: lets-encrypt/class-letsencrypt-handler.php:773
+msgid "OCSP not supported, the certificate will be generated without OCSP."
+msgstr "OCSP stöds inte, certifikatet kommer att genereras utan OCSP."
+
+#: lets-encrypt/class-letsencrypt-handler.php:585
+msgid "The DNS response for %s was %s, while it should be %s."
+msgstr "DNS-svaret för %s var %s, medan det borde vara %s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:672
+msgid "DNS records were not verified yet. Please complete the previous step."
+msgstr "DNS-poster har inte verifierats än. Slutför föregående steg."
+
+#: lets-encrypt/class-letsencrypt-handler.php:711
+msgid "Certificate already generated. It was renewed if required."
+msgstr "Certifikat har redan genererats. Det förnyades om det krävdes."
+
+#: lets-encrypt/class-letsencrypt-handler.php:741
+msgid "Authorization not completed yet."
+msgstr "Auktorisering inte slutfört än."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1252
+msgid "The key directory is not created yet."
+msgstr "Nyckelkatalogen är inte skapad än."
+
+#: lets-encrypt/class-letsencrypt-handler.php:907
+msgid "Order successfully retrieved."
+msgstr "Beställning mottagen."
+
+#: lets-encrypt/class-letsencrypt-handler.php:891
+msgid "Order successfully created."
+msgstr "Beställning skapad."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:306
+#: lets-encrypt/integrations/cpanel/cpanel.php:325
+msgid "Successfully added TXT record."
+msgstr "TXT-poster tillagda."
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:252
+msgid "Could not retrieve server list"
+msgstr "Kunde inte hämta serverlista"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1700
+msgid "Could not verify alias domain."
+msgstr "Kunde inte verifiera alias-domän."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1698
+msgid "Please check if the www version of your site also points to this website."
+msgstr "Kontrollera om www-versionen av din webbplats också pekar till denna webbplats."
+
+#: lets-encrypt/class-letsencrypt-handler.php:658
+msgid "Please double check your DNS txt record."
+msgstr "Dubbelkontrollera din ”DNS-txt”-post."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1282
+msgid "The certs directory was successfully created."
+msgstr "Certifikatskatalogen skapades."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1278
+msgid "The certs directory is not created yet."
+msgstr "Certifikatkatalogen är inte skapad än."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1264
+msgid "The key directory was successfully created."
+msgstr "Nyckelkatalogen skapades."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1350
+msgid "Challenge directory not writable."
+msgstr "”Challenge”-katalogen är inte skrivbar."
+
+#: lets-encrypt/config/fields.php:550
+msgid "Checking for subdomain setup..."
+msgstr "Kontrollerar eventuell konfiguration av subdomän …"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1375
+#: lets-encrypt/class-letsencrypt-handler.php:1707
+#: lets-encrypt/class-letsencrypt-handler.php:1758
+msgid "Successfully verified alias domain."
+msgstr "Aliasdomän har verifierats."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1256
+msgid "Trying to create directory in root of website."
+msgstr "Försöker att skapa en katalog i webbplatsens rotkatalog."
+
+#: lets-encrypt/integrations/cpanel/functions.php:100
+msgid "Attempting to set DNS txt record..."
+msgstr "Försöker att skapa en DNS-post av typen ”txt” …"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1647
+msgid "No subdomain setup detected."
+msgstr "Ingen subdomänskonfiguration hittades."
+
+#: lets-encrypt/functions.php:380
+msgid "Please complete manually in your hosting dashboard."
+msgstr "Slutför manuellt i din adminpanel hos ditt webbhotell."
+
+#: lets-encrypt/class-letsencrypt-handler.php:380
+msgid "The PHP function CURL has successfully been detected."
+msgstr "PHP-funktionen CURL har upptäckts."
+
+#: lets-encrypt/class-letsencrypt-handler.php:400
+msgid "Successfully retrieved account"
+msgstr "Tog emot konto"
+
+#: lets-encrypt/class-letsencrypt-handler.php:801
+msgid "Bundle not available yet..."
+msgstr "Paket är inte tillgängligt än …"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:212
+#: lets-encrypt/integrations/cloudways/cloudways.php:245
+msgid "Successfully retrieved server id and app id"
+msgstr "Tog emot server-ID och app-ID"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1696
+msgid "Please check if the non www version of your site also points to this website."
+msgstr "Kontrollera om den icke www-versionen av din webbplats också pekar till denna webbplats."
+
+#: lets-encrypt/integrations/cloudways/functions.php:37
+msgid "Retrieving Cloudways server data..."
+msgstr "Hämtar Cloudways serverdata …"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1677
+msgid "Alias domain check is not relevant for a subdomain"
+msgstr "Kontroll av aliasdomän är inte relevant för subdomäner"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1856
+msgid "Not recognized server."
+msgstr "Okänd server."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1239
+msgid "The challenge directory was successfully created."
+msgstr "”challenge”-katalogen skapades."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1235
+msgid "The challenge directory is not created yet."
+msgstr "”challenge”-katalogen är inte skapad än."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1191
+msgid "The required directories have the necessary writing permissions."
+msgstr "De obligatoriska katalogerna har nödvändiga skrivbehörigheter."
+
+#: lets-encrypt/class-letsencrypt-handler.php:360
+msgid "DirectAdmin recognized. Possibly the certificate can be installed automatically."
+msgstr "DirectAdmin upptäckt. Eventuellt kan certifikatet installeras automatiskt."
+
+#: lets-encrypt/class-letsencrypt-handler.php:357
+msgid "Plesk recognized. Possibly the certificate can be installed automatically."
+msgstr "Plesk upptäckt. Eventuellt kan certifikatet installeras automatiskt."
+
+#: lets-encrypt/class-letsencrypt-handler.php:354
+msgid "CPanel recognized. Possibly the certificate can be installed automatically."
+msgstr "CPanel upptäckt. Eventuellt kan certifikatet installeras automatiskt."
+
+#: lets-encrypt/functions.php:381
+msgid "Please activate it manually on your hosting dashboard."
+msgstr "Aktivera manuellt i adminpanelen hos ditt webbhotell."
+
+#: lets-encrypt/class-letsencrypt-handler.php:765
+msgid "As your order will be regenerated, you'll need to update your DNS text records."
+msgstr "Eftersom din beställning kommer att återskapas måste du uppdatera dina DNS-textposter."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1344
+msgid "Could not reach challenge directory over %s."
+msgstr "Kunde inte att nå ”Challenge”-katalogen över %s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1826
+msgid "The certificate installation was rate limited. Please try again later."
+msgstr "Certifikatinstallationen var satsbegränsad. Försök igen senare."
+
+#: lets-encrypt/class-letsencrypt-handler.php:484
+#: lets-encrypt/class-letsencrypt-handler.php:762
+msgid "The order is invalid, possibly due to too many failed authorization attempts. Please start at the previous step."
+msgstr "Beställningen är ogiltig, möjligen på grund av för många misslyckade auktoriseringsförsök. Var snäll och börja med föregående steg."
+
+#: class-admin.php:2148 class-admin.php:2158 class-admin.php:2173
+msgid "Install SSL certificate"
+msgstr "Installera SSL-certifikat"
+
+#: class-admin.php:2149
+msgid "Retry"
+msgstr "Försök igen"
+
+#: class-admin.php:2174 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Dashboard/TaskElement.js:66
+msgid "Re-check"
+msgstr "Kontrollera igen"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:95
+msgid "An SSL certificate has been detected"
+msgstr "Ett SSL-certifikat har upptäckts"
+
+#: lets-encrypt/class-letsencrypt-handler.php:309
+msgid "Your certificate will expire on %s."
+msgstr "Ditt certifikat kommer löpa ut den %s."
+
+#: class-admin.php:2043 lets-encrypt/class-letsencrypt-handler.php:303
+msgid "(unknown)"
+msgstr "(okänd)"
+
+#. translators: %s is replaced with date.
+#: class-admin.php:2167
+msgid "SSL certificate will expire on %s."
+msgstr "SSL-certifikat kommer löpa ut den %s."
+
+#: class-admin.php:2164
+msgid "Your SSL certificate will expire soon."
+msgstr "Ditt SSL-certifikat löper snart ut."
+
+#: lets-encrypt/class-letsencrypt-handler.php:319
+msgid "SSL certificate should be generated and installed."
+msgstr "SSL-certifikat ska genereras och installeras."
+
+#: lets-encrypt/class-letsencrypt-handler.php:313
+msgid "You already have a valid SSL certificate."
+msgstr "Du har redan ett giltigt SSL-certifikat."
+
+#: lets-encrypt/class-letsencrypt-handler.php:309
+msgid "Continue to renew."
+msgstr "Fortsätt att förnya."
+
+#: lets-encrypt/class-letsencrypt-handler.php:239
+msgid "Your domain meets the requirements for Let's Encrypt."
+msgstr "Din domän uppfyller kraven för Let's Encrypt."
+
+#: lets-encrypt/class-letsencrypt-handler.php:231
+msgid "It is not possible to install Let's Encrypt on a subfolder configuration."
+msgstr "Det är inte möjligt att installera Let's Encrypt på en undermappskonfiguration."
+
+#: lets-encrypt/class-letsencrypt-handler.php:221
+msgid "It is not possible to install Let's Encrypt on a localhost environment."
+msgstr "Det är inte möjligt att installera Let's Encrypt på en localhost-miljö."
+
+#: class-admin.php:2144
+msgid "No SSL detected. Use the retry button to check again."
+msgstr "Inget SSL upptäckt. Använd knappen ”försök igen” för att kontrollera igen."
+
+#. translators: %1$ and %2$s are replaced with the opening and closing tag with
+#. link.
+#: class-admin.php:2169
+msgid "Depending on your hosting provider, %1$smanual installation%2$s may be required."
+msgstr "Beroende på ditt webbhotell kan en %1$smanuell installation%2$s behövas."
+
+#: lets-encrypt/class-letsencrypt-handler.php:226
+msgid "It is not possible to install Let's Encrypt on a subsite. Please go to the main site of your website."
+msgstr "Det är inte möjligt att installera Let's Encrypt på en underwebbplats. Gå till huvudwebbplatsen för din webbplats."
+
+#: class-site-health.php:292
+msgid "Not all essential security headers are installed"
+msgstr "Inte alla viktiga säkerhetsrubriker är installerade"
+
+#: class-site-health.php:31
+msgid "SSL Status Test"
+msgstr "Test av SSL-status"
+
+#: class-site-health.php:36
+msgid "Security Headers Test"
+msgstr "Test av säkerhetsheaders"
+
+#: class-site-health.php:280
+msgid "The essential security headers are detected on your site."
+msgstr "De väsentliga säkerhetsrubrikerna upptäcks på din webbplats."
+
+#: class-admin.php:2143 class-site-health.php:344
+msgid "No SSL detected"
+msgstr "Inget SSL upptäckt"
+
+#: class-site-health.php:329
+msgid "SSL is not enabled."
+msgstr "SSL är inte aktiverat."
+
+#: class-site-health.php:361
+msgid "Enable 301 redirect"
+msgstr "Aktivera 301-omdirigering"
+
+#: class-site-health.php:347
+msgid "Really Simple Security is installed, but no valid SSL certificate is detected."
+msgstr "Really Simple Security är installerat, men inget giltigt SSL-certifikat är upptäckt."
+
+#: class-site-health.php:356
+msgid "To ensure all traffic passes through SSL, please enable a 301 redirect."
+msgstr "För att säkerställa att all trafik går via SSL, aktivera en 301-omdirigering."
+
+#: class-site-health.php:353
+msgid "No 301 redirect to SSL enabled."
+msgstr "Ingen 301-omdirigering till SSL aktiverad."
+
+#: class-site-health.php:332
+msgid "Really Simple Security detected an SSL certificate, but has not been configured to enforce SSL."
+msgstr "Really Simple Security upptäckte ett SSL-certifikat, men har inte konfigurerats för att upprätthålla SSL."
+
+#: class-admin.php:1989 settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Settings/MixedContentScan/MixedContentScan.js:58
+msgid "Warning"
+msgstr "Varning"
+
+#: upgrade/upgrade-to-pro.php:156 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/OtherPlugins/OtherPlugins.js:24
+msgid "Installed"
+msgstr "Installerat"
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:196
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:212
+#: upgrade/upgrade-to-pro.php:132 upgrade/upgrade-to-pro.php:145
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/OtherPlugins/OtherPluginsData.js:73
+msgid "Install"
+msgstr "Installera"
+
+#: class-admin.php:2251
+msgid "WordPress 301 redirect enabled. We recommend to enable a 301 .htaccess redirect."
+msgstr "WordPress 301-omdirigering aktiverad. Vi rekommenderar att du aktiverar 301-omdirigering med .htaccess."
+
+#: class-admin.php:1988
+msgid "Completed"
+msgstr "Klart"
+
+#: class-admin.php:1990
+msgid "Open"
+msgstr "Öppen"
+
+#: class-admin.php:2294
+msgid "Your site uses Divi. This can require some additional steps before getting the secure lock."
+msgstr "Din webbplats använder Divi. Det kan behövas några ytterligare steg innan du får det säkra hänglåset."
+
+#: class-admin.php:2280
+msgid "Your site uses Elementor. This can require some additional steps before getting the secure lock."
+msgstr "Din webbplats använder Elementor. Det kan behövas några ytterligare steg innan du får det säkra hänglåset."
+
+#: settings/config/menu.php:23 settings/config/menu.php:29
+#: settings/config/menu.php:386
+msgid "General"
+msgstr "Allmänt"
+
+#: class-admin.php:204 settings/build/index.978c7d81c599bb78e256.js:1
+#: settings/src/Header.js:45
+msgid "Support"
+msgstr "Support"
+
+#: class-site-health.php:340 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Dashboard/Progress/ProgressFooter.js:24
+#: settings/src/Onboarding/OnboardingControls.js:168
+msgid "Activate SSL"
+msgstr "Aktivera SSL"
+
+#: class-site-health.php:107 class-site-health.php:138
+#: class-site-health.php:169 class-site-health.php:255
+#: class-site-health.php:297
+#: settings/config/fields/vulnerability-detection.php:234
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/src/Dashboard/SslLabs/SslLabs.js:320
+#: settings/src/LetsEncrypt/DnsVerification.js:57
+msgid "Read more"
+msgstr "Läs mer"
+
+#: class-multisite.php:79
+msgid "SSL is enabled networkwide."
+msgstr "SSL är aktiverat i hela nätverket."
+
+#: class-admin.php:2122
+msgid "SSL is not enabled yet."
+msgstr "SSL är inte aktiverat än."
+
+#: class-admin.php:2028
+msgid "No recommended redirect rules detected."
+msgstr "Inga rekommenderade omdirigeringsregler upptäcktes."
+
+#: settings/config/menu.php:82
+msgid "Mixed content"
+msgstr "Blandat innehåll"
+
+#: progress/class-progress.php:93
+msgid "SSL is not yet enabled on this site."
+msgstr "SSL är inte aktiverat på denna webbplats."
+
+#: class-admin.php:2187
+msgid "Really Simple Security has received no response from the webpage."
+msgstr "Really Simple Security har inte fått något svar från webbsidan."
+
+#: class-admin.php:2194
+msgid "The mixed content fixer is active, but was not detected on the frontpage."
+msgstr "Korrigeringsrutinen för blandat innehåll är aktiv, men upptäcktes inte på startsidan."
+
+#: class-admin.php:2205
+msgid "Mixed content fixer not enabled. Enable the option to fix mixed content on your site."
+msgstr "Korrigeringsrutinen för blandat innehåll är inte aktiverad. Aktivera alternativet för att korrigera blandat innehåll på din webbplats."
+
+#: class-admin.php:1834
+msgid "Don't show again"
+msgstr "Visa inte igen"
+
+#. translators: %s is replaced with the error description.
+#: class-admin.php:2212
+msgid "The mixed content fixer could not be detected due to a cURL error: %s. cURL errors are often caused by an outdated version of PHP or cURL and don't affect the front-end of your site. Contact your hosting provider for a fix."
+msgstr "Korrigeringsrutinen för blandat innehåll kan inte upptäckas på grund av ett cURL-fel: %s. cURL-fel orsakas ofta av en föråldrad version av PHP eller cURL och påverkar inte front-end på din webbplats. Kontakta ditt webbhotell för en åtgärd."
+
+#: class-admin.php:2199
+msgid "Error occurred when retrieving the webpage."
+msgstr "Fel uppstod vid hämtning av webbsidan."
+
+#: core/app/Features/Onboarding/OnboardingStepsGenerator.php:158
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Vulnerabilities/Vulnerabilities.js:116
+msgid "Enable"
+msgstr "Aktivera"
+
+#: class-site-health.php:312
+msgid "301 SSL redirect enabled"
+msgstr "301-omdirigering till SSL aktiverad"
+
+#: class-site-health.php:320
+msgid "You have set a 301 redirect to SSL. This is important for SEO purposes"
+msgstr "Du har konfigurerat en 301-omdirigering till SSL. Detta är viktigt för sökmotoroptimering"
+
+#: class-site-health.php:365
+msgid "301 .htaccess redirect is not enabled."
+msgstr "301-omdirigering via .htaccess är inte aktiverad."
+
+#: class-site-health.php:368
+msgid "The 301 .htaccess redirect is the fastest and most reliable redirect option."
+msgstr "301-omdirigering via .htaccess är det snabbaste och mest pålitliga omdirigeringsalternativet."
+
+#: class-admin.php:716
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: class-admin.php:2089
+msgid "The 'force-deactivate.php' file has to be renamed to .txt. Otherwise your ssl can be deactivated by anyone on the internet."
+msgstr "Filen ”force-deactivate.php” måste döpas om till .txt. I annat fall kan vem som helst på internet inaktivera SSL på din webbplats."
+
+#: class-admin.php:1829
+msgid "Maybe later"
+msgstr "Kanske senare"
+
+#: class-admin.php:1825
+msgid "Leave a review"
+msgstr "Skriva en recension"
+
+#: security/cron.php:112
+msgid "Once every month"
+msgstr "En gång varje månad"
+
+#: class-multisite.php:128
+msgid "Activate SSL per site or install a wildcard certificate to fix this."
+msgstr "Aktivera SSL per webbplats eller installera ett ”wildcard”-certifikat för att åtgärda detta."
+
+#: class-multisite.php:127
+msgid "This leads to issues when activating SSL networkwide since subdomains will be forced over SSL as well while they don't have a valid certificate."
+msgstr "Detta leder till problem när SSL aktiveras för nätverkswebbplatser, eftersom underdomäner kommer att tvingas till SSL, även om de inte har ett giltigt certifikat."
+
+#: class-multisite.php:126
+msgid "You run a Multisite installation with subdomains, but your site doesn't have a wildcard certificate."
+msgstr "Du kör en multisite-installation med underdomäner, men din webbplats har inte ett ”wildcard”-certifikat."
+
+#: upgrade/upgrade-to-pro.php:339 modal/build/433.db1479f1e30c6b53cbd8.js:1
+#: modal/src/components/Modal/RssslModal.js:68
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Settings/firewall/UserAgentModal.js:151
+#: settings/src/Settings/GeoBlockList/TrustIpAddressModal.js:140
+#: settings/src/Settings/LearningMode/ManualCspAdditionModal.js:190
+#: settings/src/Settings/LimitLoginAttempts/AddIpAddressModal.js:110
+#: settings/src/Settings/LimitLoginAttempts/AddUserModal.js:90
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: class-admin.php:720 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/build/485.09b2206e7cb2f9ad160e.js:1
+#: settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/build/995.7a0675fe0519b06656b3.js:1
+#: settings/src/Dashboard/TaskElement.js:65 settings/src/Settings/Help.js:24
+msgid "More info"
+msgstr "Mer info"
+
+#: mailer/class-mail.php:33 mailer/class-mail.php:37
+#: settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Vulnerabilities/Vulnerabilities.js:192
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: class-admin.php:2229
+msgid "No 301 redirect is set. Enable the WordPress 301 redirect in the settings to get a 301 permanent redirect."
+msgstr "Ingen omdirigering av typen 301 har skapats. Aktivera omdirigering i WordPress av typen 301 i inställningarna för att skapa en permanent omdirigering av typen 301."
+
+#: class-site-health.php:373
+msgid "Enable 301 .htaccess redirect"
+msgstr "Aktivera omdirigering av typen 301 i .htaccess"
+
+#: class-admin.php:2258
+msgid "Enable a .htaccess redirect or PHP redirect in the settings to create a 301 redirect."
+msgstr "Aktivera en .htaccess-omdirigering eller PHP-omdirigering i inställningarna för att skapa en 301-omdirigering."
+
+#: class-admin.php:2263
+msgid ".htaccess redirect."
+msgstr "Omdirigering i .htaccess"
+
+#: class-admin.php:2225
+msgid "301 redirect to https set."
+msgstr "301-omdirigering till https aktiverat."
+
+#: class-multisite.php:112
+msgid "View settings page"
+msgstr "Visa inställningssidan"
+
+#: settings/config/fields/general.php:210 settings/config/menu.php:51
+msgid "Premium Support"
+msgstr "Premiumsupport"
+
+#: lets-encrypt/functions.php:376 lets-encrypt/functions.php:377
+#: settings/build/995.7a0675fe0519b06656b3.js:1
+#: settings/src/Settings/SettingsGroup.js:100
+msgid "Instructions"
+msgstr "Instruktioner"
+
+#: class-admin.php:2118
+msgid "SSL is enabled on your site."
+msgstr "SSL är aktiverat på din webbplats."
+
+#: class-admin.php:2052
+msgid "Your wp-config.php has to be edited, but is not writable."
+msgstr "Filen wp-config.php behöver redigeras men är inte skrivbar."
+
+#: security/hardening.php:9
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "%s är en singulär klass som inte tillåter att en andra instans skapas."
+
+#: class-admin.php:2074
+msgid "A definition of a site url or home url was detected in your wp-config.php, but the file is not writable."
+msgstr "En definition av en webbplats-URL eller hem-URL upptäcktes i din wp-config.php, men filen är inte skrivbar."
+
+#: class-admin.php:2053 class-admin.php:2074
+msgid "Set your wp-config.php to writable and reload this page."
+msgstr "Ställ in din wp-config.php på skrivbar och ladda om denna sida."
+
+#. Plugin URI of the plugin
+#: rlrsssl-really-simple-ssl.php
+msgid "https://really-simple-ssl.com"
+msgstr "https://really-simple-ssl.com"
+
+#: settings/config/fields/general.php:220
+msgid "Stop editing the .htaccess file"
+msgstr "Sluta redigera .htaccess-filen"
+
+#: settings/config/menu.php:208
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: class-admin.php:197 class-admin.php:199 settings/config/menu.php:17
+#: settings/config/menu.php:394 settings/build/366.0e8cd32aeda45546f72d.js:1
+#: settings/src/Dashboard/Vulnerabilities/Vulnerabilities.js:237
+#: settings/src/Dashboard/Vulnerabilities/VulnerabilitiesFooter.js:24
+msgid "Settings"
+msgstr "﻿Inställningar"
+
+#: settings/config/fields/encryption.php:46
+msgid "Mixed content fixer"
+msgstr "Korrigeringsrutin för blandat innehåll"
+
+#: class-multisite.php:98
+msgid "Activate networkwide to fix this."
+msgstr "Aktivera för hela nätverket för att korrigera detta."
+
+#: class-multisite.php:97
+msgid "Because the $_SERVER[\"HTTPS\"] variable is not set, your website may experience redirect loops."
+msgstr "Din webbplats kan ha problem med omdirigerings-loopar p.g.a. att variabeln $_SERVER[\"HTTPS\"] inte ges något värde."
+
+#: class-admin.php:2090 settings/build/635.1aee1a8a0b3a1aed2ce2.js:1
+#: settings/src/Onboarding/Items/ListItem.js:46
+msgid "Check again"
+msgstr "Kontrollera igen"
+
+#: class-multisite.php:96
+msgid "You run a Multisite installation with subfolders, which prevents this plugin from fixing your missing server variable in the wp-config.php."
+msgstr "Du har en nätverksinstallation med underkataloger, vilket gör att detta tillägg inte kan korrigera den saknade servervariabeln i wp-config.php."

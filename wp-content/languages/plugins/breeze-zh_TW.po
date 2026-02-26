@@ -1,0 +1,1533 @@
+# Translation of Plugins - Breeze Cache - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Breeze Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-09 19:42:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Breeze Cache - Stable (latest release)\n"
+
+#: inc/class-breeze-file-permissions.php:326
+msgid ", the website performance might drop. You can enable the cache system in the Breeze settings "
+msgstr "，網站效能可能因此而降低。網站管理員可以在 Breeze 外掛設定中啟用快取系統: "
+
+#: inc/class-breeze-file-permissions.php:326
+msgid "The Breeze Cache System is disabled in the settings"
+msgstr "Breeze 快取系統已在外掛設定中停用"
+
+#: inc/class-breeze-api.php:113
+msgid "Cache Cleared"
+msgstr "快取已清除。"
+
+#: inc/class-breeze-api.php:84
+msgid "Authentication failed."
+msgstr "驗證失敗。"
+
+#: inc/class-breeze-api.php:70
+msgid "Invalid or missing authentication token."
+msgstr "無效或找不到驗證權杖。"
+
+#: inc/class-breeze-api.php:55
+msgid "Too many requests. Please try again later."
+msgstr "太多要求。請稍後再試。"
+
+#: inc/breeze-admin.php:427
+msgid "Mismatch"
+msgstr "不相符"
+
+#: inc/breeze-admin.php:426
+msgid "Strong"
+msgstr "強"
+
+#: inc/breeze-admin.php:425
+msgid "Medium"
+msgstr "適中"
+
+#: inc/breeze-admin.php:424
+msgid "Weak"
+msgstr "弱"
+
+#: inc/breeze-admin.php:423
+msgid "Very weak"
+msgstr "非常弱"
+
+#: views/option-tabs/advanced-tab.php:325
+msgid "Copy Token"
+msgstr "複製權杖"
+
+#: views/option-tabs/advanced-tab.php:306
+msgid "Authentication is required for the Breeze API Endpoint. Provide an authentication key to secure the purge endpoint from unauthorized access. Use the refresh icon to autogenerate a random key."
+msgstr "Breeze API 端點需要驗證。請提供驗證金鑰以保護清除端點免受未經授權存取的侵擾。使用重新整理圖示便能自動產生隨機金鑰。"
+
+#: views/option-tabs/advanced-tab.php:300
+msgid "Authentication Token"
+msgstr "驗證權杖"
+
+#: inc/breeze-configuration.php:1510
+msgid "Varnish Cache could not be purged."
+msgstr "Varnish 快取無法清除。"
+
+#: inc/cache/purge-varnish.php:151
+msgid "An error occurred while purging the Cloudflare cache. Please try again or contact support."
+msgstr "清除 Cloudflare 快取時發生錯誤。請再試一次或聯絡技術支援團隊。"
+
+#: inc/cache/purge-varnish.php:148
+msgid "Cloudflare microservices base url not found. Please contact support."
+msgstr "找不到 Cloudflare 微服務的起點網址。請聯絡技術支援團隊。"
+
+#: inc/cache/purge-varnish.php:145
+msgid "Invalid token. Please contact support for more details."
+msgstr "無效的權杖。請聯絡技術支援團隊以進一步了解相關資訊。"
+
+#: inc/cache/purge-varnish.php:142
+msgid "Unable to connect to Cloudflare. Please try again or contact support."
+msgstr "無法連線至 Cloudflare。請再試一次或聯絡技術支援團隊。"
+
+#: inc/cache/purge-varnish.php:139
+msgid "Too many purge requests. Please try again in a few minutes."
+msgstr "太多清除要求。請稍後再試。"
+
+#: inc/class-breeze-file-permissions.php:338
+msgid "here"
+msgstr "點擊這裡"
+
+#: inc/class-breeze-file-permissions.php:69
+#: inc/class-breeze-file-permissions.php:287
+msgid "Breeze plugin functionality may be affected due to missing config file(s) or folder(s), or issues with file permissions preventing proper operation."
+msgstr "由於找不到組態檔/資料夾或檔案權限問題造成的運作不正常，Breeze 外掛的功能可能會受到影響。"
+
+#: inc/cache/purge-varnish.php:114
+msgid "Problem: Varnish Cache not purged."
+msgstr "問題: Varnish 快取無法清除。"
+
+#: inc/breeze-configuration.php:1507 inc/cache/purge-varnish.php:114
+msgid "Varnish Cache has been purged."
+msgstr "Varnish 快取已清除。"
+
+#: views/option-tabs/heartbeat-tab.php:75
+msgid "Every 120 seconds"
+msgstr "每 120 秒"
+
+#: views/option-tabs/heartbeat-tab.php:74
+msgid "Every 90 seconds"
+msgstr "每 90 秒"
+
+#: views/option-tabs/heartbeat-tab.php:73
+msgid "Every 60 seconds"
+msgstr "每 60 秒"
+
+#: views/option-tabs/heartbeat-tab.php:72
+msgid "Every 30 seconds"
+msgstr "每 30 秒"
+
+#: views/option-tabs/varnish-tab.php:76
+msgid " article and learn how to enable it."
+msgstr "文章並進一步了解啟用的方式。"
+
+#: inc/cache/class-purge-post-cache.php:40
+msgid "Cache has been purged."
+msgstr "快取已清除。"
+
+#: views/option-tabs/tools-tab.php:121
+msgid "Rollback Version"
+msgstr "指定安裝版本"
+
+#: inc/rollback/class-breeze-rollback.php:88
+msgid "Breeze cache cleared successfully."
+msgstr "Breeze 快取已成功清除。"
+
+#: inc/rollback/class-breeze-rollback.php:74
+msgid "Your Request is missing a required query param"
+msgstr "目前的要求缺少必要的查詢參數。"
+
+#: inc/rollback/class-breeze-rollback.php:59
+msgid "You do not have sufficient permissions to perform rollbacks for this site."
+msgstr "目前的登入身分沒有為這個網站安裝指定版本的權限。"
+
+#: inc/rollback/class-breeze-rollback.php:48
+#: inc/rollback/class-breeze-rollback.php:49
+msgid "Breeze Rollback"
+msgstr "安裝 Breeze 指定版本"
+
+#: views/option-tabs/basic-tab.php:356
+msgid "Video lazy load"
+msgstr "視訊延遲載入"
+
+#: views/option-tabs/basic-tab.php:340
+msgid "Apply lazy load to all iframe tags."
+msgstr "將延遲載入套用至全部 iframe 標籤。"
+
+#. translators: %s Export file location
+#: views/option-tabs/basic-tab.php:129
+msgid "To use mobile caching with the Breeze plugin on Cloudways, you must enable the Device Detection feature through the Cloudways Platform. Please follow this <a href=\"%s\" target=\"_blank\">guide</a> to ensure the mobile cache functions properly."
+msgstr "如需在 Cloudways 主機上使用 Breeze 外掛的 [行動版網站快取] 功能，必須先啟用 Cloudways 平台上的 [Enable Device] (裝置偵測) 功能。請參考這篇<a href=\"%s\" target=\"_blank\">指南</a>確保行動版網站快取正確執行。"
+
+#: views/option-tabs/basic-tab.php:115
+msgid "Modern themes are built to be responsive and they usually function optimally without the need for an additional cache. Only activate mobile caching if you happen to be using a dedicated mobile theme or plugin."
+msgstr "新式佈景主題具備回應式設計，通常不需要額外進行快取便能以最佳方式執行。僅有這個網站剛好使用專屬行動版佈景主題或外掛時，才需要啟用 [行動版網站快取]。"
+
+#: views/option-tabs/advanced-tab.php:321
+msgid "Refresh Token"
+msgstr "重新整理權杖"
+
+#: views/option-tabs/advanced-tab.php:279
+msgid "Enable Breeze API endpoint to purge cache via Rest API OnDemand. The functionality can be used to integrate with your  workflows. i.e. when updating or adding new posts or products through the WordPress Rest API."
+msgstr "啟用 Breeze API 端點便能透過 REST API 清除快取。這項功能可以用於與這個網站的工作流程整合，例如透過 WordPress REST API 更新或新增文章/商品。"
+
+#: views/option-tabs/advanced-tab.php:254
+msgid "API Integration"
+msgstr "API 整合"
+
+#. translators: %s Cloudways community
+#: views/option-tabs/faq-tab.php:116
+msgid "Breeze has been tested with popular plugins available on WordPress.org. Please feel free to report any incompatibilities on the WordPress Support Forums or on <a href=\"%s\" target=\"_blank\">Cloudways Community Forum.</a>."
+msgstr "Breeze 已與 WordPress.org 上知名的外掛進行過相容性測試，如有任何相容性問題，請在 WordPress 技術支援論壇回報，亦可回報至 <a href=\"%s\" target=\"_blank\">Cloudways 社群論壇</a>。"
+
+#. translators: %s Export file location
+#: views/option-tabs/faq-tab.php:46
+msgid ""
+"Breeze is fully compatible with Aelia Currency Switcher Plugin. Also exclude the cookie of Aelia currency switcher plugin \"aelia_cs_selected_currency\" from Varnish settings.\n"
+"<br/>\n"
+"<br/>\n"
+"If Varnish is active, you will need to exclude URLs and file type(s) in the Varnish configuration. If you are hosting WordPress websites on Cloudways servers, follow <a href=\"%s\" target=\"_blank\">this KB to exclude URLs from the Varnish cache</a>."
+msgstr ""
+"Breeze 與 Aelia Currency Switcher 外掛完全相容，也請使用者從 Varnish 設定中排除 Aelia Currency Switcher 外掛的 aelia_cs_selected_currency 快取。\n"
+"<br/>\n"
+"<br/>\n"
+"Varnish 啟用後，便需要在 Varnish 設定中將網址及檔案類型加以排除。如果這個 WordPress 網站代管於 Cloudways 提供的伺服器，請參閱 <a href=\"%s\" target=\"_blank\">這篇知識庫文章以了解如何從 Varnish 快取機制中排除特定網址內容</a>。"
+
+#: views/option-tabs/faq-tab.php:38
+msgid "Does Breeze support Aelia Currency Switcher Plugin For WooCommerce?"
+msgstr "Breeze 是否支援 Aelia Currency Switcher for WooCommerce？"
+
+#: views/option-tabs/advanced-tab.php:157
+msgid "Host Files Locally"
+msgstr "伺服器本機代管"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:158
+msgid "Cloudflare cache has been purged."
+msgstr "Cloudflare 快取已清除。"
+
+#: inc/cache/purge-varnish.php:136
+msgid "Cloudflare Cache has been purged. "
+msgstr "Cloudflare 快取已清除。"
+
+#: inc/breeze-admin.php:564
+msgid "Purge Cloudflare Cache"
+msgstr "清除 Cloudflare 快取"
+
+#: views/option-tabs/tools-tab.php:106
+msgid "Reset Now"
+msgstr "立即重設"
+
+#: views/option-tabs/tools-tab.php:102
+msgid "Reset all settings"
+msgstr "重設全部設定"
+
+#: views/option-tabs/file-tab.php:532 views/option-tabs/file-tab.php:627
+msgid "This option can't be combined with \"Combine JS\" ."
+msgstr "這項設定不能與 [合併 JS] 同時使用。"
+
+#: views/option-tabs/file-tab.php:411
+msgid "This option can't be combined with \"Delay JS Inline Script\" or \"Delay All JavaScript\" ."
+msgstr "這項設定不能與 [延遲內嵌 JS 指令碼] 或 [延遲載入全部 JavaScript] 同時使用。"
+
+#: views/option-tabs/dbsummary-tab.php:27
+msgid "DATABASE SUMMARY"
+msgstr "資料庫摘要"
+
+#: views/option-tabs/database-tab.php:327
+msgid "AUTOLOAD SUMMARY"
+msgstr "自動載入摘要"
+
+#: views/option-tabs/database-tab.php:219
+msgid "Remove all the comments that are considered as unapproved from DB"
+msgstr "從資料庫移除列為待審閱的全部留言。"
+
+#: views/option-tabs/database-tab.php:218
+msgid "Unapproved/Pending Comments"
+msgstr "待審閱的留言"
+
+#: views/option-tabs/database-tab.php:189
+msgid "Try to optimize database tables."
+msgstr "嘗試最佳化網站資料庫中的全部資料表。"
+
+#: views/option-tabs/database-tab.php:188
+msgid "Optimize database"
+msgstr "最佳化資料庫"
+
+#: views/option-tabs/database-tab.php:184
+msgid "Remove all the comments metadata which are orphaned from DB"
+msgstr "從資料庫移除全部不再與任何項目關聯的留言中繼資料。"
+
+#: views/option-tabs/database-tab.php:183
+msgid "Orphaned Comments metadata"
+msgstr "不再與任何項目關聯的留言中繼資料"
+
+#: views/option-tabs/database-tab.php:179
+msgid "Remove orphan term(taxonomies) metadata."
+msgstr "從資料庫移除全部不再與任何項目關聯的分類法詞彙。"
+
+#: views/option-tabs/database-tab.php:178
+msgid "Orphan Term metadata"
+msgstr "不再與任何項目關聯的分類法詞彙中繼資料"
+
+#: views/option-tabs/database-tab.php:173
+msgid "Remove orphan user metadata."
+msgstr "移除全部不再與任何項目關聯的使用者中繼資料。"
+
+#: views/option-tabs/database-tab.php:172
+msgid "Orphan User metadata"
+msgstr "不再與任何項目關聯的使用者中繼資料"
+
+#: views/option-tabs/database-tab.php:168
+msgid "Remove all orphaned posts metadata from DB"
+msgstr "從資料庫移除全部不再與任何項目關聯的文章中繼資料。"
+
+#: views/option-tabs/database-tab.php:167
+msgid "Orphaned Posts metadata"
+msgstr "不再與任何項目關聯的文章中繼資料"
+
+#: views/option-tabs/database-tab.php:163
+msgid "Remove oEmbed cache in posts metadata from DB"
+msgstr "從資料庫的文章中繼資料中移除 oEmbed 快取。"
+
+#: views/option-tabs/database-tab.php:162
+msgid "oEmbed in Posts metadata"
+msgstr "文章中繼資料中的 oEmbed"
+
+#: views/option-tabs/database-tab.php:158
+msgid "Delete expired transients from the WordPress database."
+msgstr "從 WordPress 資料庫刪除到期的暫存性選項。"
+
+#: views/option-tabs/database-tab.php:157
+msgid "Expired Transients"
+msgstr "到期的暫時性選項"
+
+#: views/option-tabs/database-tab.php:153
+msgid "Remove duplicated term(taxonomies) metadata."
+msgstr "移除重複的分類法詞彙中繼資料。"
+
+#: views/option-tabs/database-tab.php:152
+msgid "Duplicated Term metadata"
+msgstr "重複的分類法詞彙中繼資料"
+
+#: views/option-tabs/database-tab.php:148
+msgid "Remove duplicated user metadata."
+msgstr "移除重複的使用者中繼資料。"
+
+#: views/option-tabs/database-tab.php:147
+msgid "Duplicated User metadata"
+msgstr "重複的使用者中繼資料"
+
+#: views/option-tabs/database-tab.php:143
+msgid "Remove all the comments metadata which are duplicated from DB"
+msgstr "從資料庫移除全部重複的留言中繼資料。"
+
+#: views/option-tabs/database-tab.php:142
+msgid "Duplicated Comments metadata"
+msgstr "重複的留言中繼資料"
+
+#: views/option-tabs/database-tab.php:138
+msgid "Remove all duplicated posts metadata from DB"
+msgstr "從資料庫移除全部重複的文章中繼資料。"
+
+#: views/option-tabs/database-tab.php:137
+msgid "Duplicated Posts metadata"
+msgstr "重複的文章中繼資料"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:458
+msgid "Something went wrong"
+msgstr "執行時發生錯誤。"
+
+#: inc/helpers/class-breeze-db-summary-table.php:115
+msgid "Autoload Count: "
+msgstr "自動載入計數: "
+
+#: inc/helpers/class-breeze-db-summary-table.php:114
+msgid "Autoload Total Size: "
+msgstr "自動載入大小總計: "
+
+#: inc/breeze-configuration.php:1576 views/option-tabs/cdn-tab.php:87
+msgid "The CDN URL you've used is insecure."
+msgstr "目前使用的 CDN 網址不安全。"
+
+#: inc/breeze-admin.php:595
+msgid "Purge Object Cache"
+msgstr "清除物件快取"
+
+#: views/breeze-setting-views.php:178
+msgid "Inherit Network Settings"
+msgstr "繼承多站網路設定"
+
+#: views/breeze-setting-views.php:169 views/breeze-setting-views.php:183
+msgid "Use Custom Settings"
+msgstr "使用自訂設定"
+
+#: views/option-tabs/file-tab.php:622
+msgid "You can add specific keywords to identify the Inline JavaScript or JavaScript files to not be delayed. Each script identifying keyword must be added on a new line."
+msgstr "網站管理員可以新增指定關鍵字以辨別不要延遲載入的內嵌 JavaScript 或 JavaScript 檔案。請一行輸入一個能辨別指令碼的關鍵字。"
+
+#: views/option-tabs/file-tab.php:616
+msgid "List of scripts not to delay"
+msgstr "不要延遲載入的指令碼清單"
+
+#: views/option-tabs/file-tab.php:585
+msgid "Improve the page load by delaying JavaScript execution."
+msgstr "透過延遲載入 JavaScript 執行改善頁面載入速度。"
+
+#: views/option-tabs/file-tab.php:552
+msgid "Delay All JavaScript"
+msgstr "延遲載入全部 JavaScript"
+
+#: views/option-tabs/file-tab.php:541 views/option-tabs/file-tab.php:637
+msgid "Use only one option \"Delay JS Inline Scripts\" OR \"Delay All JavaScript\" at same time."
+msgstr "[延遲內嵌 JS 指令碼] 或 [延遲載入全部 JavaScript] 只能擇一使用。"
+
+#: views/option-tabs/preload-tab.php:171
+msgid "Third-party content load will be optimized if we prefetch the domains."
+msgstr "預先擷取網域後，便會最佳化第三方內容的載入。"
+
+#: views/option-tabs/preload-tab.php:148
+msgid "Specify domain URLs, one per line"
+msgstr "指定網域網址。請以每行一個的方式輸入網址。"
+
+#: views/option-tabs/preload-tab.php:143
+msgid "Prefetch of DNS Request"
+msgstr "DNS 要求預先擷取"
+
+#: views/option-tabs/heartbeat-tab.php:189
+msgid "Change Heartbeat behaviour or disable it completely in the admin area"
+msgstr "變更 Heartbeat 行為或在管理後台中將它完全停用。"
+
+#: views/option-tabs/heartbeat-tab.php:167
+msgid "Heartbeat Back-end"
+msgstr "Heartbeat 後端"
+
+#: views/option-tabs/heartbeat-tab.php:147
+msgid "Change Heartbeat behaviour or disable it completely in post edit screen"
+msgstr "變更 Heartbeat 行為或在內容編輯畫面中將它完全停用。"
+
+#: views/option-tabs/heartbeat-tab.php:125
+msgid "Heartbeat Post Editor"
+msgstr "Heartbeat 內容編輯器"
+
+#: views/option-tabs/heartbeat-tab.php:113
+#: views/option-tabs/heartbeat-tab.php:155
+#: views/option-tabs/heartbeat-tab.php:197
+msgid "Disabling Heartbeat may break some functionalities from plugins and themes which are dependent on Heartbeat API."
+msgstr "停用 Heartbeat 可能會導致相依於 Heartbeat API 的外掛或佈景主題的某些功能失效。"
+
+#: views/option-tabs/heartbeat-tab.php:105
+msgid "Change front-end Heartbeat behaviour or disable it completely"
+msgstr "變更 Heartbeat 前端行為或將它完全停用。"
+
+#: views/option-tabs/heartbeat-tab.php:84
+msgid "Heartbeat Front-end"
+msgstr "Heartbeat 前端"
+
+#: views/option-tabs/heartbeat-tab.php:76
+msgid "Disable"
+msgstr "停用"
+
+#: views/option-tabs/heartbeat-tab.php:71
+msgid "Default"
+msgstr "預設"
+
+#: views/option-tabs/heartbeat-tab.php:61
+msgid "Can help save some of the server resources when it's controlled."
+msgstr "當 Heartbeat 受到控管時，可以節省一些伺服器資源。"
+
+#: views/option-tabs/heartbeat-tab.php:41
+msgid "Control Heartbeat"
+msgstr "控管 Heartbeat"
+
+#: views/option-tabs/heartbeat-tab.php:36
+msgid "Heartbeat Control"
+msgstr "Heartbeat 控管"
+
+#: views/option-tabs/basic-tab.php:363
+msgid "Apply lazy load to all videos tags."
+msgstr "將延遲載入套用至全部 video 標籤。"
+
+#: views/option-tabs/basic-tab.php:333
+msgid "iFrame lazy load"
+msgstr "iFrame 延遲載入"
+
+#: views/breeze-setting-views.php:35 views/option-tabs/heartbeat-tab.php:32
+msgid "HEARTBEAT API"
+msgstr "HEARTBEAT API"
+
+#: inc/class-breeze-file-permissions.php:140
+#: inc/class-breeze-file-permissions.php:172
+#: inc/class-breeze-file-permissions.php:220
+#: inc/class-breeze-file-permissions.php:249
+msgid " file does not exist. Save Breeze settings to create the file."
+msgstr " 檔案不存在。儲存 Breeze 設定以建立檔案。"
+
+#: views/option-tabs/varnish-tab.php:98
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+#: views/option-tabs/tools-tab.php:92
+msgid "Upload File and Import Settings"
+msgstr "上傳檔案並匯入設定"
+
+#. translators: Upload size
+#: views/option-tabs/tools-tab.php:85
+msgid "Choose a JSON file from your computer (maximum size: %s)"
+msgstr "從個人裝置選取 JSON 檔案 (檔案大小上限: %s)"
+
+#: views/option-tabs/tools-tab.php:74
+msgid "No File Chosen"
+msgstr "尚未選取檔案"
+
+#: views/option-tabs/tools-tab.php:52
+msgid "Download a backup file of your settings"
+msgstr "下載這個網站設定的備份檔案。"
+
+#: views/option-tabs/tools-tab.php:48
+msgid "Download Settings"
+msgstr "下載設定"
+
+#: views/option-tabs/preload-tab.php:88
+msgid "Example:"
+msgstr "範例:"
+
+#: views/option-tabs/preload-tab.php:82
+msgid "Specify the local font URL or the URL for the CSS file which loads only fonts. Load WOFF formats fonts for the best performance. Do not preload the whole website CSS file as it will slow down your website. Do not add Google Fonts links as those already use preload."
+msgstr "請指定網站主機字型網址或僅載入字型的 CSS 檔案網址。載入 WOFF 格式字型會獲得最佳效能。請不要預先載入整個網站的 CSS 檔案，這會減慢網站速度；也不要輸入 Google Fonts 網頁字型連結，因為 Google Fonts 網頁字型連結已預先載入。"
+
+#: views/option-tabs/preload-tab.php:37
+msgid "Preload Webfont"
+msgstr "預先載入網頁字型"
+
+#: views/option-tabs/file-tab.php:365
+msgid "Minify Inline JS removes whitespace and create seprate cache file for inline JS."
+msgstr "最小化/壓縮內嵌 JS 程式碼會移除空白字元，並為內嵌 JS 建立個別快取檔案。"
+
+#: views/option-tabs/file-tab.php:403
+msgid "Combine JS merges all your minified files into a single file, reducing HTTP requests."
+msgstr "合併 JS 會將全部已最小化/壓縮的檔案合併為單一檔案，進而減少 HTTP 要求。"
+
+#: views/option-tabs/file-tab.php:389
+msgid "Combine JS"
+msgstr "合併 JS"
+
+#: views/option-tabs/file-tab.php:312
+msgid "Minify JavaScript removes whitespace and comments to reduce the file size."
+msgstr "最小化/壓縮 JavaScript 程式碼會移除空白字元及註解以減少檔案大小。"
+
+#: views/option-tabs/file-tab.php:289
+msgid "JS Minify"
+msgstr "JS 最小化/壓縮"
+
+#: views/option-tabs/file-tab.php:284
+msgid "JS Settings"
+msgstr "JS 設定"
+
+#: views/option-tabs/file-tab.php:224
+msgid "Combine CSS merges all your minified files into a single file, reducing HTTP requests."
+msgstr "合併 CSS 會將全部已最小化/壓縮的檔案合併為單一檔案，進而減少 HTTP 要求。"
+
+#: views/option-tabs/file-tab.php:209
+msgid "Combine CSS"
+msgstr "合併 CSS"
+
+#: views/option-tabs/file-tab.php:186
+msgid "Minify Inline CSS removes whitespace and create seprate cache file for inline CSS."
+msgstr "最小化/壓縮內嵌 CSS 程式碼會移除空白字元，並為內嵌 CSS 建立個別快取檔案。"
+
+#: views/option-tabs/file-tab.php:115
+msgid "Minify CSS removes whitespace and comments to reduce the file size."
+msgstr "最小化/壓縮 CSS 程式碼會移除空白字元及註解以減少檔案大小。"
+
+#: views/option-tabs/file-tab.php:91
+msgid "CSS Minify"
+msgstr "CSS 最小化/壓縮"
+
+#: views/option-tabs/file-tab.php:86
+msgid "CSS Settings"
+msgstr "CSS 設定"
+
+#: views/option-tabs/file-tab.php:75 views/option-tabs/file-tab.php:149
+#: views/option-tabs/file-tab.php:322
+msgid "Minification is known to cause issues on the frontend."
+msgstr "眾所皆知，最小化/壓縮會在前端產生一些問題。"
+
+#: views/option-tabs/file-tab.php:73 views/option-tabs/file-tab.php:147
+#: views/option-tabs/file-tab.php:320
+msgid "We recommend testing minification on a staging website before deploying it on a live website. "
+msgstr "建議先在預備環境網站中測試最小化/壓縮功能，確認沒有發生問題才部署到實際網站。"
+
+#: views/option-tabs/file-tab.php:64
+msgid "Minifying HTML removes whitespace and comments to reduce the size."
+msgstr "最小化/壓縮 HTML 程式碼會移除空白字元及註解以減少檔案大小。"
+
+#: views/option-tabs/file-tab.php:44
+msgid "HTML Minify"
+msgstr "HTML 最小化/壓縮"
+
+#: views/option-tabs/file-tab.php:39
+msgid "HTML Settings"
+msgstr "HTML 設定"
+
+#: views/option-tabs/faq-tab.php:155
+msgid "You can exclude URL(s) by mentioning in exclude fields available in the Breeze settings. Excluding a URL(s) will automatically prevent the page to be cached on server side caching (Varnish) by adding a cache-control:no-cache Response Header."
+msgstr "使用者可以透過在 Breeze 設定提供的排除功能加入要排除的網址。排除網址後，會加入 cache-control:no-cache 回應標頭，以自動防止在伺服器端快取 (Varnish) 上快取頁面。"
+
+#: views/option-tabs/faq-tab.php:20
+msgid "FAQS"
+msgstr "常見問題集"
+
+#: views/option-tabs/database-tab.php:273
+msgid "Clean Now"
+msgstr "立即清理"
+
+#: views/option-tabs/database-tab.php:262
+msgid "Cleall the trashed posts and pages."
+msgstr "清理回收桶中的全部文章及頁面。"
+
+#: views/option-tabs/database-tab.php:259
+msgid "Clean All"
+msgstr "清理全部"
+
+#: views/option-tabs/database-tab.php:214
+msgid "Remove all trackbacks/pingbakcs data from DB"
+msgstr "從資料庫移除引用通知/自動引用通知的資料。"
+
+#: views/option-tabs/database-tab.php:213
+msgid "Trackbacks/Pingbacks"
+msgstr "引用通知/自動引用通知"
+
+#: views/option-tabs/database-tab.php:132
+msgid "All Transients"
+msgstr "全部暫時性選項"
+
+#: views/option-tabs/database-tab.php:199
+msgid "Remove all the comments that are considered spam from DB"
+msgstr "從資料庫移除列為垃圾留言的全部留言。"
+
+#: views/option-tabs/database-tab.php:198
+msgid "Spam Comments"
+msgstr "垃圾留言"
+
+#: views/option-tabs/database-tab.php:204
+msgid "Remove all trashed posts from DB"
+msgstr "從資料庫移除回收桶中的全部文章。"
+
+#: views/option-tabs/database-tab.php:203
+msgid "Trashed Posts"
+msgstr "回收桶中的文章"
+
+#: views/option-tabs/database-tab.php:209
+msgid "Remove all trashed comments from DB"
+msgstr "從資料庫移除回收桶中的全部留言。"
+
+#: views/option-tabs/database-tab.php:208
+msgid "Trashed Comments"
+msgstr "回收桶中的留言"
+
+#: views/option-tabs/database-tab.php:128
+msgid "Remove all post/pages auto drafts from DB"
+msgstr "從資料庫移除全部文章/頁面的自動草稿。"
+
+#: views/option-tabs/database-tab.php:127
+msgid "Auto Drafts"
+msgstr "自動儲存的草稿"
+
+#: views/option-tabs/database-tab.php:194
+msgid "Remove all post/pages revisions from DB"
+msgstr "從資料庫移除全部文章/頁面的內容修訂。"
+
+#: views/option-tabs/basic-tab.php:427
+msgid "Cache Logged-in Users"
+msgstr "為已登入使用者進行快取"
+
+#: views/option-tabs/basic-tab.php:386
+msgid "This is not supported by all browsers."
+msgstr "並非全部瀏覽器都支援這個功能。"
+
+#: inc/breeze-configuration.php:1575 views/option-tabs/basic-tab.php:122
+#: views/option-tabs/basic-tab.php:338 views/option-tabs/basic-tab.php:361
+#: views/option-tabs/basic-tab.php:384 views/option-tabs/basic-tab.php:469
+#: views/option-tabs/cdn-tab.php:86 views/option-tabs/database-tab.php:267
+#: views/option-tabs/file-tab.php:71 views/option-tabs/file-tab.php:145
+#: views/option-tabs/file-tab.php:318 views/option-tabs/file-tab.php:409
+#: views/option-tabs/file-tab.php:539 views/option-tabs/file-tab.php:635
+#: views/option-tabs/file-tab.php:698 views/option-tabs/file-tab.php:758
+#: views/option-tabs/heartbeat-tab.php:111
+#: views/option-tabs/heartbeat-tab.php:153
+#: views/option-tabs/heartbeat-tab.php:195
+#: views/option-tabs/preload-tab.php:129
+msgid "Important: "
+msgstr "重要提示: "
+
+#: views/option-tabs/basic-tab.php:157
+msgid "1440"
+msgstr "1440"
+
+#: views/option-tabs/advanced-tab.php:145
+msgid "Disable the loading of emoji libraries and CSS"
+msgstr "停用載入 Emoji 表情符號函式庫及對應的 CSS。"
+
+#: views/option-tabs/advanced-tab.php:105
+msgid "Pages that contain the query strings added here, will be cached. Each entry must be added in a new line. For further details please refer to this "
+msgstr "以每行一個的方式加入包含指定查詢字串，且需要進行快取的頁面網址。如需進一步了解，請參閱這篇"
+
+#: views/option-tabs/advanced-tab.php:44
+msgid "Specify URLs of Pages or posts that should never be cached (one per line)"
+msgstr "指定永不進行快取的頁面或文章網址。請以每行一個的方式輸入網址。"
+
+#: views/option-tabs/advanced-tab.php:39
+msgid "Never Cache URL(s)"
+msgstr "永不進行快取的網址"
+
+#: views/option-tabs/advanced-tab.php:27 views/option-tabs/basic-tab.php:39
+#: views/option-tabs/cdn-tab.php:28 views/option-tabs/file-tab.php:30
+#: views/option-tabs/heartbeat-tab.php:27 views/option-tabs/preload-tab.php:25
+#: views/option-tabs/tools-tab.php:33 views/option-tabs/varnish-tab.php:28
+msgid "Settings are inherited"
+msgstr "設定已繼承。"
+
+#: views/breeze-setting-views.php:96
+msgid "Open menu"
+msgstr "開啟選單"
+
+#: views/breeze-setting-views.php:164
+msgid "Network Settings"
+msgstr "多站網路設定"
+
+#: views/breeze-setting-views.php:60 views/option-tabs/tools-tab.php:37
+msgid "TOOLS"
+msgstr "工具"
+
+#: views/breeze-setting-views.php:40 views/option-tabs/database-tab.php:247
+msgid "DATABASE OPTIONS"
+msgstr "資料庫設定"
+
+#: views/breeze-setting-views.php:25 views/option-tabs/preload-tab.php:30
+msgid "PRELOAD"
+msgstr "預先載入"
+
+#: views/breeze-setting-views.php:20 views/option-tabs/file-tab.php:35
+msgid "FILE OPTIMIZATION"
+msgstr "檔案最佳化"
+
+#: views/option-tabs/advanced-tab.php:120
+msgid "Disable Emoji"
+msgstr "停用 Emoji 表情符號"
+
+#: views/option-tabs/advanced-tab.php:87
+msgid "Cache Query Strings"
+msgstr "快取查詢字串"
+
+#: inc/class-breeze-file-permissions.php:77
+#: inc/class-breeze-file-permissions.php:295
+msgid "For reference please click on the KB"
+msgstr "如需參考，請點擊知識庫連結。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:199
+msgid "Parameter --cache=<all|varnish|local> is missing"
+msgstr "遺漏必要參數 --cache=<all|varnish|local>。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:192
+msgid "Breeze local cache has been purged."
+msgstr "Breeze 本機快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:176
+msgid "Breeze local cache has been purged on network level"
+msgstr "在多站網路中，Breeze 本機快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:129
+msgid "Breeze Varnish cache has been purged."
+msgstr "Breeze Varnish 快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:115
+msgid "Breeze Varnish cache has been purged on network level."
+msgstr "在多站網路中，全部 Breeze Varnish 快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:99
+msgid "Breeze all cache has been purged."
+msgstr "全部 Breeze 快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:85
+msgid "Breeze all cache has been purged on network level"
+msgstr "在多站網路中，全部 Breeze 快取已清除。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:59
+msgid "Specify a value for parameter --cache=<all|varnish|local>"
+msgstr "請指定參數 --cache=<all|varnish|local> 的值。"
+
+#: inc/class-breeze-file-permissions.php:153
+#: inc/class-breeze-file-permissions.php:158
+#: inc/class-breeze-file-permissions.php:179
+#: inc/class-breeze-file-permissions.php:188
+#: inc/class-breeze-file-permissions.php:199
+#: inc/class-breeze-file-permissions.php:215
+#: inc/class-breeze-file-permissions.php:227
+#: inc/class-breeze-file-permissions.php:238
+#: inc/class-breeze-file-permissions.php:266
+msgid " folder is not writable."
+msgstr " 資料夾為不可寫入。"
+
+#: inc/class-breeze-file-permissions.php:148
+msgid "  folder is not writable."
+msgstr " 資料夾為不可寫入。"
+
+#: inc/class-breeze-file-permissions.php:142
+#: inc/class-breeze-file-permissions.php:174
+#: inc/class-breeze-file-permissions.php:222
+#: inc/class-breeze-file-permissions.php:251
+msgid " file is not writable."
+msgstr " 檔案為不可寫入。"
+
+#: views/option-tabs/tools-tab.php:63
+msgid "Import Settings:"
+msgstr "匯入設定"
+
+#: views/option-tabs/tools-tab.php:44
+msgid "Export Settings"
+msgstr "匯出設定"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:410
+msgid "The JSON file does not contain valid data"
+msgstr "JSON 檔案並未包含有效資料。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:405
+msgid "Error improting the settings, check the JSON file"
+msgstr "匯入設定時發生錯誤，請檢查 JSON 檔案。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:401
+msgid "Settings have been imported"
+msgstr "設定已成功匯入。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:365
+msgid "The provided JSON is valid...importing data"
+msgstr "提供的 JSON 資料有效，正在匯入資料..."
+
+#. translators: %s The JSON had an issue
+#: inc/wp-cli/class-breeze-wp-cli-core.php:351
+msgid "There was an error running the action scheduler: %s"
+msgstr "執行動作排程器時發生錯誤: %s"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:333
+msgid "The given file path is not valid or the file is not readable"
+msgstr "指派的檔案路徑無效或無法讀取檔案。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:327
+msgid "Error importing remote JSON file"
+msgstr "匯入遠端 JSON 檔案時發生錯誤。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:318
+msgid "You need to specify the full path to breeze JSON file"
+msgstr "必須指定 Breeze JSON 檔案的完整路徑。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:308
+msgid "You need to specify the --file-path=<full_path_to_file> parameter"
+msgstr "必須指定 --file-path=<full_path_to_file> 參數。"
+
+#. translators: %s Export file location
+#: inc/wp-cli/class-breeze-wp-cli-core.php:288
+msgid "File location: %s"
+msgstr "檔案位置: %s"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:282
+msgid "Breeze settings have been exported to file"
+msgstr "Breeze 設定已匯出至檔案。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:276
+msgid "Could not write to file"
+msgstr "無法寫入檔案。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:244
+#: inc/wp-cli/class-breeze-wp-cli-core.php:389
+msgid "Parameter --level=<network|blog_id> does not contain valid data"
+msgstr "參數 --level=<network|blog_id> 並未包含有效資料。"
+
+#: inc/wp-cli/class-breeze-wp-cli-core.php:234
+#: inc/wp-cli/class-breeze-wp-cli-core.php:381
+msgid "The blog ID is not valid, --level=<blog_id>"
+msgstr "無效的部落格 ID，--level=<blog_id>。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:224
+#: inc/wp-cli/class-breeze-settings-import-export.php:241
+#: inc/wp-cli/class-breeze-settings-import-export.php:257
+msgid "was not imported"
+msgstr " 無法匯入。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:83
+msgid "The JSON file is missing"
+msgstr "找不到 JSON 檔案。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:79
+msgid "The JSON file is not valid"
+msgstr "JSON 檔案無效。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:76
+msgid "The JSON content is not valid"
+msgstr "JSON 檔案內容無效。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:74
+msgid ""
+"Settings imported successfully. \n"
+"Page will reload"
+msgstr "設定已成功匯入。頁面會重新載入。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:69
+msgid "Could not read the options from the provided JSON file"
+msgstr "無法從目前的 JSON 檔案讀取選項設定。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:46
+msgid "The provided file is not a JSON file."
+msgstr "目前的檔案不是 JSON 檔案。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:42
+msgid "The provided file is not a JSON"
+msgstr "目前的檔案不是 JSON 檔案。"
+
+#: inc/wp-cli/class-breeze-settings-import-export.php:30
+msgid "Only administrator can import settings"
+msgstr "僅有網站管理員可以匯入設定。"
+
+#: inc/wp-cli/class-breeze-cli-helpers.php:61
+msgid "Remote file could not be reached"
+msgstr "無法連接至遠端檔案。"
+
+#: views/option-tabs/file-tab.php:138
+msgid "Font remain visible during load"
+msgstr "載入字型時，字型仍會繼續顯示"
+
+#: views/option-tabs/basic-tab.php:417
+msgid "Apply \"noopener noreferrer\" to links which have target\"_blank\" attribute and the anchor leads to external websites"
+msgstr "將 noopener noreferrer 屬性值套用至包含 target=\"_blank\" 屬性值的連結及導向外部網站的錨點"
+
+#: views/option-tabs/basic-tab.php:400
+msgid "Cross-origin Safe Links"
+msgstr "跨站安全連結"
+
+#: views/option-tabs/file-tab.php:531 views/option-tabs/file-tab.php:626
+msgid "Please clear Varnish after applying the new settings."
+msgstr "套用新設定後，請清除 Varnish 快取。"
+
+#: views/option-tabs/file-tab.php:528
+msgid "More info here"
+msgstr "進一步了解相關資訊"
+
+#: views/option-tabs/file-tab.php:526
+msgid "You can add specific keywords to identify the inline JavaScript to be delayed. Each script identifying keyword must be added on a new line."
+msgstr "網站管理員可以新增指定關鍵字以辨別要延遲載入的內嵌 JavaScript。請一行輸入一個能辨別指令碼的關鍵字。"
+
+#: views/option-tabs/file-tab.php:473
+msgid "Delay JS Inline Scripts"
+msgstr "延遲內嵌 JS 指令碼"
+
+#: views/option-tabs/preload-tab.php:48 views/option-tabs/preload-tab.php:63
+msgid "Enter Font/CSS URL..."
+msgstr "請輸入字型/CSS 網址..."
+
+#: views/option-tabs/preload-tab.php:131
+msgid "This feature is supported by Chromium based browsers (Chrome, Opera, Microsoft Edge Chromimum, Brave...);"
+msgstr "以 Chromium 引擎開發的瀏覽器，才支援這項功能。例如: Chrome、Opera、Microsoft Edge Chromium 及 Brave 等。"
+
+#: views/option-tabs/preload-tab.php:123
+msgid "When users hover over links, the cache is created in advance. The page will load faster upon link visiting."
+msgstr "使用者游標於連結暫留後，便會提前建立快取，這會讓使用者點擊連結後載入頁面更加快速。"
+
+#: views/option-tabs/preload-tab.php:103
+msgid "Preload Links"
+msgstr "預先載入連結"
+
+#: views/option-tabs/basic-tab.php:379
+msgid "Enable native browser lazy load"
+msgstr "啟用瀏覽器原生延遲載入功能"
+
+#: views/option-tabs/basic-tab.php:291
+msgid "This option requires the library PHP DOMDocument and PHP DOMXPath"
+msgstr "這項功能需要 PHP 的 DOMDocument 及 DOMXPath 函式庫。"
+
+#: views/option-tabs/basic-tab.php:287
+msgid "Images will begin to load before being displayed on screen."
+msgstr "圖片會在顯示於檢視區前開始載入。"
+
+#: views/option-tabs/basic-tab.php:263
+msgid "Lazy Load Images"
+msgstr "圖片延遲載入"
+
+#: views/option-tabs/faq-tab.php:32
+msgid "- You can leave the option enabled and identify which line found in the textarea is causing the issue, then remove only that online that line."
+msgstr "- 啟用設定後，在文字區域中識別是哪一行造成問題，然後移除造成問題的那一行。"
+
+#: views/option-tabs/faq-tab.php:31
+msgid "- You can disable the option altogether."
+msgstr "- 完全停用這項設定。"
+
+#: views/option-tabs/faq-tab.php:30
+msgid "If JavaScript errors show up in front-end you can try the following solutions."
+msgstr "如果網站前端顯示 JavaScript 錯誤，網站管理員可以試著使用以下解決方案。"
+
+#: views/option-tabs/faq-tab.php:27
+msgid "Delay inline JavaScript issue"
+msgstr "延遲內嵌 JavaScript 的相關問題"
+
+#: views/option-tabs/cdn-tab.php:113
+msgid "is not a valid CDN url."
+msgstr "是無效的 CDN 網址。"
+
+#: views/option-tabs/basic-tab.php:471
+msgid "This option might not work properly with some page builders."
+msgstr "某些頁面編輯器會造成這項功能無法正確執行。"
+
+#: views/option-tabs/basic-tab.php:463
+msgid "Enable cache for WP standard user roles: Administrator, Editor, Author, Contributor."
+msgstr "為 WordPress 標準使用者角色啟用快取: 網站管理員、編輯、作者、投稿者、訂閱者。"
+
+#: views/html-notice-plugin-screen-incompatibilities.php:41
+msgid "Deactivate"
+msgstr "停用"
+
+#: views/html-notice-plugin-screen-incompatibilities.php:30
+msgid "We recommend deactivating these plugin(s) and installing a compatible version."
+msgstr "建議停用這些外掛並安裝相容版本。"
+
+#: views/html-notice-plugin-screen-incompatibilities.php:29
+msgid "The following plugin(s) is not compatible with Breeze and could conflict with plugin options."
+msgstr "以下外掛與 Breeze 不相容，並且會造成快取外掛設定衝突。"
+
+#: views/html-notice-plugin-screen-incompatibilities.php:26
+msgid "Breeze Incompatible Plugins"
+msgstr "與 Breeze 不相容的外掛"
+
+#: inc/plugin-incompatibility/class-breeze-incompatibility-plugins.php:184
+msgid "Network Only - deactivate from Network"
+msgstr "僅多站網路: 於多站網路中停用"
+
+#: inc/plugin-incompatibility/class-breeze-incompatibility-plugins.php:182
+msgid "Network Active - deactivate from Network"
+msgstr "多站網路啟用: 於多站網路中停用"
+
+#: inc/plugin-incompatibility/class-breeze-incompatibility-plugins.php:159
+msgid "is not compatible"
+msgstr "與 Breeze 不相容。"
+
+#: inc/plugin-incompatibility/class-breeze-incompatibility-plugins.php:159
+msgid "Plugin"
+msgstr "外掛"
+
+#: inc/breeze-admin.php:540
+msgid "Purge Site Cache"
+msgstr "清除網站快取"
+
+#: views/breeze-setting-views.php:170
+msgid "This option allows subsite to have different settings/configuration from the network level. Use this option only if you wish to have separate settings for this subsite."
+msgstr "啟用這項設定後，便能在多站網路中為個別子網站進行不同的設定/組態。僅有子網站需要不同設定時，才需要啟用這項設定。"
+
+#: views/breeze-setting-views.php:165
+msgid "This option allows the subsite to inherit all the cache settings from network. To modify/update the settings please go to network site."
+msgstr "啟用這項設定後，全部子網站便會套用多站網路層級的全部快取設定。如需修改/變更設定，請前往多站網路主要網站。"
+
+#: views/option-tabs/basic-tab.php:204 views/option-tabs/basic-tab.php:250
+msgid "Enabling/disabling %s for subsites is only available for Apache 2.4 and above. For lower versions, the Network-level settings will apply."
+msgstr "僅有使用 Apache 2.4 或更新版本的多站網路，才能為個別子網站啟用/停用 [%s] 功能。如果使用舊版 Apache，僅能直接套用多站網路層級設定。"
+
+#: views/option-tabs/file-tab.php:459
+msgid "One (or more) URL is incorrect. Please confirm that all URLs have the .js extension"
+msgstr "一或多個網址不正確。請確認全部網址結尾均包含 .js 副檔名。"
+
+#: views/option-tabs/advanced-tab.php:75 views/option-tabs/file-tab.php:273
+#: views/option-tabs/file-tab.php:462 views/option-tabs/preload-tab.php:176
+msgid "One (or more) URL is invalid. Please check and correct the entry."
+msgstr "一或多個網址無效。請檢查並修正無效的項目。"
+
+#: views/option-tabs/file-tab.php:270
+msgid "One (or more) URL is incorrect. Please confirm that all URLs have the .css extension"
+msgstr "一或多個網址不正確。請確認全部網址結尾均包含 .css 副檔名。"
+
+#: views/option-tabs/faq-tab.php:191
+msgid "Does Breeze plugin work with Visual Builder?"
+msgstr "Breeze 是否能與各款視覺化編輯器一起執行？"
+
+#: views/option-tabs/faq-tab.php:179
+msgid "How can I test and verify the results?"
+msgstr "如何測試及驗證 Breeze 的快取效果？"
+
+#: views/option-tabs/file-tab.php:171
+msgid "Include Inline CSS"
+msgstr "包含內嵌 CSS"
+
+#: views/option-tabs/file-tab.php:350
+msgid "Include Inline JS"
+msgstr "包含內嵌 JS"
+
+#: views/option-tabs/file-tab.php:712
+msgid "JS Files With Deferred Loading"
+msgstr "延遲載入 JS 檔案"
+
+#: views/option-tabs/file-tab.php:700 views/option-tabs/file-tab.php:760
+msgid "You should add the URL of original files as URL of minified files are not supported."
+msgstr "這個外掛不支援已進行最小化/壓縮處理的 JS 檔案，請輸入原始 JS 檔案的網址。"
+
+#: views/option-tabs/file-tab.php:692
+msgid "Enter the complete URLs of JS files to be moved to the footer during minification process."
+msgstr "進行最小化/壓縮處理時，輸入在此的 JS 檔案完整網址會移至頁尾。"
+
+#: views/option-tabs/file-tab.php:685 views/option-tabs/file-tab.php:751
+#: views/option-tabs/preload-tab.php:75
+msgid "Add URL"
+msgstr "新增網址"
+
+#: views/option-tabs/file-tab.php:664 views/option-tabs/file-tab.php:679
+#: views/option-tabs/file-tab.php:730 views/option-tabs/file-tab.php:745
+#: views/option-tabs/preload-tab.php:54 views/option-tabs/preload-tab.php:69
+msgid "Remove"
+msgstr "移除"
+
+#: views/option-tabs/file-tab.php:658 views/option-tabs/file-tab.php:673
+#: views/option-tabs/file-tab.php:724 views/option-tabs/file-tab.php:739
+msgid "Enter URL..."
+msgstr "請輸入網址..."
+
+#: views/option-tabs/file-tab.php:647
+msgid "Move JS Files to Footer"
+msgstr "將 JS 檔案移至頁尾"
+
+#: views/option-tabs/advanced-tab.php:342 views/option-tabs/basic-tab.php:481
+#: views/option-tabs/cdn-tab.php:216 views/option-tabs/file-tab.php:773
+#: views/option-tabs/heartbeat-tab.php:208
+#: views/option-tabs/preload-tab.php:185 views/option-tabs/varnish-tab.php:133
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: views/option-tabs/database-tab.php:318
+msgid "Optimize"
+msgstr "最佳化"
+
+#: views/option-tabs/faq-tab.php:220
+msgid "KnowledgeBase article for details."
+msgstr "這份知識庫文章以取得詳細資訊。"
+
+#: views/option-tabs/faq-tab.php:89
+msgid "Breeze handles all WordPress multisite instances globally. All the settings for multisite are now handled on the network level."
+msgstr "Breeze 統一處理全部 WordPress 多站網路中全部網站的快取。全部針對多站網路的設定，均屬於多站網路管理員層級。"
+
+#: views/option-tabs/faq-tab.php:87
+msgid "How does Breeze handle WordPress multisite?"
+msgstr "Breeze 如何處理 WordPress 多站網路的快取？"
+
+#: views/option-tabs/faq-tab.php:228
+msgid "Using Gzip, Breeze compresses the request files, further reducing the size of the download files and speeding up the user experience."
+msgstr "啟用 Gzip 功能後，Breeze 便能壓縮使用者要求的檔案、進一步減少下載檔案的大小，藉以加速以提昇使用者體驗。"
+
+#: views/option-tabs/faq-tab.php:226
+msgid "How Breeze cache uses Gzip?"
+msgstr "Breeze 如何運用 Gzip 功能？"
+
+#: views/option-tabs/faq-tab.php:219
+msgid "Yes. The process of setting up CloudFlare with Breeze is easy. Check out the following "
+msgstr "可以。要讓 Cloudflare 與 Breeze 一起執行的設定程序相當簡單，請參閱"
+
+#: views/option-tabs/faq-tab.php:217
+msgid "Does Breeze Work With CloudFlare?"
+msgstr "Breeze 是否能與 Cloudflare 一起執行？"
+
+#: views/option-tabs/faq-tab.php:212
+msgid "No, Breeze does not support Push CDN. However, you could use Breeze with Push CDNs using third party plugins."
+msgstr "否，Breeze 不支援主動式 CDN，但這個網站可以使用第三方外掛讓 Breeze 與主動式 CDN 同時執行。"
+
+#: views/option-tabs/faq-tab.php:210
+msgid "Does Breeze support Push CDN?"
+msgstr "Breeze 是否支援主動式 CDN？"
+
+#: views/option-tabs/faq-tab.php:204
+msgid "Amazon Cloudfront"
+msgstr "Amazon Cloudfront"
+
+#: views/option-tabs/faq-tab.php:203
+msgid "KeyCDN"
+msgstr "KeyCDN"
+
+#: views/option-tabs/faq-tab.php:202
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: views/option-tabs/faq-tab.php:200
+msgid "Breeze supports the following three popular CDNs:"
+msgstr "Breeze 支援下列 3 個熱門的 CDN:"
+
+#: views/option-tabs/faq-tab.php:198
+msgid "What popular CDN are supported by Breeze Plugin?"
+msgstr "Breeze 支援哪些熱門的 CDN？"
+
+#: views/option-tabs/faq-tab.php:193
+msgid "Yes, Breeze Plugin is compatible with Visual Builder."
+msgstr "是的，Breeze 相容於各款視覺化編輯器。"
+
+#: views/option-tabs/faq-tab.php:185
+msgid "Pingdom"
+msgstr "Pingdom"
+
+#: views/option-tabs/faq-tab.php:184
+msgid "WebPagetest"
+msgstr "WebPagetest"
+
+#: views/option-tabs/faq-tab.php:183
+msgid "Google Page Speed"
+msgstr "Google Page Speed"
+
+#: views/option-tabs/faq-tab.php:181
+msgid "You will be able to see the impact of the Breeze Cache Plugin almost immediately. We also recommend using the following tools for generating metrics:"
+msgstr "使用者可以近乎即時的觀察到 Breeze 快取外掛對網站的加速效果，我們也建議使用下列工具產生指標報告藉以評估成效:"
+
+#: views/option-tabs/faq-tab.php:172
+msgid "You can get your questions answered on the WordPress support forums. If you are a Cloudways customer, please feel free to start a discussion at"
+msgstr "使用者可以在 WordPress 技術支援論壇上提出問題並得到回覆。如果是 Cloudways 的客戶，隨時可以在官方討論區進行討論，也就是 "
+
+#: views/option-tabs/faq-tab.php:170
+msgid "Where can I get support for Breeze?"
+msgstr "在何處可以取得 Breeze 外掛的技術支援？"
+
+#: views/option-tabs/faq-tab.php:165
+msgid "Breeze has been tested to work with all major hosting providers. In addition, major Breeze options such as Gzip, browser cache, minification, grouping, database optimization. CDN integration will work as expected on all hosting providers."
+msgstr "Breeze 在主要的主機服務提供商都進行過測試。此外，Breeze 的主要功能如 Gzip、瀏覽器快取、檔案最小化、合併檔案、資料庫最佳化及 CDN 整合，在全部主機均能正常執行。"
+
+#: views/option-tabs/faq-tab.php:163
+msgid "Does it work with all hosting providers?"
+msgstr "Breeze 可以執行於各家主機服務提供商的主機嗎？"
+
+#: views/option-tabs/faq-tab.php:157
+msgid "this KB to exclude URLs from the Varnish cache."
+msgstr "這篇知識庫文章以了解如何從 Varnish 快取機制中排除特定網址內容。"
+
+#: views/option-tabs/faq-tab.php:156
+msgid "If Varnish is active, you will need to exclude URLs and file type(s) in the Varnish configuration. If you are hosting WordPress websites on Cloudways servers, follow "
+msgstr "Varnish 啟用後，便需要在 Varnish 設定中將網址及檔案類型加以排除。如果這個 WordPress 網站代管於 Cloudways 提供的伺服器，請參閱"
+
+#: views/option-tabs/faq-tab.php:153
+msgid "Can I exclude URLs of individual files and pages from cache?"
+msgstr "是否能從快取中排除個別檔案及頁面的網址？"
+
+#: views/option-tabs/faq-tab.php:148
+msgid "Comments will appear upon moderation as per the comment system (or policy) set in place by the blog owner. Other dynamic changes such as any modifications in files will require a full cache purge."
+msgstr "留言能否即時顯示，會依照網站管理員對留言系統的設定或稽核原則而定；而對動態內容所進行的變更，則必須進行完整的快取清除操作後才能顯示。"
+
+#: views/option-tabs/faq-tab.php:146
+msgid "Will comments and other dynamic parts of my blog appear immediately?"
+msgstr "啟用 Breeze 快取外掛後，網站上的留言及其他動態產生的內容會即時顯示嗎？"
+
+#: views/option-tabs/faq-tab.php:141
+msgid "Breeze's database optimization cleans out unwanted information in a single click."
+msgstr "Breeze 的資料庫最佳化功能，能夠讓網站管理員一鍵清除全部不必要的資料。"
+
+#: views/option-tabs/faq-tab.php:140
+msgid "WordPress databases are notorious for storing information like post revisions, spam comments and much more. Over time, databases l become bloated and it is a good practice to clear out unwanted information to reduce database size and improve optimization."
+msgstr "眾所周知，WordPress 資料庫儲存了文章內容修訂以及垃圾留言等資訊。網站經營一段時間之後，資料庫便會變的臃腫龐大；定期清除資料庫中不需要的資訊，是減少資料庫大小及增進最佳化的最佳方式。"
+
+#: views/option-tabs/faq-tab.php:138
+msgid "What does Breeze's Database Optimization feature do?"
+msgstr "Breeze 的資料庫最佳化功能作用為何？"
+
+#: views/option-tabs/faq-tab.php:133
+msgid "Breeze supports CDN integration. It allows all static assets (such as images, CSS and JS files) to be served via CDN."
+msgstr "Breeze 支援 CDN 整合，整合後便可由 CDN 處理它所產出的全部靜態檔案，如圖片、CSS 以及 JS 檔。"
+
+#: views/option-tabs/faq-tab.php:131
+msgid "Does Breeze support CDN?"
+msgstr "Breeze 是否支援 CDN？"
+
+#: views/option-tabs/faq-tab.php:109
+msgid "Does Breeze have compatibility issues with other known plugins?"
+msgstr "Breeze 是否與其他外掛有相容性問題？"
+
+#: views/option-tabs/faq-tab.php:104
+msgid "Breeze does not require any special configuration to work with HTTP or HTTPS pages."
+msgstr "Breeze 無須任何特殊設定，便能同時處理 HTTP 與 HTTPS 頁面。"
+
+#: views/option-tabs/faq-tab.php:102
+msgid "Is Breeze compatible with HTTPS?"
+msgstr "Breeze 是否與 HTTPS 相容？"
+
+#: views/option-tabs/faq-tab.php:97
+msgid "We strongly recommend that you use Breeze as the only cache plugin for your website. If there are any other cache plugins installed, please ensure that you have disabled them prior to proceeding with the Breeze installation."
+msgstr "我們強烈建議在網站上使用 Breeze，將它作為唯一的快取外掛。如果網站上使用了其他快取外掛，請確保在安裝 Breeze 前已將其停用。"
+
+#: views/option-tabs/faq-tab.php:96
+msgid "We DO NOT recommend using two WordPress cache plugins at the same time on any WordPress website."
+msgstr "我們並不建議在任何 WordPress 網站上同時使用兩個快取外掛。"
+
+#: views/option-tabs/faq-tab.php:94
+msgid "Is Breeze compatible with other WordPress Cache plugins?"
+msgstr "Breeze 是否與其他 WordPress 快取外掛相容？"
+
+#: views/option-tabs/faq-tab.php:82
+msgid "Breeze is fully compatible with WordPress Multisite without the need for any extra configuration."
+msgstr "Breeze 與 WordPress 多站網路功能完全相容，且無須進行任何額外設定。"
+
+#: views/option-tabs/faq-tab.php:80
+msgid "Does Breeze support WordPress Multisite?"
+msgstr "Breeze 是否支援 WordPress 多站網路功能？"
+
+#: views/option-tabs/faq-tab.php:75
+msgid "Breeze is fully compatible with WooCommerce, out of the box. It does not require any special configurations."
+msgstr "Breeze 與 WooCommerce 完全相容，安裝啟用後即可開始執行，且無須進行任何特殊設定。"
+
+#: views/option-tabs/faq-tab.php:73
+msgid "Does Breeze support WooCommerce?"
+msgstr "Breeze 是否支援 WooCommerce？"
+
+#: views/option-tabs/faq-tab.php:68
+msgid "Breeze, by default, supports Varnish. It has been tested to be fully compatible with Cloudways Servers that come with Varnish pre-installed. If you are using hosting providers other than Cloudways, we suggest you confirm Varnish support with your hosting provider."
+msgstr "Breeze 預設支援 Varnish，且完全相容於 Cloudways 已預先安裝 Varnish 的伺服器。如果目前使用的主機並非由 Cloudways 所提供，建議向網站主機代管服務提供商洽詢關於 Varnish 的支援。"
+
+#: views/option-tabs/faq-tab.php:66
+msgid "Does Breeze support Varnish and to what extent?"
+msgstr "Breeze 是否支援 Varnish？支援到哪個程度？"
+
+#: views/breeze-setting-views.php:65
+msgid "FAQs"
+msgstr "常見問題集"
+
+#: views/option-tabs/cdn-tab.php:73
+msgid "CDN CNAME"
+msgstr "CDN CNAME"
+
+#: views/option-tabs/database-tab.php:133
+msgid "Delete expired and active transients from the WordPress database."
+msgstr "從資料庫刪除到期及使用中的選項暫存資料。"
+
+#: views/option-tabs/database-tab.php:269
+msgid "Backup your database before using the following options!"
+msgstr "在執行下列功能前，請先備份網站資料庫！"
+
+#: views/option-tabs/advanced-tab.php:71 views/option-tabs/advanced-tab.php:109
+msgid " article."
+msgstr "文章。"
+
+#: views/option-tabs/advanced-tab.php:71 views/option-tabs/advanced-tab.php:109
+#: views/option-tabs/varnish-tab.php:76
+msgid "Knowledge Base"
+msgstr "知識庫"
+
+#: views/option-tabs/advanced-tab.php:67
+msgid "Add the URLs of the pages (one per line) you wish to exclude from the WordPress internal cache. To exclude URLs from the Varnish cache, please refer to this "
+msgstr "以每行一個的方式加入需要予以排除的 WordPress 內部快取頁面網址。如需排除 Varnish 快取網址，請參閱這篇"
+
+#: views/option-tabs/faq-tab.php:173
+msgid "Cloudways Community Forum."
+msgstr "Cloudways 社群論壇。"
+
+#: views/breeze-setting-views.php:55
+msgid "VARNISH"
+msgstr "VARNISH"
+
+#: views/breeze-setting-views.php:30 views/option-tabs/advanced-tab.php:32
+msgid "ADVANCED OPTIONS"
+msgstr "進階設定"
+
+#: views/breeze-setting-views.php:15 views/option-tabs/basic-tab.php:44
+msgid "BASIC OPTIONS"
+msgstr "基本設定"
+
+#: inc/cache/purge-varnish.php:107
+msgid "Cache data has been purged: "
+msgstr "快取資料已清除: "
+
+#: inc/breeze-admin.php:587
+msgid "Purge Internal Cache"
+msgstr "清除內部快取"
+
+#: inc/breeze-admin.php:340
+msgid "Hide message"
+msgstr "隱藏訊息"
+
+#: inc/breeze-admin.php:338
+msgid "Thanks for installing Breeze. It is always recommended not to use more than one caching plugin at the same time. We recommend you to purge cache if necessary."
+msgstr "感謝採用 Breeze。強烈建議不要同時使用多個快取外掛，如有需要，建議清除快取即可。"
+
+#. Author URI of the plugin
+#: breeze.php
+msgid "https://www.cloudways.com"
+msgstr "https://www.cloudways.com"
+
+#. Author of the plugin
+#: breeze.php
+msgid "Cloudways"
+msgstr "Cloudways"
+
+#. Description of the plugin
+#: breeze.php
+msgid "Breeze is a cache plugin with extensive options to speed up your website. All the options including Varnish Cache are compatible with Cloudways hosting."
+msgstr "Breeze 是一款具有詳盡設定，可為網站進行加速的快取外掛，同時也提供與 Cloudways 主機代管服務相容的 Varnish 快取設定。"
+
+#: views/option-tabs/varnish-tab.php:124
+msgid "Use this option to instantly Purge Varnish Cache on entire website."
+msgstr "使用這項功能便能立即清除整個網站上的 Varnish 快取。"
+
+#: views/option-tabs/varnish-tab.php:118
+msgid "Purge"
+msgstr "清除"
+
+#: inc/breeze-admin.php:578 views/option-tabs/varnish-tab.php:114
+msgid "Purge Varnish Cache"
+msgstr "清除 Varnish 快取"
+
+#: views/option-tabs/varnish-tab.php:102
+msgid "Keep this default if you are a Cloudways customer. Otherwise ask your hosting provider on what to set here."
+msgstr "請注意，如果是 Cloudways 的使用者，請將這項設定維持預設值。如果不是，請向對應的主機代管服務提供商洽詢設定方式。"
+
+#: views/option-tabs/varnish-tab.php:90
+msgid "Varnish Server"
+msgstr "Varnish 伺服器"
+
+#: views/option-tabs/varnish-tab.php:73
+msgid "Seems Varnish is disabled on your Application. Please refer to this"
+msgstr "Varnish 在伺服器的應用程式中遭到停用。請參閱這篇"
+
+#: views/option-tabs/varnish-tab.php:65
+msgid "Keep this option enabled to automatically purge Varnish cache on actions like publishing new blog posts, pages and comments."
+msgstr "啟用這項設定便會自動清除 Varnish 快取，例如在發佈新文章、頁面及留言後自動清除快取。"
+
+#: views/option-tabs/varnish-tab.php:43
+msgid "Auto Purge Varnish"
+msgstr "自動清除 Varnish 快取"
+
+#: views/option-tabs/varnish-tab.php:35
+msgid "By default Varnish is enabled on all WordPress websites hosted on Cloudways."
+msgstr "預設情況下，全部托管於 Cloudways 的 WordPress 網站均已啟用 Varnish。"
+
+#: views/option-tabs/database-tab.php:193
+msgid "Post Revisions"
+msgstr "文章內容修訂"
+
+#: views/option-tabs/cdn-tab.php:207
+msgid "Keep this option enabled. Use this option to enable relative path for your CDN on your WordPress site."
+msgstr "使用這項功能便能為這個 WordPress 網站上的 CDN 內容分流啟用相對路徑 (請保持啟用這項功能)。"
+
+#: views/option-tabs/cdn-tab.php:183
+msgid "Relative Path"
+msgstr "相對路徑"
+
+#: views/option-tabs/cdn-tab.php:171
+msgid "Exclude file types or directories from CDN. Example, enter .css to exclude the CSS files."
+msgstr "排除無需進行 CDN 內容分流的檔案類型或目錄。舉例來說，輸入 .css 便會在進行 CDN 內容分流時排除 CSS 檔案。如需輸入多個項目，請以逗號進行分隔。"
+
+#: views/option-tabs/cdn-tab.php:155
+msgid "Exclude Content"
+msgstr "排除內容"
+
+#: views/option-tabs/cdn-tab.php:142
+msgid "Enter the directories (comma separated) of which you want the CDN to serve the content."
+msgstr "請輸入需要進行 CDN 內容分流的目錄。如需輸入多個目錄，請以逗號進行分隔。"
+
+#: views/option-tabs/cdn-tab.php:127
+msgid "CDN Content"
+msgstr "CDN 內容"
+
+#: views/option-tabs/cdn-tab.php:103
+msgid "Use double slash '//' at the start of CDN CNAME, if you have some pages on  HTTP and some are on HTTPS."
+msgstr "如果這個網站包含 HTTP 及 HTTPS 兩種頁面，在輸入 CDN 主機 CNAME 時僅需輸入雙斜線 //，而無須輸入 HTTP 或 HTTPS。"
+
+#: views/option-tabs/cdn-tab.php:98
+msgid "https://www.domain.com"
+msgstr "https://www.domain.com"
+
+#: views/option-tabs/cdn-tab.php:62
+msgid "Enable to make CDN effective on your website."
+msgstr "為這個網站啟用 CDN 功能。"
+
+#: views/option-tabs/cdn-tab.php:40
+msgid "Activate CDN"
+msgstr "啟用 CDN"
+
+#: views/option-tabs/basic-tab.php:89
+msgid "Mobile Cache"
+msgstr "行動版網站快取"
+
+#: views/option-tabs/basic-tab.php:245
+msgid "Enable this to add expires headers to static files. This will ask browsers to either request a file from server or fetch from the browser's cache."
+msgstr "啟用這項設定便能為靜態檔案加入到期標頭。這將讓瀏覽器決定從伺服器或從瀏覽器快取要求檔案。"
+
+#: views/option-tabs/basic-tab.php:229
+msgid "Browser Cache"
+msgstr "瀏覽器快取"
+
+#: views/option-tabs/basic-tab.php:199
+msgid "Enable this to compress your files making HTTP requests fewer and faster."
+msgstr "啟用這項設定便能將傳輸至使用者瀏覽器的檔案進行壓縮，使 HTTP 要求數更少且傳輸速度更快。"
+
+#: views/option-tabs/basic-tab.php:183
+msgid "Gzip Compression"
+msgstr "Gzip 壓縮"
+
+#: views/option-tabs/basic-tab.php:160
+msgid "Automatically purge internal cache after X minutes. By default this is set to 1440 minutes (1 day)"
+msgstr "在指定時間間隔後自動清除內部快取，預設值為 1440 分鐘 (即 1 天)。"
+
+#: views/option-tabs/basic-tab.php:150
+msgid "Purge Cache After"
+msgstr "清除快取時間間隔"
+
+#: views/option-tabs/basic-tab.php:69
+msgid "This is the basic cache that we recommend should be kept enabled in all cases. Basic cache will build the internal and static caches for the WordPress websites."
+msgstr "這是在全部情況下都應該啟用的基本快取功能。基本快取功能能為 WordPress 網站建立內部快取及靜態快取。"
+
+#: views/option-tabs/basic-tab.php:51
+msgid "Cache System"
+msgstr "快取系統"
+
+#: views/option-tabs/file-tab.php:454
+msgid "Use this option to exclude JS files from Minification and Grouping. Enter the URLs of JS files on each line."
+msgstr "使用這項功能便會將指定的 JS 檔案從 [最小化] 及 [合併檔案] 這兩項功能中排除。請以每行一個的方式輸入 JS 檔案網址。"
+
+#: views/option-tabs/file-tab.php:444
+msgid "Exclude JS"
+msgstr "排除 JS"
+
+#: views/option-tabs/file-tab.php:265
+msgid "Use this option to exclude CSS files from Minification and Grouping. Enter the URLs of CSS files on each line."
+msgstr "使用這項功能便會將指定的 CSS 檔案從 [最小化] 及 [合併檔案] 這兩項功能中排除。請以每行一個的方式輸入 CSS 檔案網址。"
+
+#: views/option-tabs/file-tab.php:254
+msgid "Exclude CSS"
+msgstr "排除 CSS"
+
+#: views/option-tabs/varnish-tab.php:33
+msgid "Varnish"
+msgstr "Varnish"
+
+#: views/breeze-setting-views.php:50 views/option-tabs/cdn-tab.php:33
+msgid "CDN"
+msgstr "CDN"
+
+#: inc/cache/purge-varnish.php:107
+msgid " Kb static cache cleaned"
+msgstr "Kb 靜態快取已清理。"
+
+#: inc/cache/purge-per-time.php:101
+msgid "Cloudways Varnish Purge Interval"
+msgstr "Cloudways Varnish 清除間隔"
+
+#: inc/breeze-admin.php:613
+msgid "Support"
+msgstr "技術支援"
+
+#: inc/breeze-admin.php:603
+msgid "Settings"
+msgstr "設定"
+
+#: inc/breeze-admin.php:555
+msgid "Purge Modules"
+msgstr "清除模組"
+
+#: inc/breeze-admin.php:540
+msgid "Purge All Cache"
+msgstr "清除全部快取"
+
+#. Plugin Name of the plugin
+#: breeze.php inc/breeze-admin.php:439 inc/breeze-admin.php:440
+#: inc/breeze-admin.php:457 inc/breeze-admin.php:458 inc/breeze-admin.php:486
+msgid "Breeze"
+msgstr "Breeze"
